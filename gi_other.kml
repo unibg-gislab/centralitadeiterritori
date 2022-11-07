@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>gi_other</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>http://www.cittaslow.org/template/standard/img_struct/Logo_CittaSlow2.gif</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<Icon>
+				<href>http://www.cittaslow.org/template/standard/img_struct/Logo_CittaSlow2.gif</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>cittaslow</name>
+		<Placemark>
+			<name>Begur</name>
+			<open>1</open>
+			<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/other/Begur.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Begur has important historical remnants that go back in early history. The castle of Begur is a good example of medieval remains. The castle was constructed in the 16th and 17th centuries. The town of Begur also includes Esclanyà (with a Romanesque old part), Aiguafreda, Sa Riera, Sa Tuna, Aiguablava and Fornells. Some of the most prestigious beaches of the Costa Brava can be found here: Sa Riera, Aiguafreda, sa Tuna, Platja Fonda, Fornells and Aiguablava. The latter is also home to a Parador Hotel.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.begur.cat/web/cat/index.php">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+			<LookAt>
+				<longitude>3.202910986795833</longitude>
+				<latitude>41.9544565261787</latitude>
+				<altitude>0</altitude>
+				<heading>0.0003768167522904487</heading>
+				<tilt>28.03219500547322</tilt>
+				<range>620.2714440671584</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>3.202372,41.953777,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id=" 170 ">
+			<name>Pals</name>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/pals.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Pals has a historic centre on a hill surrounded by plains, with a medieval Romanesque tower built between the 11th and 13th centuries, known as Torre de les Hores (Tower of the Hours).<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.pals.cat//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>3.147264,41.970479,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

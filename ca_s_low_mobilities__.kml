@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ca_s_low_mobilities.kml</name>
+	<Style id="sn_503-wht-blank_maps">
+		<IconStyle>
+			<color>ff7faaaa</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_503-wht-blank_maps">
+		<IconStyle>
+			<color>ff7faaaa</color>
+			<scale>0.945455</scale>
+			<Icon>
+				<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_503-wht-blank_maps">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Mobility</name>
+		<Placemark>
+			<name>Riverboat Georgina</name>
+			<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/s-low-mobility/Riverboat%20Georgina.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Riverboat Georgina is used for luxury river cruises along the main river in Cambridge: The Cam. It is available for private hire or public cruises. 
+<br>
+<br>
+<a href=http://www.georgina.co.uk/> www.georgina.co.uk </a><br><br>
+<b>Address:</b> Chesterton Road, Cambridge, CB4 3AX <br>
+</div>
+</body>]]></description>
+			<LookAt>
+				<longitude>0.1241720000205393</longitude>
+				<latitude>52.21372799966681</latitude>
+				<altitude>0</altitude>
+				<heading>1.165173844279055e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.00025183986</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_503-wht-blank_maps</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>0.1241720000205393,52.21372799966681,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>City Cycle Hire</name>
+			<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/s-low-mobility/City%20Cycle%20Hire.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+City Cycle Hire is an inexpensive specialist bike rental service in Cambridge which is a very bike friendly city with plenty of cyclepaths. <br>
+<br>
+<a href=http://www.citycyclehire.com/> www.citycyclehire.com</a><br><br>
+<b>Address:</b> 61 Newnham Road, Cambridge, CB3 9EY<br>
+</div>
+</body>]]></description>
+			<LookAt>
+				<longitude>0.1131670000977314</longitude>
+				<latitude>52.19899900007933</latitude>
+				<altitude>0</altitude>
+				<heading>7.983172372006669e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000156464295</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_503-wht-blank_maps</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>0.1131670000977314,52.19899900007933,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Blue Yonder Tandem Hire and Tours</name>
+			<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/s-low-mobility/Blue%20Yonder%20Tandem%20Hire%20and%20Tours.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Blue Yonder Tandem Hire and Tours offer tandem cycling tours or private hire for couples, family, or friends to explore the city and outlying area. 
+<br>
+<br>
+<a href=http://www.blueyonderhire.co.uk/Frontpage/index.php> www.blueyonderhire.co.uk</a><br><br>
+<b>Address:</b>37 High Street, Longstanton, Cambridge, CB24 3BP<br>
+</div>
+</body>]]></description>
+			<LookAt>
+				<longitude>0.04688828415123635</longitude>
+				<latitude>52.27967775843947</latitude>
+				<altitude>0</altitude>
+				<heading>2.987707277051543e-010</heading>
+				<tilt>0</tilt>
+				<range>1004.30132777466</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_503-wht-blank_maps</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>0.04688828415123636,52.27967775843947,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

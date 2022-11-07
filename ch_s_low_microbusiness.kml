@@ -1,0 +1,1108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ch_s_low_microbusiness.kml</name>
+	<Style id="sn_Restaurant_0_0_040">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/ristorazione.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_Restaurant_0_0_020">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/ristorazione.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_home_0_01">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/ricettivit%C3%A0.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_home_0_01">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_home_0_01</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_home_0_01</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Restaurant_0_0_020">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Restaurant_0_0_040</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Restaurant_0_0_020</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_home_0_01">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/ricettivit%C3%A0.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>ch_s_low_microbusiness</name>
+		<Folder>
+			<name>Ristorazione s-low</name>
+			<Placemark id=" 163 ">
+				<name>Pommeau from the Fleurus orchards</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/microbusiness/PommeaufromtheFleurusorchards.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The orchard Fleurus occupies an area of ??5.5 hectares where 15 different kinds of apples are grown.<br><br>
+<b>Address: </b>Chaussée de Charleroi, 473 6220 Fleurus<br>
+ 
+ 
+<b> </b><a href="http://www.paysdecharleroi.be/index.php?option=com_flexicontent&view=items&cid=342%3Aboissons&id=216705%3Apommeau-des-vergers-de-fleurus&Itemid=1231&lang=fr">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>4.543,50.474,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 153 ">
+				<name>Maustitchi Farm</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/microbusiness/Maustitchi%20Farm.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Gourmet farm. Production of local fruit and vegetables, organic produce, gift boxes and gourmet hampers, products based on mare's milk, cheeses and dairy products. Restaurant. Photo Source: www.opw.be.<br><br>
+ 
+ 
+ 
+<b> </b><a href="http://www.aurayonbio.be/en/producteurs/la-ferme-du-maustitchi">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>4.332011,50.38899799999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 164 ">
+				<name>Les Fraises du Village</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/microbusiness/LesFraisesduVillage.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Production of strawberry, raspberry and other small fruits. <br><br>
+<b>Address: </b>Rue Godiassau, 47 6280 Gerpinnes<br>
+ 
+ 
+<b> </b><a href="http://www.fraisesduvillage.be/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>4.497944,50.34930499999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 159 ">
+				<name>Limousin de la Neuve Cense (Le)</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/microbusiness/Le%20Limousin%20de%20la%20Neuve%20Cense.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Butcher specialising in Limousin meats, charcuteries. Photo Source: www.levisa.be.<br><br>
+ 
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>4.529242,50.334079,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 162 ">
+				<name>La Gayette de Charleroi</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/microbusiness/LaGayettedeCharleroi.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>It is a speciality of Charleroi: chocolate with a form of coal.<br><br>
+<b>Address: </b>Rue Neuve 48, 60 / Bld Tirou 57, Pont de Sambre 12 / Rue de Dampremy 14-16 6000 Charleroi<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>4.324,50.407,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 161 ">
+				<name>Fromagerie-chévrerie &quot;La Herpiniére&quot;</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/microbusiness/Fromageriech%C3%A9vrerieLaHerpiniere.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>A multitude variety of artisanal goat cheeses.<br><br>
+<b>Address: </b>Allée Centrale, 7 6280 Gerpinnes<br>
+ 
+ 
+<b> </b><a href="http://www.entre-sambre-et-meuse.be/la-herpiniere">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>4.470009,50.332,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 151 ">
+				<name>Ferme des Trieux Montois</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/microbusiness/Ferme%20des%20Trieux%20Montois.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Gourmet farm. Production of Omega 3/6 butter, chocolate spread, eggs, potatoes, chicken. Photo Source: www.entre-sambre-et-meuse.be.<br><br>
+<b>Address: </b>Rue de Biesme, 45 6280 Gerpinnes (Fromiée)<br>
+ 
+ 
+<b> </b><a href="http://www.entre-sambre-et-meuse.be/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>4.578,50.331,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 158 ">
+				<name>Domain fo the Gré</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/microbusiness/DomainfotheGr%C3%A9.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Wine and other alcoholic drinks with an speciality the Gré d'or.<br><br>
+<b>Address: </b>Avenue Transversale, 2 6001 Marcinelle<br>
+ 
+ 
+<b> </b><a href="www.levisa.be/domainedugre">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>4.435,50.376,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 157 ">
+				<name>DD Spirits</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/microbusiness/DDSpirits.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Liquor: artisanal alcohol.<br><br>
+<b>Address: </b>Rue du Warchat, 34 6042 Lodelinsart<br>
+ 
+ 
+<b> </b><a href="www.ddspiritueux.net">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>4.43,50.458,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 51 ">
+				<name>Bernardin Fleurusien</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/microbusiness/BernardinFleurusien.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Pastry with almond, speciality of Fleurus<br><br>
+<b>Address: </b>Rue des Bourgeois, 12 6220 Fleurus<br>
+ 
+ 
+<b> </b><a href="http://confreriebernardinsfleurus.be/produits/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>4.55,50.482,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 50 ">
+				<name>Willy Process</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/microbusiness/WillyProcess.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Degustation of honey.<br><br>
+<b>Address: </b>Villas des Roses, 28 6280 Gerpinnes<br>
+ 
+ 
+<b> </b><a href="http://www.paysdecharleroi.be/index.php?option=com_flexicontent&view=items&cid=343%3Achocolat-miel-biscuits&id=216708%3Awilly-process&Itemid=1232&lang=fr">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>4.538,50.334,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Ricettività s-low</name>
+			<Placemark id=" 135 ">
+				<name>Au fil des reves</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/microbusiness/Au%20fil%20des%20r%C3%AAves.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Urban guest rooms in a quiet village close to Charleroi airport. Photo Source: CGT.<br><br>
+<b>Address: </b>Rue de Bruxelles, 95 6210 Les Bons Villers<br>
+ 
+ 
+<b> </b><a href="https://sites.google.com/site/lefildesreves/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>4.403,50.54500000000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 133 ">
+				<name>Chateau de Wanfercée</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/microbusiness/ch%C3%A2teau%20wanferc%C3%A9e.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Set in a castle. Photo Source: CGT.<br><br>
+<b>Address: </b>Rue de la Chapelle, 72 6224 Wanfercée-Baulet<br>
+ 
+ 
+<b> </b><a href="http://www.chateaudewanfercee.be/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>4.594892,50.47632,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 128 ">
+				<name>Campsite Le Trieu du Bois</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/microbusiness/Campsite%20Le%20Trieu%20du%20Bois.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Quiet little campsite in a green and wooded area. Hikes and bike tours in the "Land of Geminiacum". Photo Source: www.trieudubois.be.<br><br>
+<b>Address: </b> Rue Picolome 63, 6238 Luttre<br>
+ 
+ 
+<b> </b><a href="http://www.lacsdeleaudheure.be/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>4.401,50.40009899999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 136 ">
+				<name>Conciergerie du Cheval Blanc</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/microbusiness/Conciergerie%20du%20Cheval%20Blanc.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Urban gîte easily accessible by public transport. Restaurant is situated at a distance of 500 m. Photo Source: CGT.<br><br>
+<b>Address: </b>Rue du Cheval Blanc, 17 6238 Luttre<br>
+ 
+ 
+<b> </b><a href="http://conciergerie-du-cheval-blanc.skynetblogs.be/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>4.39,50.505,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 129 ">
+				<name>Chambres avec Vue</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/microbusiness/Chambres%20avec%20Vue.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Set in an artist's house, there are two themed guest rooms. Photo Source: CGT.<br><br>
+<b>Address: </b>Rue du Basson 30, 6001 Marcinelle<br>
+ 
+ 
+<b> </b><a href="www.chambres-avec-vue.be">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>4.444623,50.400453,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 148 ">
+				<name>Ferme Chateau De Laneffe</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/microbusiness/ferme%20ch%C3%A2teau%20Laneffe.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Self catering accommodation. Photo Source: CGT.<br><br>
+<b>Address: </b>Grand'Route 45 5651 Laneffe<br>
+ 
+ 
+<b> </b><a href="http://www.ferme-chateau-laneffe.com/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>4.491564,50.280916,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 138 ">
+				<name>Ferme de Courriaulx</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/microbusiness/Ferme%20de%20Courriaulx.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Rural gîte installed in an old carriage house. Photo Source: CGT.<br><br>
+<b>Address: </b>Rue de courriaulx, 7 6230 Pont-à-Celles<br>
+ 
+ 
+<b> </b><a href="http://www.courriaulx.net/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>4.365,50.505,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 143 ">
+				<name>Gîte de l&apos;Espinette</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/microbusiness/g%C3%AEtes%20espinette.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Self catering. Close to Charleroi airport. Photo Source: CGT.<br><br>
+<b>Address: </b>Rue de Bruxelles 124 6210 Rèves (Les Bons Villers)<br>
+ 
+ 
+<b> </b><a href="http://www.gitedelespinette.be/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>4.300099,50.54500000000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 149 ">
+				<name>La Gentilhohmmiere du Château de Ragnies</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/microbusiness/la-gentilhommiere-Ragnies.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Self catering accommodation. Photo Source: CGT.<br><br>
+<b>Address: </b>Rue du Tambourin,6 6532 Ragnies<br>
+ 
+ 
+<b> </b><a href="http://www.beauxvillages.be/sejourner/gites/gentilhommiere-la.htm?lng=fr">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>4.281,50.306,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 134 ">
+				<name>Le Temps d&apos;un Week-end</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/microbusiness/le-temps-dun-weekend-5.JPG"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b> set in the middle of the fields in a few km from Charleroi airport. Photo Source: CGT<br><br>
+ 
+ 
+ 
+<b> </b><a href="http://www.letempsdunweekend.be/fr/bed-and-breakfast/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>4.372,50.501,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 132 ">
+				<name>Les Gites du Pays de Charleroi</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/microbusiness/LesGitesduPaysdeCharleroi.jpg?attredirects=0"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Two gîtes flats in an early 20th century house in the centre of Charleroi. Photo Source: CGT.<br><br>
+<b>Address: </b>Rue deMontigny, 93 6000 Charleroi<br>
+ 
+ 
+<b> </b><a href="www.gitesdupaysdecharleroi.com">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>4.447728,50.407108,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 140 ">
+				<name>Ferme Joli Jean</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/microbusiness/Ferme%20Joli%20Jean.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Self catering accommodation. Photo Source: CGT.<br><br>
+<b>Address: </b>Sart-Haut, 1 6210 Les Bons Villers<br>
+ 
+ 
+<b> </b><a href="www.fermejolijean.be">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>4.399,50.547,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 147 ">
+				<name>Gîte de Natafée</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/microbusiness/g%C3%AEte%20natafee.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Self catering accommodation. Photo Source: CGT.<br><br>
+<b>Address: </b>Rue de la Blanchisserie,3 6280 Gerpinnes<br>
+ 
+ 
+<b> </b><a href="www.natafee.be">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>4.512,50.35900000000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 146 ">
+				<name>Les Bruyéres</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/microbusiness/g%C3%AEtes%20les%20bruy%C3%A8res.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>A nearly 2-hundred-year-old farmhouse in the small village of Joncret.<br><br>
+<b>Address: </b>Rue de la Bruyère, 5 6280 Gerpinnes<br>
+ 
+ 
+<b> </b><a href="www.lesbruyeresgerpinnes.com">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>4.508228,50.35169,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 139 ">
+				<name>Gîte de Rosseignies</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/microbusiness/G%C3%AEte%20de%20Rosseignies.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Farmhouse. Photo Source: CGT.<br><br>
+<b>Address: </b>Rue de Lamblemont, 6 6230 Pont-à-Celles<br>
+ 
+ 
+<b> </b><a href="http://www.gitederosseignies.be/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>4.325008,50.543912,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 137 ">
+				<name>Le Coteau du Buzet</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/microbusiness/Le%20Coteau%20du%20Buzet.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Rural gîte set in a farm house. Railway station is situated at a distance of 500 m. It is 10 km far from Charleroi airport. Photo Source: CGT.<br><br>
+<b>Address: </b>Rue du Marais, 11 6230  Pont-à-Celles<br>
+ 
+ 
+<b> </b><a href="http://home.scarlet.be/lecoteaudubuzet/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>4.367,50.53599999999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 144 ">
+				<name>La Haie aux Loups</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/microbusiness/La%20Haie%20aux%20Loups.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Self catering accommodation. Photo Source: CGT.<br><br>
+<b>Address: </b>Rue du Bois d'Hymiée 3, 6280 Gerpinnes<br>
+ 
+ 
+<b> </b><a href="http://www.githalou.be/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>4.560009,50.33,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 141 ">
+				<name>Gîte de Pierpont</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/microbusiness/G%C3%AEte%20de%20Pierpont.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Self catering accommodation. Photo Source: CGT.<br><br>
+ 
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>4.424,50.541,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 145 ">
+				<name>L&apos;Adele</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/microbusiness/g%C3%AEtes%20Adele.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Self catering accommodation. Photo Source: CGT.<br><br>
+<b>Address: </b>Rue Principale,1 6280 Gerpinnes<br>
+ 
+ 
+<b> </b><a href="http://gite-adele-fromiee.jimdo.com/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>4.576,50.332,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 39 ">
+				<name>Verger des Coccinelles</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/microbusiness/Verger%20des%20Coccinelles.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Self catering accomodation - farm house. Photo Source: CGT.<br><br>
+<b>Address: </b>Chaussée de Nivelles 624a - 6230 Buzet <br>
+ 
+ 
+<b> </b><a href="https://sites.google.com/site/charleroislow/microbusiness/Verger%20des%20Coccinelles.jpg">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>4.383,50.53599999999999,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

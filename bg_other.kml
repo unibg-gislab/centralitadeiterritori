@@ -1,0 +1,1930 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>bg_other.kml</name>
+	<StyleMap id="msn_movies">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_movies</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_movies</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_movies2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_movies2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_movies2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_movies">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.05</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/movies.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_movies2">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.05</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/movies.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_movies">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/movies.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_movies2">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/movies.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>bg_other</name>
+		<Folder>
+			<name>eventi</name>
+			<Placemark>
+				<name>Sagra della patata (Martinengo) - Settembre</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/unislowbg/z-progetti-pilota/castelli/eventi-tradizioni/Festa%20delle%20patate%20di%20martinengo.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+La celebre sagra della patata si svolge nel centro storico del comune di Martinengo. Ogni anno viene organizzato un calendario di attività e rievocazioni storiche; itinerari culturali per il paese e gastronomici, con i piatti della tradizione a basa di patate, che coinvolgono ristoranti e aziende agricole del territorio. Per tutto il giorno sono allestiti i tradizionali banchi per la promozione e vendita della patata di Martinengo e altri prodotti tipici locali insieme ad una mostra di antichi attrezzi del mondo contadino.<br>
+<br>
+<a href= http://martinengo.org/2013/10/fotogallery-sagra-della-patata/> www.martinengo.org</a><br><br>
+<b>Periodo:</b> Fine settembre<br>
+<b>Informazioni e prenotazioni:</b> Pro Loco – IAT Martinengo 0363986031, info@martinengo.org <br>
+<b>Luogo:</b> centro storico di Martinengo<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>9.657952786695496</longitude>
+					<latitude>45.58289931015704</latitude>
+					<altitude>0</altitude>
+					<heading>22.27343430709967</heading>
+					<tilt>48.44964552950822</tilt>
+					<range>38881.16495137927</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_movies</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>9.756692245478584,45.55576857607021,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fiera Agricola - Aprile</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/unislowbg/z-progetti-pilota/treviglio-cittaslow/fiera-agricola-treviglio.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Mostra mercato di bestiame, attrezzature, macchine agricole, agroalimentare e florovivaisti..<br>
+<br>
+<b>Indirizzo :</b> Viale Merisio, Treviglio <br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>9.604010999977497</longitude>
+					<latitude>45.51882300021022</latitude>
+					<altitude>0</altitude>
+					<heading>-1.608804071751284e-011</heading>
+					<tilt>0</tilt>
+					<range>1000.000138662019</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_movies2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>9.604050795136645,45.51876258567216,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sagra di Sant&apos;Anna - Luglio</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/unislowbg/z-progetti-pilota/treviglio-cittaslow/sagra%20santanna.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+La Sagra di Sant’Anna, svolta ogni anno a luglio è un’iniziativa principalmente dedicata alle donne che prevede camminate e aperitivi solidali, mostra di immagini sacre e foto storiche e visite guidate ai palazzi di via Gallari.<br>
+<br>
+<b>Indirizzo :</b> Centro storico di Treviglio <br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>9.591224969223273</longitude>
+					<latitude>45.52060429262612</latitude>
+					<altitude>0</altitude>
+					<heading>1.975371629417405</heading>
+					<tilt>31.02427444889933</tilt>
+					<range>799.8019754049071</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_movies2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>9.59285221761191,45.52085990779067,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mostra Mercato Agroalimentare - Settembre</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/unislowbg/z-progetti-pilota/treviglio-cittaslow/mostra%20mercato%20agricolo.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+<br>
+La mostra prevede degustazioni di prodotti tipici bergamaschi e dimostrazioni con antiche macchine per la lavorazione del mais, oltre alla sfornatura di pane artigianale del panificio Ferrandi.<br>
+
+<b>Indirizzo :</b> Piazza Cameroni, Treviglio <br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>9.59536711829943</longitude>
+					<latitude>45.52081497901819</latitude>
+					<altitude>0</altitude>
+					<heading>-0.04434182515109281</heading>
+					<tilt>39.98663157963061</tilt>
+					<range>896.2455287450331</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_movies2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>9.596276105372681,45.51992204585405,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Storie e sapori nei cortili - Ottobre</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/unislowbg/z-progetti-pilota/treviglio-cittaslow/sagra.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Iniziativa per il recupero dei piccoli e grandi tesori culturali, fatti di storie, tradizioni e sapori della città. Storie e sapori nei cortili è un itinerario culturale ed enogastronomico che consente ai partecipanti di scoprire le bellezze artistiche della città e al tempo stesso di assaggiare prodotti e piatti tipici del territorio.
+In ogni cortile o piazza (sei in totale i punti del tour), oltre alle possibilità di  degustazioni sono presenti musicisti e info-point per informazioni e prenotazioni al tour.<br>
+<br>
+<b>Indirizzo :</b> Centro Storico di Treviglio <br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>9.595726417224922</longitude>
+					<latitude>45.5197144662008</latitude>
+					<altitude>0</altitude>
+					<heading>-4.807852690062268</heading>
+					<tilt>30.00705685917768</tilt>
+					<range>1571.591384337637</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_movies2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>9.593158412163403,45.51973441083766,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Festa Annuale - Settembre</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/unislowbg/z-progetti-pilota/treviglio-cittaslow/festa%20annuale.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+A Settembre giornata dedicata a banchetti e assaggi dei fornitori locali e viaggi alla scoperta del caffè buono e giusto. Aperitivo solidale, pranzo e finale in musica.
+Ogni partecipante deve portare prodotti dolci o salati da condividere e vecchi vestiti da riciclare.
+<br>
+<br>
+<b>Indirizzo :</b> Parco del Roccolo di Treviglio<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>9.585773834393548</longitude>
+					<latitude>45.52585485579638</latitude>
+					<altitude>0</altitude>
+					<heading>-0.1994888478486246</heading>
+					<tilt>42.35431875317575</tilt>
+					<range>9735.108953723426</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_movies2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>9.563446735110004,45.51918383180345,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>La Turta de Treì - settembre</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/unislowbg/z-progetti-pilota/treviglio-cittaslow/turta%20de%20tre%C3%AC.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+L’iniziativa, a cui sono dedicati due giorni di settembre, prevede la degustazione del dolce tipico del paese. <br>
+<br>
+<b>Indirizzo :</b> Piazza Manara e Piazza Cameroni, Treviglio <br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>9.595754430251958</longitude>
+					<latitude>45.5206597254175</latitude>
+					<altitude>0</altitude>
+					<heading>-0.005808881897819322</heading>
+					<tilt>7.184276703234392</tilt>
+					<range>598.4225030455023</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_movies2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>9.595808981194661,45.51967580375425,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10.000 passi al centro della città - da giugno a settembre</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/unislowbg/z-progetti-pilota/treviglio-cittaslow/camminatatreviglio.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Iniziativa proposta da giugno a settembre per promuovere il benessere e  recuperare il rapporto con il territorio. Vengono proposte camminate su percorsi all’aria aperta, con arrivo e partenza al Centro commerciale. L’appuntamento si svolgerà con cadenza settimanale e sotto la guida di un walking leader. L’obiettivo è quello di fare scoprire ai partecipanti le bellezze del territorio e consolidarne il legame.<br>
+<br>
+<b>Indirizzo :</b> Treviglio, con partenza dal Centro Commerciale<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>9.582452779254133</longitude>
+					<latitude>45.52067440130269</latitude>
+					<altitude>0</altitude>
+					<heading>0.01599649628004057</heading>
+					<tilt>0.01349855299349073</tilt>
+					<range>1004.908009771109</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_movies2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>9.582439453159706,45.52106197241771,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Slow Food Day - maggio 2014</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/unislowbg/z-progetti-pilota/treviglio-cittaslow/slowfood%20day.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Celebrazione del cibo buono, pulito e giusto. Numerose proposte gastronomiche tra cui grigliate, assaggi di formaggi a Km0, degustazione e vendita di birre artigianali, degustazione di vini, sorbetti e gelati artigianali e piccoli laboratori del gusto. L’intero ricavato è devoluto al progetto SlowFood 10.000 orti in Africa.<br>
+<br>
+<b>Indirizzo :</b> Quartiere Geromina, Treviglio <br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>9.580447086430528</longitude>
+					<latitude>45.5379600861552</latitude>
+					<altitude>0</altitude>
+					<heading>0.01323622112158943</heading>
+					<tilt>0.01350770360909028</tilt>
+					<range>4105.180634977131</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_movies2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>9.576956918163052,45.5339703914611,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Se investi sul futuro ci guadagni di sicuro - novembre e dicembre 2012</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/unislowbg/z-progetti-pilota/treviglio-cittaslow/energy%20day.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+<br>
+Se investi sul futuro ci guadagni di sicuro è un progetto di sensibilizzazione sui temi del risparmio energetico e dello sviluppo sostenibile che nel 2012 ha coinvolto 59 comuni bergamaschi, tra cui Treviglio.  Il progetto ha proposto un Energy Day che ha previsto un tour con visite guidate a edifici a  basso impatto energetico o a energia rinnovabile e lo spettacolo Diamoci una Scossa presso il teatro Filodrammatici per parlare di energia e sostenibilità con ironia e cratività. <br>
+<b>Indirizzo :</b> Treviglio <br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>9.592878794794665</longitude>
+					<latitude>45.52112247578484</latitude>
+					<altitude>0</altitude>
+					<heading>4.066855248141891</heading>
+					<tilt>31.95260767878334</tilt>
+					<range>742.5320906094713</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_movies2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>9.591193176885572,45.5217177646104,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ne vado Fieno (Ghisalba) - Maggio</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/unislowbg/z-progetti-pilota/castelli/eventi-tradizioni/A%20colpi%20di%20fieno%20ghisalba.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Durante il palio di Ghisalba si svolge questa tipica e bizzarra gara a colpi di balle di fieno. Nel corso degli anni è stato creato un vero e proprio regolamento, la competizione si svolge a squadre, ognuna delle quali è composta da 8 atleti che dovranno competere contro il tempo, spingendo una balla di fieno di 400 chilogrammi, in un percorso prestabilito che si snoda lungo le strade principali del paese. Inoltre sono punti ristoro di prodotti biologici e degustazione di birre artigianali.<br>
+<br>
+<a href= http://bassabergamascaorientale.it/ai1ec_event/ne-vado-fieno/?instance_id=> Bassabergamascaorientale</a><br><br>
+<b>Periodo:</b> Maggio <br>
+<b>Luogo:</b> Piazza Garibaldi, Ghisalba<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>9.657952786695496</longitude>
+					<latitude>45.58289931015704</latitude>
+					<altitude>0</altitude>
+					<heading>22.27343430709967</heading>
+					<tilt>48.44964552950822</tilt>
+					<range>38881.16495137927</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_movies2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>9.751936821086098,45.57846903266783,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>I due castelli in festa (Cavernago) -  Agosto/settembre</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/unislowbg/z-progetti-pilota/castelli/eventi-tradizioni/Festa%20dei%20due%20Castelli%20Cavernago.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Due Castelli in Festa: il Castello di Malpaga e il Castello di Cavernago saranno aperti al pubblico con visite guidate che vi trasporteranno in un'epoca lontana ricca di storia, condottieri. In programma: attività sportive e animazione, musica e danze, momenti culturali e gastronomici, ma soprattutto sfilate di figuranti in costumi d'epoca, giostre cavalleresche e giochi medievali.<br>
+<br>
+<a href= http://www.castellomalpaga.it/> www.castellomalpaga.it </a><br><br>
+<b>Periodo:</b> Fine agosto, inizio settembre<br>
+<b>Luogo:</b> Via Castello, 1, Cavernago  e Piazza Castello fraz. Malpaga, Cavernago <br>
+</div>
+</body]]></description>
+				<LookAt>
+					<longitude>9.769146992623544</longitude>
+					<latitude>45.6232379300207</latitude>
+					<altitude>0</altitude>
+					<heading>-0.04587103544563082</heading>
+					<tilt>30.00897331532949</tilt>
+					<range>2352.021603331023</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_movies2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>9.769146992623544,45.6232379300207,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>La festa in Rocca (Urgnano) - Luglio</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/unislowbg/z-progetti-pilota/castelli/eventi-tradizioni/Festa%20%20in%20rocca%2C%20Urgnano.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+La "Festa in Rocca“ è una delle più longeve manifestazioni storiche con rievocazioni medioevali e scene animate che si snodano all'interno e all'esterno del castello. Sarà possibile visitare il bellissimo castello e ripercorrere gli eventi che ne hanno contraddistinto la storia, grazie alle scene rappresentate nelle varie sale con balli, combattimenti e molti altri avvenimenti accaduti veramente nel maniero. Saranno organizzati: pranzi e cene con i piatti tipici della tradizione medievale; assistere a scontri armati nel fossato del castello e al suggestivo assedio del castello con lanci di frecce e palle infuocate; sempre nel fossato i visitatori potranno rivivere la quotidianità di un vero accampamento medioevale; serate a tema letterari e storici.<br>
+<br>
+<a href= http://www.apu3000.it/> Associazione Promo Urgnano</a><br><br>
+<b>Periodo:</b> Luglio, due settimane<br>
+<b>Luogo:</b> Rocca di Urgnano, Via rocca, Urgnano<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>9.657952786695496</longitude>
+					<latitude>45.58289931015704</latitude>
+					<altitude>0</altitude>
+					<heading>22.27343430709967</heading>
+					<tilt>48.44964552950822</tilt>
+					<range>38881.16495137927</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_movies2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>9.703317308924673,45.61617347285833,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Assedio al castello (Pagazzano) - Luglio</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/unislowbg/z-progetti-pilota/castelli/eventi-tradizioni/Assedio%20al%20castello3.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Rivivere l’atmosfera del castello, due giorni di spettacoli, mercatini medievali, esibizioni di scherma storica e accampamenti militari.<br>
+<br>
+<a href= http://www.castellodipagazzano.it/index.php?pg=eventi#eventi> www.castellodipagazzano.it</a><br><br>
+<b>Periodo:</b> Luglio <br>
+<b>Luogo:</b> Piazza Castello, 1, Pagazzano<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>9.654315288390432</longitude>
+					<latitude>45.55758965754296</latitude>
+					<altitude>0</altitude>
+					<heading>22.2707402998714</heading>
+					<tilt>48.3023158736755</tilt>
+					<range>16881.41734555801</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_movies2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>9.672622321051925,45.52666766889468,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rievocazione Storica (Brignano) - Giugno</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/unislowbg/z-progetti-pilota/castelli/eventi-tradizioni/Rievocazione%20Brignano.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Ogni anno nella storica città di Brignano Gera d’adda viene organizzata dalla pro loco e dalla compagnia atipicateatrale, una rievocazione storica. Vengono organizzate rappresentazioni sulla storia della città di Brignano e sui suoi personaggi (la nobile famiglia dei Visconti), con degustazioni di prodotti tipici.<br>
+<br>
+<a href= http://www.brignanoproloco.com/index_file/Page1722.htm> www.brignanoproloco.com</a><br><br>
+<b>Periodo:</b> Giugno <br>
+<b>Luogo:</b> Palazzo Visconti, Via Vittorio Emanuele II, 36/A, Brignano Gera d’Adda<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>9.654315288390432</longitude>
+					<latitude>45.55758965754296</latitude>
+					<altitude>0</altitude>
+					<heading>22.2707402998714</heading>
+					<tilt>48.3023158736755</tilt>
+					<range>16881.41734555801</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_movies2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>9.643724679149372,45.53466882496894,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fiera di San Matteo - Branzi</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/unislowbg/z-progetti-pilota/orobie/fiera%20san%20matteo.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+L’Associazione Fiera di San Matteo, ha sede in Branzi, via Roma, 6. È nata nel giugno 2007 con la ferma intenzione di porsi come volano nell'ideazione e strutturazione d'iniziative volte al miglioramento del territorio, attraverso lo sviluppo sinergico del settore agroalimentare e turistico. L'Associazione è un ente senza fini di lucro, che intende uniformarsi nello svolgimento della propria attività ai principi di democraticità interna della struttura, di elettività e di gratuità delle cariche associative ed ha per scopo: la divulgazione della tradizione culturale, agricola e sociale locale con particolare riferimento alla Fiera di San Matteo di Branzi, L'organizzazione, gestione e partecipazione di eventi, manifestazioni e fiere e la loro promozione. La valorizzazione territoriale legata allo sviluppo locale culturale, ambientale, agricolo e zootecnico consentono di archiviare la risorsa come S-low.<br>
+<br>
+<a href= http://www.fierasanmatteo.it > www.fierasanmatteo.it </a><br><br>
+<b>Periodo:</b> Seconda quindicina di settembre<br>
+<b>Informazioni:</b> Associazione Fiera di San Matteo Via Roma,6 -24010 BRANZI (BG) info@fierasanmatteo.it <br>
+<b>Luogo:</b> Branzi (BG)<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>9.737850383153395</longitude>
+					<latitude>45.99861783670062</latitude>
+					<altitude>0</altitude>
+					<heading>-0.05480042133578265</heading>
+					<tilt>41.96348244542352</tilt>
+					<range>3929.281352681019</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_movies2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>9.758279027344488,46.00352515736995,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Festa della Pisa Egià - Santa Brigida</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/unislowbg/z-progetti-pilota/orobie/pisa.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Sono risuonati anche quest’anno a Santa Brigida, la vigilia dell’Epifania, i suoni dei campanacci per la tradizione della "Pisa egia". La manifestazione è iniziata in serata attorno a un grande falò incendiato nel campo sportivo di Santa Brigida. Da lì, un corteo formato da un centinaio di persone con i campanacci del bestiame legati ai fianchi si è snodato lungo le vie del paese. I suoni striduli e assordanti dei «ciocc» hanno raggiunto le contrade Monticello e Foppa, con soste durante la sfilata all’ingresso di ogni bar e ristorante. Numerose anche le soste in cerchio per l’esibizione di semplici melodie create per i numerosi spettatori affacciati alle finestre o scesi in strada per assistere al passaggio del corteo della Pisa egia.  Secondo la tradizione popolare, la tradizione ricorda un avvenimento storico del 1600, quando i governatori della Valsassina volevano imporre agli abitanti della Valle Averara una nuova unità di misura per il peso delle merci. I commercianti riuscirono, però a trattare con gli amministratori della Valsassina e a mantenere la vecchia unità di misura, ovvero la Pisa egia. I valligiani suonarono quindi i campanacci per festeggiare l’evento.  <br>
+<br>
+<a href= http://www.provinciabergamasca.com/vallebrembana/santabrigida/manifestazioni.html>www.provinciabergamasca.com/vallebrembana/santabrigida/manifestazioni.html</a><br><br>
+<b>Periodo:</b> Fine Gennaio <br>
+<b>Informazioni e prenotazioni:</b> Comune di Santa Brigida  <br>
+<b>Luogo:</b> Santa Brigida e frazioni limitrofe<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>9.62129874502234</longitude>
+					<latitude>45.97989634875539</latitude>
+					<altitude>0</altitude>
+					<heading>-0.07282196418470933</heading>
+					<tilt>0.148777436914724</tilt>
+					<range>1951.463061935708</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_movies2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>9.621452538176671,45.98065426990031,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>La Scasada del Zenerù - Ardesio</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/unislowbg/z-progetti-pilota/Vivi-Ardesio-Tradizioni-Zeneru.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+appuntamento astronomico che dà il via ai giorni della merla, considerata fin dall’antichità cerniera tra inverno e primavera- si riuniscono ad Ardesio per “scacciare” l’inverno, facendo un gran baccano con campanacci, tolle, padelle e tutto ciò con cui si può far rumore, in un corteo per le vie del paese che segue il famoso fantoccio, il quale, ogni anno con sembianze diverse, rappresenta la fredda stagione, che verrà simbolicamente cacciata bruciando attraverso un meraviglioso e suggestivo falò.<br>
+<br>
+<a href= http://www.viviardesio.it/2014/01/11/la-scasada-del-zeneru-2014/> www.viviardesio.it/2014/01/11/la-scasada-del-zeneru-2014/</a><br><br>
+<b>Periodo:</b> 31 Gennaio <br>
+<b>Informazioni e prenotazioni:</b>Pro Loco ARDESIO Tel. 0346.33035 Email - info@comune.ardesio.bg.it<<br>
+<b>Luogo:</b> Centro di Ardesio<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>9.925242434147069</longitude>
+					<latitude>45.93909982456565</latitude>
+					<altitude>0</altitude>
+					<heading>5.754941373040722e-006</heading>
+					<tilt>0</tilt>
+					<range>6274.307744541077</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_movies2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>9.932231014950109,45.93942359429187,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Erbe del Casaro - Val Brembana</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/unislowbg/z-progetti-pilota/orobie/erbe%20del%20casaro.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Averara, Cassiglio, Cusio, Mezzoldo, Olmo al Brembo, Ornica, Piazza Brembana, Piazzatorre, Piazzolo, Santa Brigida e Valtorta: undici paesi dell'Alta Valle Brembana che esalteranno i prodotti e le tradizioni gastronomiche della Valle Brembana con un programma di iniziative e appuntamenti gastronomici atti alla valorizzazione di erbe spontanee, formaggi brembani e vini della bergamasca. Ristoranti, aziende agricole e vari operatori di Altobrembo metteranno in mostra le ricchezze gastronomiche della Valle, frutto di cultura, saperi e tradizioni del territorio e delle sue genti.<br>
+<br>
+<a href= http://erbedelcasaro.it > www.erbedelcasaro.it </a><br><br>
+<b>Periodo:</b> Ultima settimana di Maggio e prima di Giugno <br>
+<b>Informazioni e prenotazioni:</b> 
+IAT AltoBrembo 348.1842781 www.altobrembo.it/ info@altobrembo.it<br>
+<b>Luogo:</b> Tutti comuni dell’Alto Brembo <br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>9.663536233255814</longitude>
+					<latitude>45.99226210329936</latitude>
+					<altitude>0</altitude>
+					<heading>-0.07001386908845343</heading>
+					<tilt>0</tilt>
+					<range>22139.18979664401</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_movies2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>9.711347844342219,46.00246326271608,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Festa della Sacra Spina - San Giovanni Bianco</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/unislowbg/z-progetti-pilota/orobie/sacra%20spina.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Sul piano religioso, la solennità della Sacra Spina, che si celebra ogni anno la quinta domenica di Quaresima, è preceduta da una novena di preparazione, caratterizzata da una serie di incontri di preghiera rivolti alle varie categorie sociali, da elevazioni musicali e da celebrazioni liturgiche presiedute da eminenti prelati. La sera della vigilia al carattere religioso della festa si affianca quello tipico della sagra paesana, l’imponente e multiforme illuminazione trasforma il paese in un tripudio di luci e colori, la parrocchiale, i ponti, le case si addobbano di variopinte luminarie, sopra la corrente del Brembo viene disegnata l’immagine della reliquia e migliaia di lumini vengono collocati sulle sponde del fiume e fatti scorrere sull’acqua, mentre sulle alture circostanti si accendono decine di imponenti falò, eco gioioso di antichi riti popolari. Più tardi la gente si accalca nella piazza Zignoni, antistante la chiesa, per assistere al concerto del Corpo Musicale, poi invade le vie del centro, attratta dalle tradizionali bancarelle, prima di assistere allo straordinario spettacolo pirotecnico, ogni anno sempre nuovo e sorprendente, con i suoi numeri che  non hanno eguali in tutta la valle.<br>
+<br>
+<a href= http://provinciabergamasca.com/vallebrembana/sangiovannibianco/s_spina/> provinciabergamasca.com/vallebrembana/sangiovannibianco/s_spina/ </a><br><br>
+<b>Periodo:</b> Seconda metà di Marzo <br>
+<b>Informazioni e prenotazioni:</b> Pro Loco – San Giovanni Bianco 340.2393747<br>
+<b>Luogo:</b> San Giovanni Bianco  <br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>9.651371632730587</longitude>
+					<latitude>45.87073658024762</latitude>
+					<altitude>0</altitude>
+					<heading>-0.1217799103280569</heading>
+					<tilt>0.6703436270815291</tilt>
+					<range>6899.36108036821</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_movies2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>9.655309552814265,45.87239763049143,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Carnevale nella Terra di Arlecchino - San Giovanni Bianco</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/unislowbg/z-progetti-pilota/arlecchino.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+L'oratorio di San Giovanni Bianco, in collaborazione con il Lab-oratorio teatrale, i Volontari del soccorso e il gruppo Arlechì e chi oter Zani so fradei, hanno organizzato, con il contributo della Pro loco, il tradizionale Carnevale. La sfilata di San Giovanni Bianco da alcuni anni apre di fatto il Carnevale in terra bergamasca, anticipando le feste degli altri paesi. E non potrebbe essere altrimenti visto che proprio qui, nella frazione Oneta, c’è la Casa di Arlecchino, per tradizione o leggenda, considerata la patria da cui prese le mosse un attore interprete della maschera multicolore bergamasca.
+br>
+<br>
+<a href= http://www.sangiovannibianco.provinciabergamasca.com> www.sangiovannibianco.provinciabergamasca.com</a><br><br>
+<b>Periodo:</b> Tra Febbraio e Marzo <br>
+<b>Informazioni e prenotazioni:</b> Pro Loco – San Giovanni Bianco 340.2393747 <br>
+<b>Luogo:</b> San Giovanni Bianco <br>
+</div>
+</body]]></description>
+				<LookAt>
+					<longitude>9.651371632730587</longitude>
+					<latitude>45.87073658024762</latitude>
+					<altitude>0</altitude>
+					<heading>-0.1217799103280569</heading>
+					<tilt>0.6703436270815291</tilt>
+					<range>6899.36108036821</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_movies2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>9.650544265679834,45.8718166792507,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Concorso caseario Gromo in Forma</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/unislowbg/z-progetti-pilota/orobie/gromo%20in%20forma.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Tra le manifestazioni più interessanti, non possiamo dimenticare Arte e mestieri nel borgo ,agosto, con la riproposizione delle antiche attività del borgo, Gromo sempre in forma, piccola fiera enogastronomica dedicata a formaggi e salumi seriani che si tiene a inizio estate, la giornata della Bandiera Arancione, con visite al Borgo, e l’ormai celebre concorso di Poesia dialettale lombarda Penna d’Oro. E inoltre la caratteristica corsa podistica Correndo nel Borgo Medievale, concerti, gospel e molto ancora. Lo stretto legame tra evento e genius loci catalogano questa come risorsa S-low.<br>
+<br>
+<a href= http://www.gromo.eu> www.gromo.eu</a><br><br>
+<b>Periodo:</b>  Maggio <br>
+<b>Informazioni e prenotazioni:</b> Presso Ufficio Turistico di Gromo – 0346 41345 Ufficio turistico@comune.gromo.bg.it <br>
+<b>Luogo:</b> Piazza Dante Gromo<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>9.927555798935181</longitude>
+					<latitude>45.9626319020534</latitude>
+					<altitude>0</altitude>
+					<heading>1.683192515470765e-006</heading>
+					<tilt>0</tilt>
+					<range>5006.10822441578</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_movies2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>9.925755892901824,45.96284041129922,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Presepe Vivente - Ornica</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/unislowbg/z-progetti-pilota/presepe%20ornica.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Le strade del centro storico e le porte delle case si sono aperte nella loro bellezza, allestite a presepio vivente in un percorso suggestivo nella tradizione popolare con i figuranti. Gli stessi abitanti di Ornica. L'antico borgo si è trasformato in un paesaggio da favola con la ricostruzione delle botteghe degli artigiani, nelle quali vengono curati anche i più piccoli dettagli per far rivivere le tipiche attività che da sempre hanno caratterizzato la vita in questi paesi dell'alta Valle Brembana. C’è il lavatoio, le cantine, il laboratorio per la tessitura della lana. Le botteghe ospitano il ciabattino, il fornaio, il fabbro, il falegname. Per rendere ancora più realistiche le rappresentazioni vengono utilizzati antichi strumenti tirati fuori per l'occasione dalle cantine.<br>
+<br>
+<a href= http://www.ornica.provinciabergamasca.com> www.ornica.provinciabergamasca.com </a><br><br>
+<b>Periodo:</b> Vancaze Natalize<br>
+<b>Informazioni e prenotazioni:</b> <br>
+<b>Luogo:</b> Ornica <br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>9.579487696015736</longitude>
+					<latitude>45.9888766427773</latitude>
+					<altitude>0</altitude>
+					<heading>1.410059870198011e-005</heading>
+					<tilt>0</tilt>
+					<range>1664.607630717738</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_movies2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>9.578785042000803,45.98849305250621,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Via dei Presepi - Schilpario</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/unislowbg/z-progetti-pilota/presepi%20schilaprio.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Da inizio dicembre inizia La via dei presepi, il concorso organizzato dall’ufficio turistico di Schilpario che premierà il presepe più gradito al pubblico. In paese saranno creati oltre 40 presepi sparsi per tutto il centro storico. Ognuno di questi potrà essere votato inserendo l’apposita cartina nella cassetta di fronte all’ufficio turistico. Una piantina mostrerà tutti luoghi in cui si trovano i diversi presepi in modo che gli appassionati possano visitarli tutti. Residenti e Villeggianti potranno così scegliere il loro presepe preferito. Il più bello sarà premiato al termine delle festività natalizie, 5 gennaio, presso la sala consiliare del Comune di Schilpario. <br>
+<br>
+<a href= http://www.eventiesagre.it/Presepi_Presepi/21086037_La+Via+Dei+Presepi.html> www.eventiesagre.it/Presepi_Presepi/21086037_La+Via+Dei+Presepi.html</a><br><br>
+<b>Periodo:</b> Fine settembre<br>
+<b>Informazioni e prenotazioni:</b> Ufficio Turistico Schilaprio 0346 55059 <br>
+<b>Luogo:</b> Strade di Schilpario<br>
+</div>
+</body>]]></description>
+				<Camera>
+					<longitude>10.16613341584317</longitude>
+					<latitude>45.96649824168436</latitude>
+					<altitude>6192.668978493623</altitude>
+					<heading>7.968467684227086</heading>
+					<tilt>22.0530843778875</tilt>
+					<roll>3.921914301541022</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_movies2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>10.15840455064746,46.00877998867794,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Festa del Ritorno del Sole - Valcanale</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/unislowbg/z-progetti-pilota/orobie/Ritorno%20del%20sole%20valcanale.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Sole come luce, come calore, come speranza. Hanno ben ragione gli abitanti di Valcanale di festeggiare, domenica, il suo ritorno sulla cima del campanile della chiesa parrocchiale, dove troneggia la statua di Santa Maria Assunta, patrona del borgo ai piedi dell’Arera. Farà capolino, verso le 13,30, dalla cima del Pizzo Fop, per breve tempo. Nei giorni a seguire illuminerà via via tutte le case del borgo di Ardesio. Il sole era stato nascosto dalle montagne, che delimitano a Sud–Est la pittoresca vallata, dall’inizio dello scorso novembre.<br>
+<br>
+<a href= http://www.viviardesio.it/cultura/tradizioni/> www.viviardesio.it/cultura/tradizioni/</a><br><br>
+<b>Periodo:</b> Fine settembre<br>
+<b>Informazioni e prenotazioni:</b> Pro Loco ARDESIO Tel -0346.33035 Email - info@comune.ardesio.bg.it<br>
+<b>Luogo:</b> Valcanale <br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>9.858777000112005</longitude>
+					<latitude>45.95073399923507</latitude>
+					<altitude>0</altitude>
+					<heading>8.046246747033441e-011</heading>
+					<tilt>0</tilt>
+					<range>1633.44143230117</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_movies2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>9.859455740085091,45.94965801284753,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Festa di Santa Maria Maddalena -Piazzolo di Ardesio</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/unislowbg/z-progetti-pilota/Santa%20Maria%20maddalena%20Ardesio.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Le numerose festività religiose che si svolgono in ogni contrada del nostro Comune rappresentano ancora oggi un appuntamento importante, non solo per i residenti ma anche per quanti vissero per molti anni prima di abbandonare il loro borgo natio.
+Così succede a Piazzolo, il 22 agosto, quando si celebra la festività dedicata a Santa Maria Maddalena. Una volta era tradizione mettere all'incanto formagelle nostrane il cui ricavato andava a favore della chiesa.<br>
+<br>
+<a href= http://www.viviardesio.it> www.viviardesio.it</a><br><br>
+<b>Periodo:</b> Terza domenica di Luglio <br>
+<b>Informazioni e prenotazioni:</b>Pro Loco ARDESIO Tel. 0346.33035 Email - info@comune.ardesio.bg.it<<br>
+<b>Luogo:</b> Contrada Piazzolo, Ardesio<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>9.936115755997271</longitude>
+					<latitude>45.94087800122482</latitude>
+					<altitude>0</altitude>
+					<heading>0.07051420254148438</heading>
+					<tilt>55.28068740599198</tilt>
+					<range>1268.216299231619</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_movies2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>9.940437191952551,45.93885480475015,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fiera delle Capre - Ardesio</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/unislowbg/z-progetti-pilota/orobie/109-fiera-capre%20ardesio.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Dal famoso soprannome degli abitanti di Ardesio, i cavre dè ardés, le capre di Ardesio, è nata diversi anni orsono la Fiera delle Capre e dell’asinello. Ogni anno si svolge una vera e propria sagra paesana, con protagonisti questi animali, richiamando allevatori e semplici curiosi che accalcano nei tendoni appositamente predisposti a contenere decine di espositori con i loro capi. Importantissimo l’appuntamento mattutino dove, selezionati dai propri padroni e dai veterinari, i capi partecipano al concorso caprino, giudicati poi da un Giudice che ne decreta i vincitori di ogni categoria. Frequenti gli scambi, gli acquisti e le vendite non solamente tra allevatori ma anche tra semplici appassionati. Questa fiera ha permesso a decine di giovani, in un territorio prettamente artigianale ed industriale, di avvicinarsi all'allevamento di questi animali, non solo come attività dopo lavorativa. <br>
+<br>
+<a href= http://www.viviardesio.it/eventi/eventi-ricorrenti/la-fiera-delle-capre/> www.viviardesio.it/eventi/eventi-ricorrenti/la-fiera-delle-capre/</a><br><br>
+<b>Periodo:</b> Prima Domenica di Febbraio <br>
+<b>Informazioni e prenotazioni:</b>Pro Loco ARDESIO Tel. 0346.33035 Email - info@comune.ardesio.bg.it<<br>
+<b>Luogo:</b> Centro di Ardesio <br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>9.931200990928332</longitude>
+					<latitude>45.93945169251307</latitude>
+					<altitude>0</altitude>
+					<heading>0.06698248087320524</heading>
+					<tilt>55.28287811544293</tilt>
+					<range>1445.565337975358</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_movies2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>9.930406714977183,45.93800307789957,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Festa delle Castagne - Averara</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/unislowbg/z-progetti-pilota/orobie/Averara%20Castagne.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Ad Averara il prelibato frutto dei boschi d’autunno sarà il protagonista nel fine settimana della 34ª Sagra della castagna nella contrada Redivo. Nel contesto storico dell’antica Via Mercatorum, sarà possibile degustare le caldarroste averaresi accompagnate da specialità locali, come trippa e brasato. 
+Dal 1975 la seconda domenica di ottobre è un appuntamento imperdibile per l’alta Valle Brembana vedrà, infatti, anche il ritorno dei villeggianti del periodo estivo. Oggi, a partire dalle 19, nel capannone adibito alle feste popolari si potrà cenare con prodotti tipici locali. Poi, serata musicale e castagne a volontà, arrostite sul fuoco. <br>
+<br>
+<a href= http://www.altobrembo.it/eventi> www.altobrembo.it/eventi</a><br><br>
+<b>Periodo:</b> Ottobre <br>
+<b>Informazioni e prenotazioni:</b> <br>
+<b>Luogo:</b> Averara<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>9.631480556525158</longitude>
+					<latitude>45.98961657436586</latitude>
+					<altitude>0</altitude>
+					<heading>4.980786700265156e-005</heading>
+					<tilt>0.03096454526798753</tilt>
+					<range>1562.229875928216</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_movies2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>9.631923917557526,45.98951925365044,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ardesio DiVino - Ardesio</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/unislowbg/z-progetti-pilota/orobie/2011ardesio-di-vino-0234-1.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Ardesio DiVino – Wine & Food per palati esigenti ed un week-end ricco di iniziative
+Il primo week-end di Agosto nella splendida cornice del centro storico di Ardesio ogni anno torna Ardesio DiVino, rassegna enogastronomica dove selezionati viticoltori e artigiani del gusto propongono in assaggio e in vendita i propri prodotti ai numerosi visitatori. Peculiarità della manifestazione la presenza dei produttori con i quali il visitatore può interagire, conoscendo i prodotti direttamente da chi li produce, recuperando quel rapporto diretto tra produttore e consumatore ormai scomparso. Ardesio DiVino tra gli eventi più importanti ed attesi per gli appassionati e gli addetti del settore, enologi e ristoratori è in continua crescita: nell’ultima edizione circa 1900 partecipanti e 4.500 visitatori complessivi; 70 stand di produttori di cui 45 viticoltori e 25 artigiani del gusto. <br>
+<br>
+<a href= http://www.viviardesio.it/eventi/eventi-ricorrenti/ardesio-divino/> www.viviardesio.it/eventi/eventi-ricorrenti/ardesio-divino/</a><br><br>
+<b>Periodo:</b> Primo fine settimana di Agosto <br>
+<b>Informazioni e prenotazioni:</b>Pro Loco ARDESIO Tel. 0346.33035 Email - info@comune.ardesio.bg.it<<br>
+<b>Luogo:</b> Centro di Ardesio<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>9.931200990928332</longitude>
+					<latitude>45.93945169251307</latitude>
+					<altitude>0</altitude>
+					<heading>0.06698248087320524</heading>
+					<tilt>55.28287811544293</tilt>
+					<range>1445.565337975358</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_movies2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>9.929173766434062,45.93689028359297,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Come d&apos;Incanto - Ardesio</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/unislowbg/z-progetti-pilota/come%20dincanto.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Pro Loco Ardesio, con la direzione artistica della compagnia teatrale ardesiana ,Teatro Minimo, organizza ogni anno, l’ultimo week-end di maggio, un Festival degli Artisti di Strada dal nome Come d’Incanto. Tale evento, dal forte richiamo turistico, si svolge nell’arco di due giorni con spettacoli il sabato pomeriggio, il sabato sera e la domenica pomeriggio. Una manifestazione di questo genere ha come scopo principale la valorizzazione del centro storico come luogo d’incontro, divertimento, confronto, ritrovo e la riscoperta di angoli caratteristici, piazze, vicoli…invitando chi risiede in paese e chi vuole venire a trovarci a non perdersi nessuno spettacolo. Tra gli appuntamenti più seguiti della Valle Seriana, Come d’Incanto attrae un nutrito pubblico soprattutto di famiglie e bambini, ma non solo, con presenze in forte crescita grazie alla qualità degli eventi proposti. In ogni edizione, alla quantità, si è deciso infatti di preferire e privilegiare la varietà e la qualità degli spettacoli. Si possono ammirare una ventina di eventi, alcuni dei quali proposti da artisti di fama internazionale: giocolieri strampalati, equilibristi indecisi, clown stravaganti, ballerine senza tutù, acrobati irriverenti animano le strade, le piazze e… la fantasia di Ardesio.<br>
+<br>
+<a href= http://www.prolocoardesio.it/eventi/come-dincanto> www.prolocoardesio.it/eventi/come-dincanto</a><br><br>
+<b>Periodo:</b> Fine settembre<br>
+<b>Informazioni e prenotazioni:</b>Pro Loco ARDESIO Tel. 0346.33035 Email - info@comune.ardesio.bg.it<<br>
+<b>Luogo:</b> Centro di Ardesio<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>9.931026911366606</longitude>
+					<latitude>45.93820828647651</latitude>
+					<altitude>0</altitude>
+					<heading>1.545535035964137e-005</heading>
+					<tilt>0</tilt>
+					<range>7953.918099095092</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_movies2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>9.929234376873788,45.93945481210073,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>La Penna D&apos;Oro - Gromo</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/unislowbg/z-progetti-pilota/orobie/gromo%20-%20penna%20doro.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Nel 1958, il poeta Giacinto Gambirasio su richiesta della Pro Loco del Comune di Gromo istituì il premio Penna D’Oro con lo scopo di stimolare l’elaborazione letteraria del dialetto bergamasco. Nel 1988 la Pro Loco decise di estendere l’ambito del concorso a livello regionale con lo scopo di valorizzare l’incontro tra elaborazioni letterarie nei diversi dialetti lombardi e di vedere affiancate tra loro culture storico-linguistiche differenti.<br>
+<br>
+<a href= http://www.gromo.eu> www.gromo.eu</a><br><br>
+<b>Periodo:</b> Inizio Luglio <br>
+<b>Informazioni e prenotazioni:</b> Biblioteca  e Comune di Gromo 0346 41128, info@comune.gromo.bg.it <br>
+<b>Luogo:</b> Gromo <br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>9.927555798935181</longitude>
+					<latitude>45.9626319020534</latitude>
+					<altitude>0</altitude>
+					<heading>1.683192515470765e-006</heading>
+					<tilt>0</tilt>
+					<range>5006.10822441578</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_movies2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>9.926136818757003,45.9662656353542,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Festa del Folklore - Parre</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/unislowbg/z-progetti-pilota/orobie/Festa%20del%20folklore%20Parre.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Il Gruppo Lampiusa di Parre da una trentina di anni organizza degli incontri folclorici con gruppi sia dall’estero che da tutta L’Italia. Un modo per stare insieme e condividere la stessa passione per le cose di un tempo. Oltre a questo è ormai arrivata alla ventisettesima edizione la Sagra del Capù altro non è che un involtino di verza con un ripieno di magro, pane formaggio burro latte prezzemolo uova spezie varie, e fatte bollire on carne di manzo e maiale e verdure varie, oltre ai Capù si possono gustare carni alla griglia e il formaggio alla piastra. Oltre ai vari spettacoli dei gruppi folk e orchestre si potrà osservare l’Angolo Antico dove alcune donne faranno vedere i lavori di una volta.<br>
+<br>
+<a href= http://www.eventiesagre.it/Eventi_Feste/21077921_Festa+Del+Folclore.html> www.eventiesagre.it/Eventi_Feste/21077921_Festa+Del+Folclore.html</a><br><br>
+<b>Periodo:</b> Inizio Agosto <br>
+<b>Informazioni e prenotazioni:</b> Pro Loco Parre 331.7740890 <br>
+<b>Luogo:</b> Parre<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>9.878383382813899</longitude>
+					<latitude>45.86650612163334</latitude>
+					<altitude>0</altitude>
+					<heading>-0.008437928836681589</heading>
+					<tilt>0.02343064237122931</tilt>
+					<range>3288.41826610733</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_movies2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>9.892620913371156,45.87574356195395,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Festa del Compratono Defendente Piazzolo di Ardesio</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/unislowbg/z-progetti-pilota/orobie/Festa%20defendente%20Premolo.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Gli anni 1628 e 1629 vedono una terribile carestia imperversare per il nord Italia. La precarietà dei mezzi di difesa e il facile contagio, strinse la nostra gente intorno agli altari e ai propri santi protettori, legandosi con voti di riconoscenza qualora il cielo avesse soccorso e fermato la crescente mortalità. Premolo si unì alla fervida preghiera al Santo Compatrono Defendente, martire della legione Tebea. La grazia fu ricevuta , perché sotto il riquadro ad olio di San Rocco conservato nella casa Parrocchiale ancora oggi noi leggiamo che dal lontano 1630 la comunità di Premolo ricorda nella giornata del 2 gennaio  il voto per essere stata liberata dalla peste.
+LA COMUNE DI PREMOLO FECE VOTO DI FAR FESTA LI 2 GENARO GIORNO DI S. DEFENDENTE  MARTIRE  DELLA REGIONE TEBEA PER ESSERE LIBERATA DALLA PESTE L’ANNO 1630.<br>
+<br>
+<a href= > </a><br><br>
+<b>Periodo:</b> 2 Gennaio <br>
+<b>Informazioni e prenotazioni:</b> Parrocchia di Premolo <br>
+<b>Luogo:</b> Premolo<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>9.917162202193838</longitude>
+					<latitude>45.91932681410392</latitude>
+					<altitude>0</altitude>
+					<heading>-0.00220425411453963</heading>
+					<tilt>0</tilt>
+					<range>7340.498136136147</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_movies2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>9.931910526456505,45.93420401977221,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Festa dek Vino Novello Estate di San Martino - Clusone</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/unislowbg/z-progetti-pilota/orobie/estate_di_san_martino_clusone.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+La BandaBidù e il Gruppo Alpini presentano un'edizione speciale dell'attesa Festa del Vino a Clusone. La formula dell'Estate di San Martino, che da anni incontra il favore di migliaia di partecipanti, propone musica, divertimento e buon vino: la centralissima Piazza dell'Orologio, attrezzata per l'occasione con un palco che ospiterà le esibizioni musicali in programma, farà da scenario alla manifestazione che si svolgerà anche in caso di pioggia. Sèna e Disnà del Bidù, a base di tagliere di salumi e formaggi, casunsei , piatto di San Martino, porchetta del Bidù, pà e salam, caldarroste e torte.<br>
+<br>
+<a href= ></a><br><br>
+<b>Periodo:</b> Prima quindicina di Novembre<br>
+<b>Informazioni e prenotazioni:</b> Pro Loco Clusone Piazza Orologio Clusone – www.turismoproclusone <br>
+<b>Luogo:</b> Clusone <br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>9.947817585176018</longitude>
+					<latitude>45.88915013527506</latitude>
+					<altitude>0</altitude>
+					<heading>-1.516496623406387e-005</heading>
+					<tilt>0</tilt>
+					<range>5705.686148637153</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_movies2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>9.944825499818979,45.88992364331013,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pegher Fest - Bratto</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/unislowbg/z-progetti-pilota/orobie/Pegher%20Fest.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Pegher Fest a Castione della Presolana, località Bratto: è la tradizionale festa in ricordo della transumanza dei greggi dagli alpeggi alle stalle. Domenica in mattinata, palio della pecora con sfilata delle contrade con costumi tradizionali e pecore agghindate. E’ una festa delle bestie e degli uomini perché da queste parti erano detti pecore anche gli abitanti di Bratto, proprio perché un tempo dediti quasi esclusivamente alla pastorizia. Forte di un’autoironia che è da pochi, la gente di qui decise quindi un bel giorno di festeggiare tutte le pecore, quadrupedi e bipedi indifferentemente. Quasi a dire, se le altre frazioni si divertono a prenderci in giro, facciamo veder loro come ci si diverte davvero!. Una piccola sagra popolare che è cresciuta negli anni, affiancando al belato degli animali, il canto degli uomini, le melodie degli strumenti, il profumo della cucina di montagna e a tema, la suspense delle sfide di un tempo e molto altro ancora. <br>
+<br>
+<a href= http://www.eventiesagre.it/Eventi_Feste/21060835_Pegher+Fest.html> www.eventiesagre.it/Eventi_Feste/21060835_Pegher+Fest.html</a><br><br>
+<b>Periodo:</b> Inizio Ottobre <br>
+<b>Informazioni e prenotazioni:</b> Turismo Presolana 0346 60039 info@presolana.it <br>
+<b>Luogo:</b> Bratto <br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>10.03585899708469</longitude>
+					<latitude>45.90789799554769</latitude>
+					<altitude>0</altitude>
+					<heading>-2.093866490527931e-009</heading>
+					<tilt>0</tilt>
+					<range>7130.753685499047</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_movies2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>10.05726695549835,45.9204638823593,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camminar con Gusto - Clusone</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/unislowbg/z-progetti-pilota/camminar_con_gusto_200.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Pegher Fest a Castione della Presolana, località Bratto: è la tradizionale festa in ricordo della transumanza dei greggi dagli alpeggi alle stalle. Domenica in mattinata, palio della pecora con sfilata delle contrade con costumi tradizionali e pecore agghindate. E’ una festa delle bestie e degli uomini perché da queste parti erano detti pecore anche gli abitanti di Bratto, proprio perché un tempo dediti quasi esclusivamente alla pastorizia. Forte di un’autoironia che è da pochi, la gente di qui decise quindi un bel giorno di festeggiare tutte le pecore, quadrupedi e bipedi indifferentemente. Quasi a dire, se le altre frazioni si divertono a prenderci in giro, facciamo veder loro come ci si diverte davvero!. Una piccola sagra popolare che è cresciuta negli anni, affiancando al belato degli animali, il canto degli uomini, le melodie degli strumenti, il profumo della cucina di montagna e a tema, la suspense delle sfide di un tempo e molto altro ancora. <br>
+<br>
+<a href= http://www.eventiesagre.it/Eventi_Feste/21060835_Pegher+Fest.html> www.eventiesagre.it/Eventi_Feste/21060835_Pegher+Fest.html</a><br><br>
+<b>Periodo:</b> Inizio Ottobre <br>
+<b>Informazioni e prenotazioni:</b> Turismo Presolana 0346 60039 info@presolana.it <br>
+<b>Luogo:</b> Bratto <br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>9.947817585176018</longitude>
+					<latitude>45.88915013527506</latitude>
+					<altitude>0</altitude>
+					<heading>-1.516496623406387e-005</heading>
+					<tilt>0</tilt>
+					<range>5705.686148637153</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_movies2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>9.951170845334822,45.88466122209348,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Incontro con Gli Alpini - Gandellino</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/unislowbg/z-progetti-pilota/orobie/alpini%20in%20festa%20a%20gandellino.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Gli alpini di Gandellino, in occasione del 40° di fondazione del gruppo, organizzano la Festa degli alpini. In occasione dell’annuale Festa degli Alpini, la Commissione Biblioteca – Centro di Cultura e il Gruppo ANA di Gandellino, in collaborazione con la Parrocchia di Gandellino presentano il concerto del Coro Orobico del Gruppo ANA Boccaleone. Tutti i coristi sono iscritti al gruppo vantano una profonda esperienza avendo fatto parte, in passato, d’altri gruppi corali. Il Coro è composto da 32 elementi suddivisi in: tenori primi,tenori secondi, baritoni e bassi. Scopo principale del Coro è diffondere e mantenere i canti di tradizione alpina e popolare che fanno parte del nostro vasto patrimonio culturale, ma nello stesso tempo, ricercare e proporre brani musicali che certamente meritano di essere ricordati ivi compreso brani a carattere religioso e natalizio. <br>
+<br>
+<a href= http://www.vivisulserio.it/component/option,com_extcalendar/Itemid,1/extmode,view/extid,2434/> www.vivisulserio.it/component/option,com_extcalendar/Itemid,1/extmode,view/extid,2434/</a><br><br>
+<b>Periodo:</b> Metà Luglio <br>
+<b>Informazioni e prenotazioni:</b> Info Point Gandellino Tel. +39)331.8270021 turismogandellino@gmail.com
+<br>
+<b>Luogo:</b> Gandellino <br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>9.939532879859483</longitude>
+					<latitude>45.98874716726984</latitude>
+					<altitude>0</altitude>
+					<heading>0.0203446160690588</heading>
+					<tilt>22.28417084604334</tilt>
+					<range>3171.711818791464</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_movies2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>9.946292706482003,45.99197125262485,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fungolandia -Comuni della Valle  Brembana</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/unislowbg/z-progetti-pilota/orobie/Fungolandia%20Valbrembana.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Fungolandia è la Sagra del fungo in Valle Brembana che si tiene nei paesi di Altobrembo Averara, Cassiglio, Cusio, Mezzoldo, Olmo al Brembo, Ornica, Piazza Brembana, Piazzatorre, Piazzolo, Santa Brigida, Valtorta. Otto giorni che permetteranno di scoprire i funghi e il loro mondo attraverso numerose iniziative quali le mostre micologiche, i laboratori, le escursioni alla scoperta dei funghi, le degustazioni e i menu promozionali a tema nei ristoranti convenzionati e molto altro ancora.
+A dare il via alla rassegna, il primo weekend di Fungolandia, sarà la Mostra del Fungo della Valle Brembana nella sala polivalente di Piazza Brembana, che sabato proporrà molte attività. Alle 11 si terrà l’apertura ufficiale con degustazione di prodotti tipici.<br>
+<br>
+<a href= http://fungolandia.it> www.fungolandia.it</a><br><br>
+<b>Periodo:</b> Da fine agosto a inizio settembre<br>
+<b>Informazioni e prenotazioni:</b>IAT AltoBrembo 348.1842781, www.altobrembo.it/ info@altobrembo.it <br>
+<b>Luogo:</b> Tutti comuni dell’Alto Brembo <br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>9.688924768763204</longitude>
+					<latitude>45.98499993046363</latitude>
+					<altitude>0</altitude>
+					<heading>-0.1347141144698645</heading>
+					<tilt>0.4192852003864074</tilt>
+					<range>9899.823740643478</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_movies2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>9.696748690323629,45.99368407278427,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>La Ranzada di Sant&apos;Eustacchio - Valgoglio</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/unislowbg/z-progetti-pilota/festa-di-santeu_2014_06_13T14_45_44_405051_detail_box.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+La Ranzada di sant’Eustachio a Valgoglio  è nata dalla volontà di  don Primo Moioli, precedente parroco della realtà dell' alto Serio, che partendo da un’idea di Iuli Morstabilini e Maurizio Chioda, ha pensato bene di mettere in competizione, giovani e meno giovani,  in una gara di falciatura d' erba, che con il passare degli anni è diventato un evento che caratterizza questa comunità.
+L' evento, tenutosi nel pomeriggio di sabato, è andato ad arricchire la festa compatronale di Sant’Eustachio, un bell' esempio di come senza investimenti economici ma con le risorse umane presenti, si possa dare vita ad iniziative di grande interesse e partecipazione.<br>
+<br>
+<a href= http://www.turismosulserio.it/index.php/81-news-ed-eventi/176-ranzada-di-sant-eustacchio> www.turismosulserio.it/index.php/81-news-ed-eventi/176-ranzada-di-sant-eustacchio</a><br><br>
+<b>Periodo:</b> Metà Luglio <br>
+<b>Informazioni e prenotazioni:</b> Turismo sul Serio Piazza Dante, 5 - 24020 - Gromo - Tel: 0346.41345 - Fax: 0346.42749 - info@turismosulserio.it<br>
+<b>Luogo:</b> Dintorni di Valgoglio<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>9.91118501176415</longitude>
+					<latitude>45.9761645307971</latitude>
+					<altitude>0</altitude>
+					<heading>-2.907731910556755e-005</heading>
+					<tilt>0</tilt>
+					<range>4181.85969759947</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_movies2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>9.912189909446136,45.97620816649612,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Trofeo Parravicini - Carona</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/unislowbg/z-progetti-pilota/orobie/-trofeo-parravicini.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Il Trofeo Parravicini è un po’ la storia dello scialpinismo, solo il Trofeo Mezzalama può vantare un’anzianità maggiore di tre anni, infatti la prima edizione della Maratona dei Ghiacciai è nata nel 1933, mentre il Parravicini è nato nel 1936.
+In questi ultimi anni la gara di Carona, nell’alta Valle Brembana, ha mantenuto inalterato il fascino di andare a correre in un ambiente con un’atmosfera particolare, solo il fatto di ritrovarsi tutti al Rifugio Calvi la sera prima della partenza, dona alla competizione un sapore antico legato al vecchio modo di andare in montagna.<br>
+<br>
+<a href= http://www.trofeoparravicini.org> www.trofeoparravicini.org</a><br><br>
+<b>Periodo:</b> Fine aprile <br>
+<b>Informazioni e prenotazioni:</b> Sci Cai Bergamo A.S.D. Via Pizzo della Presolana, 15 24125 (BG) trofeo.parravicini@gmail.com 0039 035 41 75 475 <br>
+<b>Luogo:</b> Carona <br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>9.786865510910221</longitude>
+					<latitude>46.02112918073675</latitude>
+					<altitude>0</altitude>
+					<heading>3.482238878510337e-005</heading>
+					<tilt>0</tilt>
+					<range>5458.568763439969</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_movies2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>9.783548399414702,46.02332006456869,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sagra della Taragna - Gorno</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/unislowbg/z-progetti-pilota/orobie/polenta_taragna.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+La celebre sagra della patata si svolge nel centro storico del comune di Martinengo. Ogni anno viene organizzato un calendario di attività e rievocazioni storiche; itinerari culturali per il paese e gastronomici, con i piatti della tradizione a basa di patate, che coinvolgono ristoranti e aziende agricole del territorio. Per tutto il giorno sono allestiti i tradizionali banchi per la promozione e vendita della patata di Martinengo e altri prodotti tipici locali insieme ad una mostra di antichi attrezzi del mondo contadino.<br>
+<br>
+<a href= http://www.vivisulserio.it/content/view/819/68/> www.vivisulserio.it/content/view/819/68/ </a><br><br>
+<b>Periodo:</b> Inizio agosto <br>
+<b>Informazioni e prenotazioni:</b> Pro Loco Gorno P.le Alpini promogorno@gmail.com <br>
+<b>Luogo:</b> Gorno <br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>9.843047956546489</longitude>
+					<latitude>45.86602088525505</latitude>
+					<altitude>0</altitude>
+					<heading>1.883608051436949e-008</heading>
+					<tilt>24.93296946051345</tilt>
+					<range>1838.569849860277</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_movies2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>9.847341365877686,45.86453669193695,0</coordinates>
+				</Point>
+			</Placemark>
+			<gx:Tour>
+				<name>esempio screenshot</name>
+				<gx:Playlist>
+					<gx:FlyTo>
+						<LookAt>
+							<gx:horizFov>59.99999999999999</gx:horizFov>
+							<longitude>9.622876253626265</longitude>
+							<latitude>45.93144966448032</latitude>
+							<altitude>0</altitude>
+							<heading>21.80502654916287</heading>
+							<tilt>52.44068142108325</tilt>
+							<range>39690.20974037765</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+					</gx:FlyTo>
+					<gx:Wait><gx:duration>4.999999873689376e-006</gx:duration>
+</gx:Wait>
+				</gx:Playlist>
+			</gx:Tour>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

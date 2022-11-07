@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>be_natural_resources.kml</name>
+	<Style id="sh_parks1000">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_parks100001">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_parks1000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_parks100001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_parks1000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>be_natural_resources</name>
+		<Folder>
+			<name>punti di interesse naturalistico</name>
+			<Placemark id=" 617 ">
+				<name>Bois Brulet</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/10/images/5-2-6-001088.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>Rue de la Mie Au Roy, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>2.067047,49.453638,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 616 ">
+				<name>Parc Marcel Dassault</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/10/images/5-2-6-001075.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>211 Avenue Marcel Dassault, Beauvais<br>
+ 
+ 
+ 
+ 
+<b>Informations: </b>Opening: 8h30-20h<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>2.096698,49.450982,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 615 ">
+				<name>Parc Kennedy</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/10/images/5-2-6-001074.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>17 Rue du Wage, Beauvais<br>
+ 
+ 
+ 
+ 
+<b>Informations: </b>Opening:  h24<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>2.097913,49.42942600000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 614 ">
+				<name>Parc du Château de Troissereux</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/10/images/5-2-6-001072.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>1 Rue du Chateau, Troissereux<br>
+ 
+ 
+<b> </b><a href="http://www.chateau-troissereux.com/">Website</a><br>
+ 
+<b>Informations: </b>Opening:  9h-18h<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>2.040286,49.477796,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 613 ">
+				<name>Balade autour du Plan d&apos;eau</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/10/images/5-2-6-000708.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>Rue du Chemin Vert, Auneuil<br>
+ 
+ 
+ 
+ 
+<b>Informations: </b>Opening:  h24<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>2.004039,49.369382,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 612 ">
+				<name>Balade autour de l&apos;Etang</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/10/images/5-2-6-000372.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>Rue du Chateau, Troissereux<br>
+ 
+ 
+ 
+ 
+<b>Informations: </b>Opening:  h24<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>2.028809,49.47768500000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 611 ">
+				<name>Balade autour de l&apos;Etang de Saint-Paul</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/10/images/5-2-6-000369.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>Rue des Courtillets, St Paul<br>
+ 
+ 
+ 
+ 
+<b>Informations: </b>Opening:  h24<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>1.992032,49.422005,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 610 ">
+				<name>Balade autour du Plan d&apos;Eau du Canada</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/10/images/5-2-6-000326.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>Rue de la Mie Au Roy, Beauvais<br>
+ 
+ 
+<b> </b><a href="http://www.oisetourisme.com/loipic0600020244/plan-deau-du-canada/beauvais">Website</a><br>
+ 
+<b>Informations: </b>Opening:  8h-20h30<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>2.060753,49.453073,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 609 ">
+				<name>Jardin du Peintre André Van Beek</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/10/images/5-2-5-001071.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>1 Rue des Auges, St Paul<br>
+ 
+ 
+ 
+ 
+<b>Informations: </b>Opening: h. 14 - 19; Closed: Tuesday, Wednesday, Thursday<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>2.006657,49.42015099999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 607 ">
+				<name>Ferme pédagogique Parc Marcel Dassault</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/13/2/images/8-3-7-001082.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>211 Avenue Marcel Dassault, Beauvais<br>
+ 
+ 
+<b> </b><a href="http://www.beauvais.fr/docs/vivre/1010-plaquette-parc-marcel-dassault.pdf">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>2.095216,49.450533,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 608 ">
+				<name>Jardin d&apos;inspiration médiévale de la Maladrerie Saint-Lazare</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/10/images/5-2-5-001069.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>203 Rue de Paris, Beauvais<br>
+ 
+ 
+<b> </b><a href="http://maladrerie.fr/le-jardin-dinspiration-medievale/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>2.101698,49.415623,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 618 ">
+				<name>Square Jules Brière</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/10/images/5-2-6-001089.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>Boulevard Jules Briere, Beauvais<br>
+ 
+ 
+ 
+ 
+<b>Informations: </b>Opening:  h24<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>2.087833,49.427103,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 619 ">
+				<name>Square du Boulevard du Général de Gaulle</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/10/images/5-2-6-001090.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>Boulevard du General De Gaulle, Beauvais<br>
+ 
+ 
+ 
+ 
+<b>Informations: </b>Opening:  h24<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>2.089941,49.428968,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 620 ">
+				<name>Parc de la Tour Boileau</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/10/images/5-2-6-001091.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>Rue Desgroux, Beauvais<br>
+ 
+ 
+ 
+ 
+<b>Informations: </b>Opening:  h24<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>2.075995,49.426351,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 621 ">
+				<name>Berges du Thérain</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/10/images/5-2-6-001092.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>Boulevard Aristide Briand, Beauvais<br>
+ 
+ 
+ 
+ 
+<b>Informations: </b>Opening:  h24<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>2.079256,49.42618,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 53 ">
+				<name>Jardin de l&apos;Abbaye de Saint Arnoult</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/natural-resources/Warluis-jardinsdelabbaye.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Garden of medieval inspiration: old roses, aromatic, medicinal and ornamental plants.<br><br>
+<b>Address: </b> Abbaye 60430 Warluis<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>2.142023,49.390568,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 48 ">
+				<name>Parc Ornitologique Du Marquenterre</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/natural-resources/ParcduMarquenterre.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>At the heart of the Nature Reserve of the Somme.<br><br>
+<b>Address: </b> Parc du Marquenterre 25 bis chemin des Garennes 80120 Saint-Quentin-en-Tourmont<br>
+ 
+ 
+<b> </b><a href="http://www.parcdumarquenterre.com/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>1.586216,50.263792,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 45 ">
+				<name>Foret de Chantilly</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/natural-resources/For%C3%AAt_de_Chantilly.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Forest of 6.344 hectares.<br><br>
+<b>Address: </b> Office de tourisme de Chantilly 60, avenue du Maréchal Joffre 60500 Chantilly<br>
+ 
+ 
+<b> </b><a href="http://www.parc-oise-paysdefrance.fr/la-foret/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>2.492499,49.168952,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 622 ">
+				<name>Parc de la Grenouillère</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/10/images/5-2-6-001583.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>Chemin de Basset, Beauvais<br>
+ 
+ 
+ 
+ 
+<b>Informations: </b>Opening:  h24<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>2.072055,49.441869,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 47 ">
+				<name>Parc Jean-Jacques Rousseau</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/natural-resources/ermenonville_parc_jean-jacques_rousseau.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>One of the first landscaped gardens and the finest examples of park factories of the eighteenth century in France.<br><br>
+<b>Address: </b> Parc Jean-Jacques Rousseau 1 rue René de Girardin 60950 Ermenonville<br>
+ 
+ 
+<b> </b><a href="http://www.parc-rousseau.fr/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>2.690704,49.126678,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 623 ">
+				<name>Parc</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/10/images/5-2-6-001591.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>Avenue du 8 Mai 1945, Beauvais<br>
+ 
+ 
+ 
+ 
+<b>Informations: </b>Opening:  h24<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>2.097173,49.44091399999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 624 ">
+				<name>Fosse á Baille-Vent</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/10/images/5-2-6-001596.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>Allee de la Fosse d Baille-Vent, Beauvais<br>
+ 
+ 
+ 
+ 
+<b>Informations: </b>Opening:  h24<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>2.094668,49.435954,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 625 ">
+				<name>Place de Villers</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/10/images/5-2-6-001741.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>Place de Villers, Allonne<br>
+ 
+ 
+ 
+ 
+<b>Informations: </b>Opening:  h24<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>2.134877,49.414055,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 44 ">
+				<name>Maison des Hortillonnages</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/natural-resources/AMIENS-Les_Hortillonnages_a_Amiens.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Set of a few hundred floating gardens on a maze of 65 km of canals.<br><br>
+<b>Address: </b> Association pour la protection et la sauvegarde du site des Hortillonnages 54, boulevard de Beauvillé 80000 Amiens<br>
+ 
+ 
+<b> </b><a href=" http://www.hortillonnages-amiens.fr/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>2.311214,49.896546,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 46 ">
+				<name>Parc Saint-Pierre</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/natural-resources/AMIENS-ParcSaintPierre.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>A contemporary 19 ha urban park.<br><br>
+ 
+ 
+ 
+<b> </b><a href="http://www.parcsetjardins.fr/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>2.309564,49.899154,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 54 ">
+				<name>Jardins et Parc du Château de Chantilly</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/natural-resources/Chantilly-jardinsetparcs.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Large park of 115 hectares, designed by Le Nôtre.<br><br>
+<b>Address: </b> Château de Chantilly 60500 Chantilly<br>
+ 
+ 
+<b> </b><a href="http://www.domainedechantilly.com/fr/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>2.489327,49.195786,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 52 ">
+				<name>Jardin d&apos;inspiration médiévale de la Maladrerie Saint-Lazare</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/natural-resources/Beauvais-jardinsdinspirationmedievale.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Despite a medieval inspiration, this garden is a contemporary creation. This garden invites you to stroll-like exploration offering visitors an overview of different types of gardens or cultures that existed in the Middle Ages.<br><br>
+<b>Address: </b> Maladrerie Saint-Lazare 203 Rue de Paris 60000 Beauvais<br>
+ 
+ 
+<b> </b><a href="http://maladrerie.fr/le-jardin-dinspiration-medievale/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>2.101747,49.415587,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

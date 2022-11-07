@@ -1,0 +1,2100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>gi_s_low_microbusiness.kml</name>
+	<Style id="sn_home_0_01">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/ricettivit%C3%A0.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/ricettivit%C3%A0.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/ricettivit%C3%A0.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Restaurant_0_0_020">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Restaurant_0_0_040</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Restaurant_0_0_020</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_home_0_01">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/ricettivit%C3%A0.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_Restaurant_0_0_040">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/ristorazione.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_Restaurant_0_0_020">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/ristorazione.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_home_0_01">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_home_0_01</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_home_0_01</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>gi_s_low_microbusiness</name>
+		<open>1</open>
+		<Folder>
+			<name>Ricettività s-low</name>
+			<Placemark id=" 301 ">
+				<name>AC Hotel Palau de Bellavista****</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/AC%20Hotel%20Palau%20de%20Bellavista.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>AC Hotel Palau de Bellavista is located in Les Pedreres, a well-known residential area in Girona, and near the Barri Vell, one of the citys most attractive historical landmarks.<br><br>
+<b>Address: </b>Pujada Polvorins, 1, 17004 Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.marriott.com/hotels/travel/gropa-ac-hotel-palau-de-bellavista/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.829623,41.978778,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 303 ">
+				<name>Agroturisme Sant Dionís</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Agroturisme%20Sant%20Dion%C3%ADs.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Sant Dionís is a thirteenth-century fortified stone farmhouse. <br><br>
+<b>Address: </b>Vecindario de Can Dionís, 3 - 17457 Campllong. Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.agroturismesantdionis.com/en/home/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.836985,41.882436,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 299 ">
+				<name>Alberg Rural Ruta del Ferro</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Alberg%20Rural%20Ruta%20del%20Ferro.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Alberg Ruta del Ferro is a rural hostel located in a privileged setting in Sant Joan de les Abadesses. It has quality facilities to accommodate families, groups or individuals as there are plenty of possibilities to enjoy a comfortable stay. <br><br>
+<b>Address: </b>Parc de L'estació, s/n, 17860 Sant Joan de les Abadesses, Girona<br>
+ 
+ 
+<b> </b><a href="http://www.santjoandelesabadesses.cat/index.php/l-alberg">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.285357,42.238246,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 269 ">
+				<name>Apartaments Turístics Comte d&apos;Empúries</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Apartaments%20Tur%C3%ADstics%20Comte%20dEmp%C3%BAries.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The Comte dEmpúries apartments complex, located on the exclusive northern Costa Brava, has apartments which can accommodate from 2 to 8 people distributed in different 3-floor buildings, next to the beach and surrounded by 4 outdoor swimming pools and large garden areas, where colourful Mediterranean plants and flowers grow.<br><br>
+<b>Address: </b>Carrer de Fabra Pompeu, 17, 17487 Empuriabrava, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.xonshotels.com/en/hotels/apartaments-turistics-comte-d-empuries/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>3.124366,42.240816,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 257 ">
+				<name>Can Bo de Pau Bed and Breakfast</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Can%20Bo%20de%20Pau%20Bed%20%26%20Breakfast.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Can Bo de Pau is a refurbished 18th-century house. The building has been renovated, yet it retains the distinctive features and unmistakeable style of the historical buildings in the Old Town.<br><br>
+<b>Address: </b>Plaça Juli Garreta, 1 - 17190 Salt, Barri Vell, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.canbodepau.com/en">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.782934,41.974289,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 294 ">
+				<name>Can Déu del Firal Bed and Breakfast***</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Can%20D%C3%A9u%20del%20Firal%20Bed%20%26%20Breakfast.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Can Déu serves a traditional Catalan breakfast, including cured meat and bread with tomato. It is served in the propertys charming dining room. <br><br>
+<b>Address: </b>Migdia 30 - Horts 44, Cassà de la Selva, 17244, Girona<br>
+ 
+ 
+<b> </b><a href=" http://candeudelfiral.com/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.880857,41.888357,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 264 ">
+				<name>Can Jepet Casa Rural</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Can%20Jepet%20Casa%20Rural.JPG"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The murmur of the river wandering through the forests, mountains and valleys, the scent of herbs, the authentic taste. Can Jepet is a farmhouse built in the seventeenth century, which still retains the air of a retrospective time. <br><br>
+<b>Address: </b>Carrer Molló, 11 - 17869 Setcases, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.casaruralcanjepet.com/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.615298,41.986237,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 304 ">
+				<name>Can Pol de Dalt turisme rural</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Can%20Pol%20de%20Dalt%20turisme%20rural.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Can Pol de Dalt has the charm of the traditional country house life: a great example of this is the bread that is made in our neighbouring house. <br><br>
+<b>Address: </b>Veïnat de Trullàs s/n, E-17163 Bescanó, Girona<br>
+ 
+ 
+<b> </b><a href=" http://bedandbike.cat/en/index.php">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.673594,41.955198,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 276 ">
+				<name>Casa Rural Can Mas</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Casa%20Rural%20Can%20Mas.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>This 17th century farmhouse is situated within a picturesque, agricultural area only 2 minutes from the beach. The house has been restored in keeping with its original style, and with maximum comfort in mind. <br><br>
+<b>Address: </b>Ctra. de St. Pere Pescador a St.Martí dEmpúries, s/n, 17470 Sant Pere Pescador, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.canmas.net/en/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>3.095505,42.175856,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 278 ">
+				<name>Casa Rural Mas Garganta</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Casa%20Rural%20Mas%20Garganta.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Surrounded by cornfields, this restored stone farmhouse offers a seasonal outdoor pool and great views of the Bas Valley. It is situated on the edge of the Garrotxa Volcanic Zone Natural Park. <br><br>
+<b>Address: </b>Crta. d'Olot a la Pinya, 17179 La Pinya, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.masgarganta.com/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.446009,42.185275,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 277 ">
+				<name>Càmping Castell Park</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/C%C3%A0mping%20Castell%20Park.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>In this friendly campsite, easily accesible and set on a flat terrain, you will enjoy a quiet and family atmosphere. <br><br>
+<b>Address: </b>Ctra. Palamós-Palafrugell, Km 328, 17253 Vall-llobrega, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.campingcastellpark.com/index.asp?idlengua=3">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>3.140949,41.881838,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 261 ">
+				<name>Càmping La Siesta</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/C%C3%A0mping%20La%20Siesta.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Siesta is a family camping located on the Costa Brava. <br><br>
+<b>Address: </b>Avinguda del Mar, km. 2 -17210 Calella de Palafrugell, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.campinglasiesta.com/index-en.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>3.182448,41.897155,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 302 ">
+				<name>Càmping Les Preses Natura</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/C%C3%A0mping%20Les%20Preses%20Natura.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The campings location within the Natural Park of the Volcanic Zone will allow you to get deeply acquainted with the natural and historic heritage of the region. <br><br>
+<b>Address: </b>Sector La Boada, s/n, 17178 Les Preses, Girona<br>
+ 
+ 
+<b> </b><a href="http://www.campingnatura.cat/en/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.464036,42.141828,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 282 ">
+				<name>Càmping Ridaura</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/C%C3%A0mping%20Ridaura.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>In a family ambiance, Camping Ridaura is located right beside the Greenway, a cycle path that runs to Girona (25 km) and Sant Feliu (9 km), and close to the Gavarres Mountain range area of natural interest. <br><br>
+<b>Address: </b>Carretera Girona C-65 Km 6.5, 17240 Llagostera, Girona<br>
+ 
+ 
+<b> </b><a href="http://www.campingridaura.com/index.php/en/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.958084,41.827714,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 266 ">
+				<name>Càmping Sant Pol and Bungalou Parc</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/C%C3%A0mping%20Sant%20Pol%20%26%20Bungalou%20Parc.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>On a hill just 500m from Sant Feliu, very well located near the sea, with a lot of dream-like turquoise cove-bays, and only 350m from one of the most emblematic and beautiful beaches on the coast of Girona. <br><br>
+<b>Address: </b>Carrer Dr. Fleming, 118 - 17220 Sant Feliu de Guíxols, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.campingsantpol.cat/en/index.php/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>3.041641,41.786753,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 289 ">
+				<name>Càmping Santa Cristina</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/C%C3%A0mping%20Santa%20Cristina.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Càmping Santa Cristina stands on the right-hand side at the foot of the uplands skirting the valley. A wide selection of routes are available to be enjoyed on foot or by bike throughout the Vall d'Aro. <br><br>
+<b>Address: </b>Ctra. de Girona, 2, 17246 Santa Cristina d'Aro, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.campingsantacristina.com/en/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>3.009253,41.80465,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 280 ">
+				<name>Càmping Vall de Camprodon</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/C%C3%A0mping%20Vall%20de%20Camprodon.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Set in the beautiful Camprodon Valley, this campsite complex enjoys a spectacular rural location and fantastic views of the valley and forests. <br><br>
+<b>Address: </b>Les Planes de Xenturri, C-38, 17867 Camprodon<br>
+ 
+ 
+<b> </b><a href=" http://www.valldecamprodon.net/en/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.363133,42.290202,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 273 ">
+				<name>Empordà Bike Resort</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Empord%C3%A0%20Bike%20Resort.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Empordà Bike Resort, immersed in the privileged Empordà landscape, is the ideal destination for all who love sport and nature and enjoy active holidays: there's mountain biking, road biking, cycle touring, hiking, nordic walking, etc. <br><br>
+<b>Address: </b>camí Afores de La Bisbal - Mas Petit, 17100 La Bisbal d'Empordà, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.empordabikeresort.com/index.asp">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>3.039631,41.951947,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 265 ">
+				<name>Fonda Mitjà*</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Fonda%20Mitj%C3%A0.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>This traditional guest house is a charming stone building in the old quarter of Torroella de Montgrí. There is free wired internet in the rooms and public areas. <br><br>
+<b>Address: </b>Carrer de l'Església, 14 - 17257 Torroella de Montgrí, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.fondamitja.com/ca/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>3.125997,42.04174,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 290 ">
+				<name>Giverola Resort***</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Giverola%20Resort.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The holiday complex under Swiss-Austrian management is located in a natural reserve on the most beautiful section of the Costa Brava. Nestled in the hilly landscape, the resort is directly linked to the idyllic sandy Giverola cove by a funicular. <br><br>
+<b>Address: </b>Tossa de Mar, Girona<br>
+ 
+ 
+<b> </b><a href="http://www.giverola-resort.com/index.php?id=79&L=2">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.950087,41.736799,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 297 ">
+				<name>Hostal Tarrés**</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Hostal%20Tarr%C3%A9s.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The most famous path for those of you who enjoy walking is the green way. <br><br>
+<b>Address: </b>Plaza de Catalunya, 5, 17160 Anglès, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.fondatarres.com/index_en.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.637019,41.956773,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 268 ">
+				<name>Hotel Bell Repòs**</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Hotel%20Bell%20Rep%C3%B2s.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The Bell Repos is a cosy, family-run hotel, nestled within its own private gardens and is situated virtually in front of "Platja Gran", the main beach in Platja d'Aro. <br><br>
+<b>Address: </b>Carrer Ntra. Sra. del Carme, 18, 17250 Castell-Platja d'Aro, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.hotelbellrepos.com/index/3">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>3.069069,41.818344,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 295 ">
+				<name>Hotel Borrell***</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Hotel%20Borrell.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Hotel Borrell owns a family tradition of more than 30 years. We have made a commitment to provide our guests with all the details needed for a pleasant stay, focusing on satisfying their needs regardless the reason of their stay: tourism, cultural, gastronomic, business, etc. <br><br>
+<b>Address: </b>Carrer de Nonet Escubòs, 17800 Olot, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.hotelborrell.com/en/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.483111,42.179168,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 262 ">
+				<name>Hotel Can Bassa****</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Hotel%20Can%20Bassa.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Can Bassa is an old farmhouse restored within the walls of fourteenth-century charm, in the pretty village of Madremanya.<br><br>
+<b>Address: </b>Carrer Gavarres, 10 - 17462 Madremanya, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.canbassa.com/en/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.957966,41.989464,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 263 ">
+				<name>Hotel Can Garay**</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Hotel%20Can%20Garay.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Hotel can Garay, a large art nouveau house built in 1906, is set in its own beautiful grounds and is a listed building.<br><br>
+<b>Address: </b>Avinguda Narcís Arnau, 6 - 17172 Les Planes d'Hostoles, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.hotelcangaray.com/eng/hotel_01.htm">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.542591,42.055673,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 259 ">
+				<name>Hotel Can Miquel**</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Hotel%20Can%20Miquel.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Can Miquel, the Montgó Bay Hotel, is a family run establishment just 4 km from the center of the main village, l'Escala, where you can enjoy the calm of the place and its surroundings without losing the good gastronomic, sporting and leisure facilities on offer in the same place or nearby.<br><br>
+<b>Address: </b>Platja de Montgó, Carrer del Jonc, s/n - 17130 L'Escala Platja de Montgó, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.canmiquel.com/en/hotel-can-miquel-costa-brava.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>3.16806,42.107739,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 258 ">
+				<name>Hotel Carlemany ****</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Hotel%20Carlemany.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The Hotel Carlemany is a 4-star hotel property ideally located in the commercial center of Girona downtown. <br><br>
+<b>Address: </b>Plaça Miquel Santaló i Pavor, 1 - 17002 Girona<br>
+ 
+ 
+<b> </b><a href="https://www.hotelcarlemanygirona.com/en/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.820955,41.978828,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 286 ">
+				<name>Hotel Clipper and Villas****</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Hotel%20Clipper%20%26%20Villas.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>An exclusive and charming hotel that offers 39 fully equipped, large, comfortable, bright rooms and 10 exclusive villas that are located in the garden and in the swimming pool area, ready to accommodate up to 6 people. <br><br>
+<b>Address: </b>Urb. Mas Pinell, Carrer Martinet, 60, 17257 Torroella de Montgrí, Girona<br>
+ 
+ 
+<b> </b><a href=" http://clipperhotel.com/?lang=en/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>3.192411,42.010061,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 256 ">
+				<name>Hotel Costabella</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Hotel%20Costabella.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The Costabella Girona hotel is family friendly with pool and spa, 47 rooms, two of which are Junior Suites. Just a few minutes away from downtown but yet in a peaceful natural setting, facing the Hospital Truetas. Nearby are Gieg sports facilities, the Pavilion of Fontajau and Golf de Girona. <br><br>
+<b>Address: </b>Avd. Francia, 61, Girona<br>
+ 
+ 
+<b> </b><a href=" http://en.hotelcostabella.com/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.818352,41.998456,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 285 ">
+				<name>Hotel Hostal del Sol***</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Hotel%20Hostal%20del%20Sol.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The Hotel is located in a quiet area of Sant Feliu de Guíxols, close to the beach of s'Agaró known for its clear and transparent waters and only 5 minutes from Platja d'Aro by bus or by car. <br><br>
+<b>Address: </b>Ctra. de Palamós, 194, 17220 Sant Feliu de Guíxols, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.hostaldelsol.cat/en">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>3.040011,41.785792,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 267 ">
+				<name>Hotel Ibis Budget Girona Costa Brava**</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Hotel%20Ibis%20Budget%20Girona%20Costa%20Brava.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The hotel is located just a few minutes from the historic quarter, where guests can discover all the tourist attractions that this city has to offer. <br><br>
+<b>Address: </b>Pension 2, Calle Francesc Ferrer i Gironés, 18, 17006 Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.ibis.com/gb/hotel-6815-ibis-budget-girona-costa-brava/index.shtml/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.817231000000001,41.998074,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 291 ">
+				<name>Hotel Ibis Girona Costa Brava*</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Hotel%20Ibis%20Girona%20Costa%20Brava.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Ibis hotel in Girona is located in the north of the city, 20 km from the airport and close to the historic quarter. <br><br>
+<b>Address: </b>C/ Francesc Ferrer, 16, Hotel Ciudad 1* -17006 Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.ibis.com/gb/hotel-6819-ibis-girona-costa-brava/index.shtml/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.817511,41.997965,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 284 ">
+				<name>Hotel La Perla***</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Hotel%20La%20Perla.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The Hotel Restaurant La Perla de Olot is located in the capital of the county of La Garrotxa, which welcomes you and encourages you to discover the Natural Park of the La Garrotxa Volcanic Zone. <br><br>
+<b>Address: </b>Av. Sta. Coloma, 97 · 17800 Olot, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.laperlahotels.com/eng/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.476685,42.169624,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 279 ">
+				<name>Hotel la Solana del Ter***</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Hotel%20la%20Solana%20del%20Ter.JPG"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The hotel has large gardens, with a children's play area. There is an outdoor swimming pool, open in summer. There are also tennis and paddle courts, a sauna and a fitness centre. <br><br>
+<b>Address: </b>C-17 (Dir. Puigcerdà), km 92,5 - Ripoll, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.solanadelter.com/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.195764,42.182232,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 296 ">
+				<name>Hotel La Trobada**</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Hotel%20La%20Trobada.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>At La Trobada we have different types of rooms. Some rooms offer an amazing view of Ter River, Ripoll's Monastery, and the Pyrenees Mountains. Other rooms give to our quiet and private patio. <br><br>
+<b>Address: </b>Passeig del Compositor Honorat Vilamanyà, 4, 17500 Ripoll, Girona<br>
+ 
+ 
+<b> </b><a href="http://www.latrobadahotel.com/hotel-eu/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.192996,42.200563,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 292 ">
+				<name>Hotel Gran Ultònia****</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Hotel%20Gran%20Ult%C3%B2nia.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Located in the heart of the city, the new hotel boasts all the services and facilities of a four-star hotel. Its modern rooms allow our guests to relax while enjoying their stay.<br><br>
+<b>Address: </b>Gran Via de Jaume I, 22 - 17001 Girona<br>
+ 
+ 
+<b> </b><a href=" http://en.hotelgranultoniagirona.com/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>2.821103,41.985278,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 275 ">
+				<name>Hotel Molí del Mig****</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Hotel%20Mol%C3%AD%20del%20Mig.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>With a careful restoration of the ancient mill, designed by the architect Josep M. Deulofeu, the hotel boasts the most modern facilities and cutting-edge design that seek to highlight its historical value. <br><br>
+<b>Address: </b>Camí del Moli, s/n, 17257 Torroella de Montgrí, Girona<br>
+ 
+ 
+<b> </b><a href="http://www.molidelmig.com/en-GB/index.aspx">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>3.14106,42.033803,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 287 ">
+				<name>Hotel Restaurant Barcarola***</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Hotel%20Restaurant%20Barcarola.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The area around the hotel is characterized by picturesque fishing villages in a hilly and wooded landscape. <br><br>
+<b>Address: </b>C. Pablo Picasso 1-19, 17220 Sant Feliu de Guixols, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.hotelbarcarola.es/en/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>3.046566,41.790773,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 300 ">
+				<name>Hotel Sant Pol***</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/hotel_stpol_sagaro.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The hotel offers 22 bedrooms: twelve of them with a beautiful sea view on Sant Pol´s bay, and five with jacuzzi baths. <br><br>
+<b>Address: </b>Platja de Sant Pol 125, 17220 Sant Feliu de Guixols, Girona <br>
+ 
+ 
+<b> </b><a href=" http://en.hotelsantpol.com/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>3.048048,41.790489,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 270 ">
+				<name>Hotel-Apartaments Xon&apos;s Platja***</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Hotel-Apartaments%20Xons%20Platja.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The Xon's Platja Hotel-Apartments offers you the chance to enjoy a unique holiday just 125 yards away from the beach in our fantastic apartments which accommodate from 2 to 8 people. <br><br>
+<b>Address: </b>Carrer de Pompeu Fabra, s/n, 17487 Empuriabrava, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.xonshotels.com/en/hotels/hotel-apartaments-xons-platja/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>3.123535,42.239926,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 272 ">
+				<name>La Filadora allotjament turístic</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/La%20Filadora%20allotjament%20tur%C3%ADstic.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The house has been tastefully renovated preserving its original features: the Catalan vault, the well, the courtyard and the wrought-iron balcony. <br><br>
+<b>Address: </b>C. St. Joan, 6 - 17190 Salt, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.lafiladora.cat/en/inici/ ">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.783484,41.975345,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 305 ">
+				<name>La Rectoria de Sant Miquel de Pineda Bed and Breakfast</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/La%20Rectoria%20de%20Sant%20Miquel%20de%20Pineda%20Bed%20%26%20Breakfast.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Situated in La Garrotxa´s volcanic natural park, La Rectoria de Sant Miquel de Pineda sits between the Romanic chapel from which it gets its name and the cycle track (Ruta del Carrilet) which runs from the Pyrenees to the city of Girona and on to the Costa Brava. <br><br>
+<b>Address: </b>Veinat de Sant Miquel de Pineda, 17174 Sant Feliu de Pallerols, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.larectoriadesantmiquel.com/index.php?lang=en/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.493811,42.102091,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 274 ">
+				<name>Mas del Joncar turisme rural</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Mas%20del%20Joncar%20turisme%20rural.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The house was built in the 19th century, currently it is completely restored and furnished with care. It has five rooms with bath, heating, television and air conditioning. <br><br>
+<b>Address: </b>Ctra. del Joncar 15, 17470 Sant Pere Pescador, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.masdeljoncar.com/en/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>3.091257000000001,42.19391,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 260 ">
+				<name>Mas Xifre Bed and Breakfast</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Mas%20Xifre%20Bed%20%26%20Breakfast.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Mas Xifre is the ideal place for people looking to enjoy fresh air and country views, perhaps spend some time on the beach, go walking or cycling, visit Gerona and the other local towns, eat beautifully prepared, home cooked food, and feel rested. <br><br>
+<b>Address: </b>Lugar Veinat Bruguera, 3 -17240 Llagostera, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.masxifre.com/mas-xifre-english.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.899659,41.858151,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 298 ">
+				<name>Pasteral Hotel Rural***</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Pasteral%20Hotel%20Rural.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Pasteral Rural Hotel is our vital project. We strive to offer rural tourism lovers the charm of a cottage in the countryside combined with the comfort of a hotel. <br><br>
+<b>Address: </b>Les Brugueres, 16, El Pasteral, 17165 La Cellera de Ter<br>
+ 
+ 
+<b> </b><a href="http://www.pasteral.com/english/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.614935,41.986219,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 283 ">
+				<name>Restaurant Hotel Mas Ros***</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Restaurant%20Hotel%20Mas%20Ros.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Just few kilometers away from Costa Brava and surrounded by the natural environment that offers the massif of Gavarres, mas Ros has 9 rooms, a bar, two dining-rooms and a terrace at the tourists and visitors disposal. <br><br>
+<b>Address: </b>Ctra. Girona Sant Feliu, (C-65) km.15 - 17244 Cassà de la Selva, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.restaurantmasros.com/web/en/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.884499,41.863227,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 288 ">
+				<name>Sallés Hotel Aeroport de Girona****</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/hotel_aeroport_riudellots.JPEG"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>It is a newly constructed four-star hotel in Riudellots de la Selva, just 800 meters from Girona Airport, 12 km from Girona town, 100 km from Barcelona Airport and 5 km from the nearest golf course. <br><br>
+<b>Address: </b>Carretera Nacional 156, Km. 0,6 - 17457 Riudellots de la Selva, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.salleshotels.com/en/seccion/33/salles-hotel-aeroport-girona.html/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.77663,41.894191,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 281 ">
+				<name>Sallés Hotel Mas Tapiolas****</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Sall%C3%A9s%20Hotel%20Mas%20Tapiolas.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Sallés Hotel Mas Tapiolas is uniquely located in the Solius valley, a spot of peace and tranquillity. Thanks to its great heritage and environmental value, it has become one of the most fascinating places of the Costa Brava. <br><br>
+<b>Address: </b>Vecindario de Solius, S/N - 17246 Santa Cristina d'Aro, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.hotelmastapiolas.es/en/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.964249,41.819496,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Ristorazione s-low</name>
+			<Placemark id=" 307 ">
+				<name>B-CREK Restaurant</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/B-CREK%20Restaurant.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The restaurant is committed to quality and proximity and offers healthy, natural and balanced food. <br><br>
+<b>Address: </b>Carrer Madrid, 222, 17800 Olot, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.bcrek.com/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.473326,42.167149,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 306 ">
+				<name>Slow Food Begur</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Slow%20Food%20Begur.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Slow Food is a partner in the AMSE, Association Slow Movement. Here you can buy and taste specialties from kilometer zero and local products, organic and bio dynamic wines from small family-run wineries. <br><br>
+<b>Address: </b>C/ Camí del Mar, 6 17255 Begur - Costa Brava - Girona<br>
+ 
+ 
+<b> </b><a href=" http://slowbegur.com/en/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>3.208531,41.9537,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 317 ">
+				<name>Restaurant Can Miquel</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Restaurant%20Can%20Miquel.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>It provides good Mediterranean cuisine, with a taste of the gastronomical products of the Empordà, especially rice meals. <br><br>
+<b>Address: </b>Platja de Montgó · 17130 L'Escala · Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.canmiquel.com/en/restaurant-platja-montgo-costa-brava.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>3.168268,42.107281,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 308 ">
+				<name>Bar Restaurant Can César</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Bar%20Restaurant%20Can%20C%C3%A9sar.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>In Can Cesar you´ll enjoy a wide range of snacks, meals and tapas, from traditional dishes to fish and seafood from the "llotja" of Palamós. The kitchen is open all day. <br><br>
+<b>Address: </b>C/ Canigo 21, 17253 Mont-ras<br>
+ 
+ 
+<b> </b><a href=" http://www.viesverdes.cat/EN/840/Bar-Restaurant-Can-Cesar.html/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>3.128813,41.863352,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 314 ">
+				<name>Restaurant CAT Can Guetes</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Restaurant%20CAT%20Can%20Guetes.JPG"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>It is located at km 0 of greenways, next to an ample parking and a caravan area. Restaurant CAT Can Guetes is the ideal place to start the Route of Iron and Coal, a section of the greenways linking the charm of traveling from the Pyrenees to Costa Brava by bike.<br><br>
+<b>Address: </b>Carretera C-26 Km.126, Pàrquing de Can Guetes - 17500 Ripoll, Girona<br>
+ 
+ 
+<b> </b><a href="http://cat.fundaciomap.org/restaurant/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.194028,42.202861,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 316 ">
+				<name>Índigo Restaurant</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/%C3%8Dndigo%20Restaurant.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>A modern culinary space with personality. A place to enjoy a traditional aperitif with excellent choices of preserves and vermouth that can be enjoyed on the terrace. <br><br>
+ 
+ 
+ 
+<b> </b><a href=" https://www.carlemany.es/en/hotel/restaurants-coffeeshop/indigo-restaurant/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.82131,41.97842,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 315 ">
+				<name>Restaurant el Pati Verd</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Restaurant%20el%20Pati%20Verd.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Surrounded by a nice garden, this intimate, full of harmony, noble and cozy restaurant will delight your senses with its cuisine. <br><br>
+<b>Address: </b>Plaça Miquel Santaló i Pavor, s/n, 17002 Girona<br>
+ 
+ 
+<b> </b><a href=" https://www.carlemany.es/en/hotel/restaurants-coffeeshop/pati-verd-restaurant/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.821269,41.978703,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 309 ">
+				<name>Restaurant Mas Ros</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Restaurant%20Mas%20Ros.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Mas Ros Hotel Restaurant, located in a country environment near Costa Brava and in the beginning of the Gavarres massif, offers the peacefulness of this region together with the comfort of being just 15km away from Girona city and about 20 minutes by car from the best beaches in Costa Brava. <br><br>
+<b>Address: </b>Ctra. Girona Sant Feliu, 17244 Cassà de la Selva, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.restaurantmasros.com/web/en/restaurant-mas-ros-3/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.885284,41.863808,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 312 ">
+				<name>Snack-bar Càmping Santa Cristina</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Snack-bar%20C%C3%A0mping%20Santa%20Cristina.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The snack bar is located at the entrance of the camping Santa Cristina. You can get through the Greenway and the blue bike path, approved by the Council of Baix Empordà.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.campingsantacristina.com/en/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>3.009275,41.804646,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 311 ">
+				<name>Can Rajolet</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Can%20Rajolet.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Can Rajolet restaurant is located in Vilanna (Bescanó) on tre outskirts of Girona, directly in front of the cycling route from Girona to Olot, locally known as the "vies verdes" or "green paths". <br><br>
+<b>Address: </b>Crta. Girona-Anglès s/n, 17162 Vilanna-Bescanó, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.canrajolet.cat/en/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.674034,41.969749,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 313 ">
+				<name>Centre Biker Girona</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Centre%20Biker%20Girona.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Recreational space for cyclists, innovative, spacious and with comfortable schedules for bicycle users. Meeting point for bikers, with bar and outdoor terrace. Breakfasts, lunches and dinners for groups. <br><br>
+<b>Address: </b>Joaquim Botet i Sisó, 12 - Baixos, 17003 Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.centrebikergirona.com/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.825454,41.972654,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 310 ">
+				<name>Restaurant Sant Marçal</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/microbusiness/Restaurant%20Sant%20Mar%C3%A7al.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The restaurant has three dining rooms, one of which can be converted into a hotel. We have a daily menu featuring our specialties. <br><br>
+<b>Address: </b>Ctra. d'Olot, Km 47 - Amer 17170, Girona<br>
+ 
+ 
+<b> </b><a href=" http://restaurantsantmarsal.com/restaurant-en/?lang=en/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.604124,42.009828,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

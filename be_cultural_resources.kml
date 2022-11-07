@@ -1,0 +1,2610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>be_cultural_resources.kml</name>
+	<Style id="sn_sito unesco_0_0_01_0_0_4_20">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/borghi_png.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_triangle21">
+		<IconStyle>
+			<color>ff434cff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_castello01000080040022">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/castelli.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff005cb8</color>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_sito unesco_0_0_01_0_0_4_20">
+		<IconStyle>
+			<scale>0.827273</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/borghi_png.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl1">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/sitireligiosi.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_unesco">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_unesco</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_unesco</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin01303117000216">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/musei.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0320011187206">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin01303117000216</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl10011251780204</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_unesco">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/unesco.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_triangle100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_triangle21</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_triangle30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_triangle30">
+		<IconStyle>
+			<color>ff434cff</color>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl10011251780204">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/musei.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="sn_castello10171050101012">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_castello01000080040022</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_castello200001010001110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_sito unesco_0_0_01_0_0_4_20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_sito unesco_0_0_01_0_0_4_20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_sito unesco_0_0_01_0_0_4_20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_unesco">
+		<IconStyle>
+			<scale>0.945455</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/unesco.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin1">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/sitireligiosi.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_castello200001010001110">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/castelli.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff005cb8</color>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>be_cultural_resources</name>
+		<open>1</open>
+		<Folder>
+			<name>Luoghi della fede</name>
+			<Placemark id=" 757 ">
+				<name>Cathédrale Saint-Pierre</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/7/images/8-4-7-001077.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>Rue Saint Pierre, Beauvais<br>
+<b>Phone number: </b>+33 (0)3 44 48 11 60<br>
+ 
+ 
+ 
+<b>Informations: </b>Opening:  01/06 au 31/10, ouvert de 10h +á 18h15, du 01/11 au 30/05 de 10h +á 12h15 et de 14h +á 17h15<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<Point>
+					<coordinates>2.081234,49.432617,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 14 ">
+				<name>Abbaye de Saint-Paul</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/cultural-resources/SaintPaul-AbbayeSaintPaul.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Founded in the seventh century by Saint  Angadrem, the abbey consists today of remains of the portal of the Benedictine abbey, a dovecote (1699), a building of the eighteenth century.<br><br>
+<b>Address: </b> 50 rue de l'abbaye 60650 Saint-Paul<br>
+ 
+ 
+<b> </b><a href="https://sites.google.com/site/beauvaisamiensslow/cultural-resources/SaintPaul-AbbayeSaintPaul.jpg">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<Point>
+					<coordinates>2.007318,49.42933799999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 13 ">
+				<name>Abbaye de Saint Arnoult</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/cultural-resources/Warluis-AbbayeSaintArnould.JPG"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The abbey of Saint-Arnoult is a former Cistercian abbey which was a dependence of the Froidmonts abbey. Today it consists of three main buildings: the cellar (thirteenth century), the house (sixteenth century) and the chapel (XIIth century) which houses the tombstone of Saint-Arnoult.<br><br>
+<b>Address: </b> Abbaye 60430 Warluis<br>
+ 
+ 
+<b> </b><a href="https://sites.google.com/site/beauvaisamiensslow/cultural-resources/Warluis-AbbayeSaintArnould.JPG">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<Point>
+					<coordinates>2.14225,49.390778,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 22 ">
+				<name>Cathédrale Notre Dame de Senlis</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/cultural-resources/senlis-cathedraleNotreDame.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>One of the first Gothic buildings in the country: portal of the Virgin, a masterpiece of Gothic sculptures of the 12th century; a remarkable south tower, a masterpiece of Gothic architecture of the 13th century, the transept facades: both masterpieces of late Gothic style.<br><br>
+<b>Address: </b> Place du Parvis Notre-Dame 60300 Senlis<br>
+ 
+ 
+<b> </b><a href="http://www.senlis-tourisme.fr/Decouvrir/Decouvrir-Senlis/Histoire-et-Patrimoine/Cathedrale-Notre-Dame">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<Point>
+					<coordinates>2.58548,49.206986,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 18 ">
+				<name>Abbaye de Saint-Riquier</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/cultural-resources/SaintRiquier-Abbaye.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Former Benedictine abbey of St. Riquier, founded in the first half of the seventh century.<br><br>
+<b>Address: </b> Place de l'église 80135 Saint-Rquier<br>
+ 
+ 
+<b> </b><a href=" http://www.ccr-abbaye-saint-riquier.fr/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<Point>
+					<coordinates>1.948001,50.133956,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 759 ">
+				<name>La Basse-Oeuvre</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/7/images/8-4-7-002129.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>Rue Saint Pierre, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<Point>
+					<coordinates>2.08075,49.432773,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 16 ">
+				<name>Abbatiale de Saint Germer de Fly</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/cultural-resources/SAINT-GERMER-DE-FLY-Abbatiale.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Saint-Germer-de-Fly Abbey is a former Benedictine abbey located in the village of Saint-Germer-de-Fly, in Picardy in the Oisedépartement of France. Only the late Romanesque-early Gothic church remains, now the village parish church. It is regarded as one of the earliest manifestations of the Gothic style in France. A Late Gothic chapel added in the 14th century is noted as a smaller-scale reinterpretation of the Sainte-Chapelle of Paris.<br><br>
+<b>Address: </b> 11 place de Verdun 60850 Saint-Germer-de-Fly<br>
+ 
+ 
+<b> </b><a href=" http://www.ot-paysdebray.fr/patrimoine-culturel/patrimoine/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<Point>
+					<coordinates>1.780753,49.443406,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 758 ">
+				<name>Eglise Saint-Etienne</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/7/images/8-4-7-001078.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>Place Saint Etienne, Beauvais<br>
+<b>Phone number: </b>+33 (0)3 44 48 11 60<br>
+ 
+ 
+ 
+<b>Informations: </b>Opening: 14h - 17h; Closed: 25/12 and 01/01<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<Point>
+					<coordinates>2.080665,49.428445,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 21 ">
+				<name>Cathédrale Notre-Dame d&apos;Amiens</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/cultural-resources/AMIENS-la_cathedrale_notre_dame_d_amiens.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>One of the finest examples of sacred Gothic art, inscribed by UNESCO on the World Heritage List.<br><br>
+<b>Address: </b> Notre-Dame dAmiens 30, place Notre-Dame 80000 Amiens<br>
+ 
+ 
+<b> </b><a href=" http://www.somme-tourisme.com/cdt80/somme_tourisme/decouvrez/patrimoine/la_cathedrale_d_amiens/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<Point>
+					<coordinates>2.302048,49.89462500000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 24 ">
+				<name>Cathédrale Notre Dame de Noyon</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/cultural-resources/Noyon-cathedraleNotreDame.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>First gothic religious building in the North of France.<br><br>
+<b>Address: </b> Place du Parvis 60400 Noyon<br>
+ 
+ 
+<b> </b><a href=" http://www.noyon-tourisme.com/Balades-Visites/Visites-et-patrimoine/Cathedrale-Notre-Dame-de-Noyon/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<Point>
+					<coordinates>2.999969999999999,49.582302,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 15 ">
+				<name>Collégiale Saint Pierre de Gerberoy</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/cultural-resources/GerberoyColl%C3%A9giale_st_pierre_gerberoy.JPG"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Rebuilt in the 15th century, the Church of St. Peter reminds its vaulted nave with wooden Norman style.<br><br>
+<b>Address: </b> Place de l'Eglise 60380 Gerberoy<br>
+ 
+ 
+<b> </b><a href=" http://www.beauvaistourisme.fr/Decouvrir-et-visiter/Monuments-et-musees/Collegiale-Saint-Pierre-de-Gerberoy/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<Point>
+					<coordinates>1.849174,49.533955,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 23 ">
+				<name>Abbaye Royale de Chaalis</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/cultural-resources/FONTAINE-CHAALIS-AbbayedeChaalis.JPG"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Ruins of the Cistercian abbey of Chaalis stand in a romantic park, in the forest of Ermenonville.<br><br>
+<b>Address: </b> Abbaye royale de Chaalis,60330 Fontaine-Chaalis<br>
+ 
+ 
+<b> </b><a href=" http://www.chaalis.fr/fr/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<Point>
+					<coordinates>2.685879,49.14817699999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 25 ">
+				<name>Abbaye d&apos;Ourscamps</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/cultural-resources/CHIRY-OURSCAMP-Abbaye_dOurscamp.JPG"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Substantial remains of a former Cistercian abbey founded in 1129 by the Bishop of Noyon.<br><br>
+<b>Address: </b> Abbaye de Chiry-Ourscamp 60150 Chiry-Ourscamp<br>
+ 
+ 
+<b> </b><a href=" http://www.noyon-tourisme.com/Balades-Visites/Loisirs-bien-etre-et-visites-guidees/Abbaye-d-Ourscamp/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<Point>
+					<coordinates>2.975315,49.534423,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 17 ">
+				<name>Cathédrale Saint Pierre de Beauvais</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/cultural-resources/Beauvais-cathedraleSaintPierre.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Started to be built in 1225, but incomplete; highest vault height of the Gothic age (48,50m).In 1840, the cathedral was listed on the first list of historic monuments.<br><br>
+<b>Address: </b> La Cathédrale de Beauvais , rue Saint-Pierre, 60000 Beauvais<br>
+ 
+ 
+<b> </b><a href=" http://www.cathedrale-beauvais.fr/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<Point>
+					<coordinates>2.081509,49.432565,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 761 ">
+				<name>Eglise de Montmille</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/17/1/images/7-1-1-2-000408.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>Rue de Montmille, Fouquenies<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<Point>
+					<coordinates>2.040742,49.466513,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 760 ">
+				<name>Collégiale Saint-Barthélémy</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/8/images/8-4-2-002130.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>Rue Saint Pierre, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<Point>
+					<coordinates>2.082225,49.431487,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Località</name>
+			<Folder>
+				<name>Borghi d&apos;eccellenza</name>
+				<Placemark id=" 6 ">
+					<name>Ville de Saint Valery sur Somme</name>
+					<open>1</open>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/cultural-resources/SaintValerySurSomme.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Uptown is a fine example of medieval town behind the harbor.<br><br>
+<b>Address: </b> Office de Tourisme  2 place Guillaume le Conquérant 80230 Saint-Valery-sur-Somme<br>
+ 
+ 
+<b> </b><a href="http://www.saint-valery-sur-somme.fr/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+					<styleUrl>#msn_sito unesco_0_0_01_0_0_4_20</styleUrl>
+					<Point>
+						<coordinates>1.629685,50.188512,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id=" 9 ">
+					<name>Cité souterraine de Naours</name>
+					<open>1</open>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/cultural-resources/NAOURS-Grottes_de_Naours.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>A city below earth, underground city, used originally as chalk quarry since the 3rd century.<br><br>
+<b>Address: </b> La Cité souterraine de Naours 5, rue des Carrières - 80260 Naours<br>
+ 
+ 
+<b> </b><a href="http://www.grottesdenaours.com/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+					<styleUrl>#msn_sito unesco_0_0_01_0_0_4_20</styleUrl>
+					<Point>
+						<coordinates>2.281066,50.03424500000001,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id=" 7 ">
+					<name>Ville du Crotoy</name>
+					<open>1</open>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/cultural-resources/LeCrotoy.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Crotoy is one of the main towns of the Bay of Somme.<br><br>
+<b>Address: </b> Office de Tourisme du Crotoy 1 rue carnot 80550 Le Crotoy<br>
+ 
+ 
+<b> </b><a href="http://www.crotoybaiedesomme.com/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+					<styleUrl>#msn_sito unesco_0_0_01_0_0_4_20</styleUrl>
+					<Point>
+						<coordinates>1.626468,50.21524999999999,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id=" 4 ">
+					<name>Village de Gerberoy</name>
+					<open>1</open>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/cultural-resources/Gerberoy-village.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Gerberoy has a remarkable heritage: old houses, the church of Saint-Pierre, ramparts. It was ranked among the one hundred and one most beautiful villages of France in 1982.<br><br>
+<b>Address: </b> Mairie de Gerberoy Place La Hire et Xaintrailles 60380 Gerberoy<br>
+ 
+ 
+<b> </b><a href="http://www.gerberoy.info/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+					<styleUrl>#msn_sito unesco_0_0_01_0_0_4_20</styleUrl>
+					<Point>
+						<coordinates>1.850054,49.534236,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id=" 3 ">
+					<name>Crécy-en-Ponthieu</name>
+					<open>1</open>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/cultural-resources/CRECY-sitedelabataille.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Scene of a famous battle which marked the beginning of the Hundred Years War.<br><br>
+<b>Address: </b> Office de Tourisme de Crécy-en-Ponthieu 32 rue du Maréchal Leclerc de Hauteclocque 80150 Crecy en Ponthieu<br>
+ 
+ 
+<b> </b><a href="http://www.crecyenponthieu.com/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+					<styleUrl>#msn_sito unesco_0_0_01_0_0_4_20</styleUrl>
+					<Point>
+						<coordinates>1.882892,50.252468,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id=" 8 ">
+					<name>Ville de Chantilly</name>
+					<open>1</open>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/cultural-resources/Chantilly_Vue-aerienne.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>City of art and history label.<br><br>
+<b>Address: </b> Office de Tourisme de Chantilly 73 rue du Connétable 60500 Chantilly<br>
+ 
+ 
+<b> </b><a href="http://www.ville-chantilly.fr/category/ville-d%E2%80%99art-et-d%E2%80%99histoire/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+					<styleUrl>#msn_sito unesco_0_0_01_0_0_4_20</styleUrl>
+					<Point>
+						<coordinates>2.466075,49.192344,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id=" 5 ">
+					<name>Quartier Saint-Leu</name>
+					<open>1</open>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/cultural-resources/Amiens-QuartierSaintLeu.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Nestled in the arms of the Somme, lie the small houses of Saint-Leu district, built on the waterfront.<br><br>
+<b>Address: </b> Office du Tourisme 40, Place Notre-Dame 80000 Amiens<br>
+ 
+ 
+<b> </b><a href="http://www.amiens-tourisme.com/tourinsoft/details/patrimoineculturel/PCUPIC0800010611/PCU/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+					<styleUrl>#msn_sito unesco_0_0_01_0_0_4_20</styleUrl>
+					<Point>
+						<coordinates>2.30405,49.895982,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Siti UNESCO</name>
+				<Placemark id=" 1 ">
+					<name>Beffroi de Saint Riquier</name>
+					<open>1</open>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/cultural-resources/SaintRiquier-beffroi.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Since July 2005, the belfry of Saint Riquier was classified as World Heritage by UNESCO with 22 other belfries in the Nord-Pas-de-Calais and Picardy.<br><br>
+<b>Address: </b>Syndicat d'Initiative, rue de lHôpital-Le Beffroi 80135 Saint-Riquier<br>
+ 
+ 
+<b> </b><a href=" http://www.saint-riquier.com/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+					<styleUrl>#msn_unesco</styleUrl>
+					<Point>
+						<coordinates>1.946333,50.134333,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Luoghi di interesse culturale</name>
+			<Placemark id=" 573 ">
+				<name>L&apos;espace Culturel François-Mitterrand</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/8/images/8-1-2-000197.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>36 Rue de Buzanval, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>2.08734,49.43357399999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 572 ">
+				<name>La chapelle Saint-Joseph</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/8/images/7-1-1-4-000389.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>3 Rue Nully dHecourt, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>2.085894,49.42837899999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 571 ">
+				<name>Rempart gallo-romain</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/7/images/8-4-7-002132.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>Rue Jean Racine, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>2.082993,49.432619,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 570 ">
+				<name>Maison Gréber</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/7/images/8-4-7-002131.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>63 Rue de Calais, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>2.083112,49.437853,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 569 ">
+				<name>Abbaye de Saint-Paul</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/7/images/8-4-7-002119.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>Rue de lAbbaye, St Paul<br>
+<b>Phone number: </b>+33 (0)6 16 09 82 89<br>
+ 
+ 
+ 
+<b>Informations: </b>Opening: 1st July - 31th August, from Monday to Friday 9h - 12h and 15h - 18h; During the winter only by appointment<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>2.007262,49.42853599999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 574 ">
+				<name>Le palais Épiscopal</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/8/images/8-3-2-1-000653.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>1 Rue du Musee, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>2.079306,49.433162,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 568 ">
+				<name>Horloge astronomique de la Cathédrale Saint Pierre</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/7/images/8-4-7-002117.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>Rue Saint Pierre, Beauvais<br>
+ 
+ 
+ 
+ 
+<b>Informations: </b>Opening:  01/06 - 31/10 10h30, 11h30, 12h30, 13h30, 14h30, 15h30, 16h30; 01/11 - 31/05 10h30, 11,30, 14h30, 15h30, 16h30<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>2.081424,49.432721,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 567 ">
+				<name>Ancienne maladrerie Saint-Lazare</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/7/images/8-4-7-000659.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>203 Rue de Paris, Beauvais<br>
+<b>Phone number: </b>+33 (0)3 44 15 67 62<br>
+ 
+ 
+ 
+<b>Informations: </b>Opening:  01/04 - 30/09 11h - 18h; Closed: Monday<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>2.101079,49.41479200000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 576 ">
+				<name>Conservatoire Eustache Du Caurroy</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/4/1/images/8-6-1-000460.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>36 Rue de Buzanval, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>2.08663,49.433273,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 575 ">
+				<name>La Galerie nationale de la tapisserie</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/8/images/8-3-2-2-000654.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>22 Rue Saint Pierre, Beauvais<br>
+<b>Phone number: </b>+33 (0)3 44 15 67 00<br>
+ 
+ 
+ 
+<b>Informations: </b>Opening: from Tuesdasy to Friday 12h - 18h, Saturday and Sunday 10h - 18h<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>2.082544,49.431976,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 566 ">
+				<name>Maison François 1er</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/7/images/8-4-7-000658.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>16 Rue de lAbbe Gelee, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>2.082191,49.432792,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 565 ">
+				<name>Tour Boileau</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/7/images/8-4-7-000656.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>Rue Desgroux, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>2.075345,49.426603,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 564 ">
+				<name>Elispace</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/13/5/images/5-1-12-000647.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>5 Avenue Paul Henri Spaak, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>2.1008,49.449992,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 563 ">
+				<name>Hotel de ville de Beauvais</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/12/7/images/1-4-4-000001.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>1 Rue Desgroux, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>2.081873,49.429645,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 562 ">
+				<name>Ancienne abbaye Saint-Quentin, actuelle Préfecture de l&apos;Oise</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/12/1/images/1-1-1-000014.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>1 Place de la Prefecture, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>2.073739,49.437623,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 586 ">
+				<name>Maison et usine Boulenger</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/4/6/images/8-4-2-002226.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>345 Avenue du Marechal Foch, Auneuil<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>1.99055,49.37151,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 2 ">
+				<name>Pavillon de Manse</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/cultural-resources/Chantilly_Pavillon_de_Manse.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Unique heritage of the history of Grandes Eaux designed by Le Nôtre and the evolution in science and technology of the seventeenth century to the present gardens.<br><br>
+<b>Address: </b> 34 rue des Cascades 60500 Chantilly<br>
+ 
+ 
+<b> </b><a href="http://www.pavillondemanse.com/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>2.46685,49.195375,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 585 ">
+				<name>Théâtre du Goupil</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/4/5/images/8-5-3-000195.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>98 Rue de Notre Dame Du Thil, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>2.080697,49.445643,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 577 ">
+				<name>Ecole des beaux arts et des arts appliqués du Beauvaisis</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/4/1/images/8-6-2-000459.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>43 Rue de Gesvres, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>2.087191,49.433979,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 584 ">
+				<name>Théâtre de Plein Air</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/4/5/images/8-5-2-001957.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>Cour de la Musique, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>2.087021,49.43341800000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 578 ">
+				<name>Galerie de la médiathèque (Espace culturel François-Mitterrand)</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/4/2/images/8-2-1-000179.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>3 Cour des Arts, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>2.087652,49.433846,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 579 ">
+				<name>L&apos;Ouvre Boite</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/4/4/images/8-5-4-000185.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>8 Avenue de Bourgogne, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>2.099714,49.43682,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 581 ">
+				<name>Cinespace</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/4/4/images/8-5-4-000324.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>16 Rue Correus, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>2.092097,49.426463,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 583 ">
+				<name>Auditorium Mstislav Rostropovitch</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/4/4/images/8-5-9-001956.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>Rue de Gesvres, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>2.087618,49.433341,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 580 ">
+				<name>Cinéma Agnès Varda</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/4/4/images/8-5-4-000185.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>8 Avenue de Bourgogne, Beauvais<br>
+ 
+ 
+<b> </b><a href="http://agnesvardacinema.cine.allocine.fr/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>2.099846,49.43720900000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 582 ">
+				<name>Grange de la Maladrerie Saint-Lazare</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/4/4/images/8-5-7-001626.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>203 Rue de Paris, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>2.101237,49.415758,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Castelli</name>
+			<Placemark id=" 11 ">
+				<name>Château de Compiègne</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/cultural-resources/Compiegne_Chateau.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Former royal and imperial residence.<br><br>
+<b>Address: </b> Palais de Compiegne Place du Général de Gaulle 60200 Compiègne <br>
+ 
+ 
+<b> </b><a href="http://www.musee-chateau-compiegne.fr/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#sn_castello10171050101012</styleUrl>
+				<Point>
+					<coordinates>2.830958,49.41884099999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 12 ">
+				<name>Château de Chantilly e Musée Condé</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/cultural-resources/Chantilly-chateau.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>First museum of old paintings in France, before 1850, after the Louvre in Paris.<br><br>
+<b>Address: </b> Château de Chantilly 60500 Chantilly<br>
+ 
+ 
+<b> </b><a href="http://www.domainedechantilly.com/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#sn_castello10171050101012</styleUrl>
+				<Point>
+					<coordinates>2.485316,49.193854,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 559 ">
+				<name>Château de Troissereux</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/7/images/8-4-7-000667.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>This outstanding stone and brick Renaissance castle, surrounded by its original moat, has one of the oldest known clocks housed in a beautiful clock tower. Its landscaped park, incorporates a canal and arboretum.<br><br>
+<b>Address: </b>1  Rue du Chateau, Troissereux<br>
+<b>Phone number: </b>+33 (0)3 44 79 00 00<br>
+ 
+<b> </b><a href="http://www.chateau-troissereux.com/">Website</a><br>
+ 
+<b>Informations: </b>Opening: 01/04/2015 - 11/11/2015 h. 14:00 - 17:00; 12/11/2015 - 30/11/2015 h. 14:00 - 17:00; Closed: 01/12/2015 - 31/01/2016<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#sn_castello10171050101012</styleUrl>
+				<Point>
+					<coordinates>2.039923,49.477593,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 558 ">
+				<name>Château de Villiers-sur-Thère</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/7/images/8-4-7-000661.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>Grande Rue, Allonne<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#sn_castello10171050101012</styleUrl>
+				<Point>
+					<coordinates>2.127628,49.416522,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Musei</name>
+			<Placemark id=" 646 ">
+				<name>Musée départemental de l&apos;Oise (MUDO)</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/4/3/images/8-3-2-1-000653.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>1 Rue Du Musee, Beauvais<br>
+<b>Phone number: </b>+33 (0)3 44 10 40 50<br>
+ 
+ 
+ 
+<b>Informations: </b>Opening: daily except Tuesdays from 11h - 18h<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>2.079416,49.43321399999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 647 ">
+				<name>Manufacture nationale de la Tapisserie</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/4/3/images/8-3-2-1-000657.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>24 Rue Henri Brispot, Beauvais<br>
+<b>Phone number: </b>+33 (0)3 44 15 30 30<br>
+ 
+ 
+ 
+<b>Informations: </b>Opening: every Wednesday in July; in August only by appointment<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>2.087641,49.424538,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 648 ">
+				<name>Musée de l&apos;Aviation</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/4/3/images/8-3-2-2-000668.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>Route de Bruneval, Warluis<br>
+<b>Phone number: </b>+33 (0)3 44 89 28 23<br>
+ 
+ 
+ 
+<b>Informations: </b>Opening: from 01/03 to 31/10 on Saturdays , Sundays and public holidays<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>2.14878,49.393511,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 32 ">
+				<name>Maison de Jules Verne</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/cultural-resources/Amiens-maisondeJulesVerne.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>House of Jules Verne.<br><br>
+<b>Address: </b> Maison de Jules Verne 2, rue Charles Dubois 80000 Amiens<br>
+ 
+ 
+<b> </b><a href="http://www.amiens.fr/vie-quotidienne/culture/maison-jules-verne/maison-jules-verne.html /">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>2.301826,49.88775,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 36 ">
+				<name>Musée de Picardie</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/cultural-resources/Amiens-museedePicardie.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Museum of Fine Arts which brings together rich archaeological collections, sculptures, art objects and paintings, inviting a journey from the Palaeolithic to the present day.<br><br>
+<b>Address: </b> Musée de Picardie 48, rue de la République 80000 Amiens<br>
+ 
+ 
+<b> </b><a href="http://www.picardie-muses.fr/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>2.295483,49.890513,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 33 ">
+				<name>Mobilier National Manufactures Gobelins</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/cultural-resources/Beauvais-Galerienationaledelatapisserie.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Rich collection of fabrics and antique furniture in a building built in the late 1960s by André Hermant (and his collaborator Jean-Pierre Jouve), a student of Auguste Perret, a famous architect of the twentieth century, specialist of reinforced concrete.<br><br>
+<b>Address: </b> Manufacture nationale de Beauvais 24 rue Henri Brispot 60000 Beauvais<br>
+ 
+ 
+<b> </b><a href="http://www.mobiliernational.culture.gouv.fr/fr/infos-pratiques/beauvais/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>2.082687,49.43164299999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 34 ">
+				<name>La Maladrerie Saint-Lazare</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/cultural-resources/Beauvais-MaladrerieSaintLazare.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Outstanding example in France of hospital architecture of the 12th and 13th centuries.<br><br>
+<b>Address: </b> Maladrerie Saint-Lazare 203 Rue de Paris 60000 Beauvais<br>
+ 
+ 
+<b> </b><a href=" http://maladrerie.fr/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>2.100838,49.415035,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 35 ">
+				<name>Musée Départemental de l&apos;Oise</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/cultural-resources/Beauvais-museedepartementaldeloise.JPG"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Museum of Oise, housed in the former Bishop's Palace-Counts of Beauvais.<br><br>
+<b>Address: </b> Musée départemental de l'Oise 1 rue du Musée 60000 Beauvais<br>
+ 
+ 
+<b> </b><a href="http://mudo.oise.fr/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>2.080202,49.43244499999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 28 ">
+				<name>Nouveau musée du cheval - Grandes Ecuries</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/cultural-resources/Chantilly-GrandesEcuries.JPG"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Both art and ethnological museum, it offers a fun and educational approach of the horse and its history.<br><br>
+<b>Address: </b> Château de Chantilly 60500 Chantilly<br>
+ 
+ 
+<b> </b><a href="http://www.domainedechantilly.com/fr/accueil/grandes-ecuries/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>2.480307,49.194045,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 27 ">
+				<name>Maison de la Faience</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/cultural-resources/Creil-maisondelafaience.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Museum of earthenware and Treasures tower offer a testimony to the history of the town of Creil.<br><br>
+<b>Address: </b> Maison de la Fa?ence Place François Mitterand 60100 Creil<br>
+ 
+ 
+<b> </b><a href=" http://www.creil.fr/maison-la-faience-creil/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>2.472288,49.260901,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 38 ">
+				<name>Musée Gallé-Juillet</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/cultural-resources/creil-museegallejuillet.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The house Gallé-Juillet traces the life of a family in the 19th century in Creil. It has a remarkable collection of decorative arts made ??furniture, art objects, ceramics and paintings quality.<br><br>
+<b>Address: </b> Musée Gallé-Juillet Place François Mitterand 60100 Creil<br>
+ 
+ 
+<b> </b><a href="http://www.creil.fr/musee-galle-juillet">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>2.472087,49.260758,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 43 ">
+				<name>La Mer de Sable</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/cultural-resources/Ermenonville-merdesable.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Theme park founded in 1963.<br><br>
+<b>Address: </b> La Mer de Sable RN330 60950 Ermenonville<br>
+ 
+ 
+<b> </b><a href="http://www.merdesable.fr/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>2.677167,49.146069,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 42 ">
+				<name>Samara</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/cultural-resources/LaChausseeTirancourt-Samara.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The park is a place to discover gestures and techniques of the prehistoric ancestors.<br><br>
+<b>Address: </b> Samara 80310 La Chausee-Tirancourt<br>
+ 
+ 
+<b> </b><a href=" http://www.samara.fr/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>2.177083,49.9475,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 31 ">
+				<name>Cité des Bateliers</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/cultural-resources/LONGUEIL-ANNEL-Musee_de_la_batellerie.JPG"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Shipping museum.<br><br>
+<b>Address: </b> La Cité des Bateliers, 59 avenue de la Canonnière 60150 Longueil-Annel <br>
+ 
+ 
+<b> </b><a href="http://www.citedesbateliers.com/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>2.861092,49.46112999999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 41 ">
+				<name>Musée Calvin</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/cultural-resources/NOYON-musee-calvin.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Built from 1927 to 1930, the museum stands on the site of the birthplace of John Calvin.<br><br>
+<b>Address: </b> Place Aristide Briand 60400 Noyon<br>
+ 
+ 
+<b> </b><a href="http://www.ville-noyon.fr/Le-musee-Jean-Calvin/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>2.998525,49.581696,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 37 ">
+				<name>Musée Picarvie</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/cultural-resources/SaintValerysurSomme-museePicarvie.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The ancient know-how in a real reconstructed village.<br><br>
+<b>Address: </b> Musée Picarvie 5, quai du Romerel 80230 Saint-Valery-sur-Somme<br>
+ 
+ 
+<b> </b><a href=" http://www.baiedesomme.fr/fr/musee-picarvie/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>1.637031,50.186665,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 26 ">
+				<name>Somme 2</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/cultural-resources/SaintValerysurSomme-Somme2.JPG"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Flagship of the maritime heritage of the Picardy coast, classified as Historic Monument.<br><br>
+<b>Address: </b> quai du Romerel 80230 Saint-Valery-sur-Somme<br>
+ 
+ 
+<b> </b><a href=" http://www.saint-valery-sur-somme.fr/cmsnim/indexdec.php?article=40/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>1.643916,50.182861,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 40 ">
+				<name>Musée de la Vénerie</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/cultural-resources/Senlis-Musee-de-la-Venerie.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Museum of hunting or hunt, practiced since ancient times in the neighboring forests of Senlis (Chantilly, Halatte and Ermenonville). The museum, housed in the chapel of the former convent of the Charity Hospital, was opened October 12, 1935.<br><br>
+<b>Address: </b> Place du Parvis Notre-Dame 60 300 Senlis<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>2.584941,49.20692199999999,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

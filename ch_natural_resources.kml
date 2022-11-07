@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ch_natural_resources.kml</name>
+	<Style id="sh_parks1000">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_parks1000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_parks100001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_parks1000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_parks100001">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>ch_natural_resources</name>
+		<open>1</open>
+		<Folder>
+			<name>punti di interesse naturalistico</name>
+			<Placemark id=" 107 ">
+				<name>Arboretum Du Parc de la Serna</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/natural-resources/arboretum%20of%20the%20Serna.JPG"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The Serna park is situated in Jumet: it is 16 hectares and it is maintained in a semi-wild state. <br><br>
+<b>Address: </b>Rue du Bosquet 6040 Jumet<br>
+ 
+ 
+<b> </b><a href="http://www.belgique-tourisme.be/informations/attractions-touristiques-jumet-arboretum-du-parc-de-la-serna/fr/V/30123.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>4.45384,50.44744900000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 108 ">
+				<name>Arboretum of Monceau-sur-Sambre</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/natural-resources/Arboretum.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Monceau-sur-Sambre castle park is situated in a 67-hectare estate. <br><br>
+<b>Address: </b>Place Albert Ier, 32 6031 Monceau-Sur-Sambre<br>
+ 
+ 
+<b> </b><a href="http://www.belgique-tourisme.be/informations/attractions-touristiques-monceau-sur-sambre-arboretum-de-monceau-sur-sambre/fr/V/30514.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>4.366,50.42000000000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 124 ">
+				<name>Forest of Gougnies</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/natural-resources/Forest%20of%20Gougnies.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>2.5km walking path and place to observe wildlife<br><br>
+<b>Address: </b>Rue de Villers 61  6280 Lausprelle <br>
+ 
+ 
+<b> </b><a href="http://www.gerpinnes.tv/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>4.58,50.368,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 125 ">
+				<name>Lacs de l&apos;Eau d&apos;Heure</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/natural-resources/Lacs%20de%20lEau%20dHeure.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The largest Belgian nautical facilities (jet ski, water ski, kayak, windsurfing, diving), guided tour of the largest barrage in Belgium, whole series of beach activities for families, accommodation in the holiday villages. Photo Source: www.lacsdeleaudheure.be.<br><br>
+<b>Address: </b>Route de la Plate Taille 99, 6440 Boussu-lez-Walcourt<br>
+ 
+ 
+<b> </b><a href="http://www.lacsdeleaudheure.be/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>4.382,50.186,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 116 ">
+				<name>Nature reserve of Viesville</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/natural-resources/natural%20reserve%20viesville.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>50 ha of forests and meadows, with more than 500 plant species and 200 mushroom species. Photo Source: www.paysdecharleroi.be .<br><br>
+ 
+ 
+ 
+<b> </b><a href="http://www.paysdecharleroi.be/index.php?option=com_flexicontent&view=category&cid=102&Itemid=667&lang=en">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>4.408,50.489,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 106 ">
+				<name>Parc Bivort</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/natural-resources/parc%20bivort.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>It is a park that responds to the English landscape rules<br><br>
+<b>Address: </b>Rue Wattelar 6040 Jumet<br>
+ 
+ 
+<b> </b><a href="http://www.paysdecharleroi.be/mobile/index4.php?sous_type=&type_offre=11&codeCGT=ALD-09-000C05">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>4.417706,50.446052,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 104 ">
+				<name>Parc Reine Astrid</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/natural-resources/Queen%20Astrid%20Park.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Park with Romantic influences (19th century). Photo Source: www.paysdecharleroi.be.<br><br>
+<b>Address: </b>Boulevard Audent, 6000 Charleroi<br>
+ 
+ 
+<b> </b><a href="www.paysdecharleroi.be">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>4.446211,50.409626,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 118 ">
+				<name>Sebastopol nature reserve</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/natural-resources/reserve%20sebastopol%20Bouffioulx.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The Natagora association's aim is to help to discover the reserve : plants, insects, birds, mammals. Photo Source: www.paysdecharleroi.be.<br><br>
+ 
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>4.512856,50.391382,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 110 ">
+				<name>Pilot Nature Garden</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/natural-resources/Pilot%20Nature%20Garden.gif"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Garden of local flora<br><br>
+<b>Address: </b>Rue  du parc Saint-Adrien 6280 Gerpinnes<br>
+ 
+ 
+<b> </b><a href="http://www.gerpinnes.be/loisirs/loisirs-1/nature%20/les-sites-naturels-a-decouvrir/le-jardin-naturel-pilote">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>4.524,50.336,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 115 ">
+				<name>The Slag-heap on the Bois du Cazier</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/natural-resources/TheSlagheapontheBoisduCazier.png"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Landscape of the oldest slag-heaps of the site, you can admire the flora and beautiful from different point views.<br><br>
+<b>Address: </b>Rue du Cazier, 80 6001 Marcinelle<br>
+ 
+ 
+<b> </b><a href="www.leboisducazier.be">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>4.46121,50.374138,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 122 ">
+				<name>Tour &quot;From Marchaux to Sebastopol&quot;</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/natural-resources/TourFromMarchauxtoSebastopol.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>9.4 km walking route through the woods, passing by the reserve, rocky ground of Bouffioulx.<br><br>
+<b>Address: </b>Rue Paul Pastur 6200 Bouffioulx<br>
+ 
+ 
+<b> </b><a href="http://www.tracegps.com/fr/parcours/circuit19007.htm">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>4.52,50.38,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 114 ">
+				<name>The Slag-heap of the Martinet</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/natural-resources/Slag%20heap%20Martinet.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The Slag-heaps of the Country of Charleroi, loaded with history and social values, has an appearance half-way between the mountains and the desert. Photo Source: www.paysdecharleroi.be.<br><br>
+ 
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>4.385001,50.44,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 119 ">
+				<name>&quot;The Pays de Geminiacum&quot;</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/natural-resources/pays%20de%20germinacium.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>A rural and agricultural area, the Pays de Geminiacum has a broad network of rural paths, sunken lanes and other country lanes. Photo Source: www.germinacium.be<br><br>
+<b>Address: </b>Place de Liberchies, 7 6238 Liberchies<br>
+ 
+ 
+<b> </b><a href="http://www.geminiacum.be/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>4.42,50.513,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 120 ">
+				<name>Tour &quot;of the Castle&quot;</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/natural-resources/TouroftheCastle.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Walk 3-4 km to discover the castle and its large garden that was visited by Louis XIV in 1667. The ride also follows the old course of the Sambre to return to the city center.<br><br>
+<b>Address: </b>Rue de la Chaussée,3 6240 Farciennes<br>
+ 
+ 
+<b> </b><a href="www.farciennesplus.be">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>4.552,50.427,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 112 ">
+				<name>The Slag-heap of the Pétria</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/natural-resources/slag%20heap%20pietra.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The Slag-heaps of the Country of Charleroi, loaded with history and social values, has an appearance half-way between the mountains and the desert. Photo Source: www.paysdecharleroi.be.<br><br>
+ 
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks1000</styleUrl>
+				<Point>
+					<coordinates>4.324,50.41500000000001,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

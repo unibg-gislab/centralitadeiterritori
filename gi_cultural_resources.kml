@@ -1,0 +1,2605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>gi_cultural_resources.kml</name>
+	<StyleMap id="msn_sito unesco_0_0_01_0_0_4_20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_sito unesco_0_0_01_0_0_4_20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_sito unesco_0_0_01_0_0_4_20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_chiesa_0_0_01_0_03_001">
+		<IconStyle>
+			<scale>0.699993</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/sitireligiosi.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_castello01000080040022">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/castelli.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff005cb8</color>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_castello200001010001110">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/castelli.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff005cb8</color>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_sito unesco_0_0_01_0_0_4_20">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/borghi_png.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin01303117000216">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/musei.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl10011251780204">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/musei.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_chiesa_0_0_01_0_03_000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_chiesa_0_0_01_0_03_011</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_chiesa_0_0_01_0_03_001</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="sn_castello10171050101012">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_castello01000080040022</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_castello200001010001110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_sito unesco_0_0_01_0_0_4_20">
+		<IconStyle>
+			<scale>0.827273</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/borghi_png.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0320011187206">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin01303117000216</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl10011251780204</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_chiesa_0_0_01_0_03_011">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/sitireligiosi.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>gi_cultural_resources</name>
+		<open>1</open>
+		<Folder>
+			<name>Luoghi della fede</name>
+			<Placemark id=" 217 ">
+				<name>Santuari de la Mare de Déu del Remei</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/Santuari%20de%20la%20Mare%20de%20D%C3%A9u%20del%20Remei.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Shrine built in the nineteenth century.<br><br>
+<b>Address: </b>Bolvir, Cerdanya, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.poblesdecatalunya.cat/element.php?e=1067">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_chiesa_0_0_01_0_03_000</styleUrl>
+				<Point>
+					<coordinates>1.890231,42.419935,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 193 ">
+				<name>Monestir de Sant Miquel de Cruïlles</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/stmiquel_cruilles.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Sant Miquel de Cruïlles is a Benedictine monastery in Cruïlles, Monells i Sant Sadurní de l'Heura. The 11th-century building, in First Romanesque style, was protected in 1931.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.monestirs.cat/monst/baemp/bp09miqu.htm">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_chiesa_0_0_01_0_03_000</styleUrl>
+				<Point>
+					<coordinates>3.004758,41.953991,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 203 ">
+				<name>Santuari Mare de Déu del Coll</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/Santuari%20Mare%20de%20D%C3%A9u%20del%20Coll.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The sanctuary is located on the north side of Guilleries, at a height of 823 meters in the neck connecting the clumps of Sant Benet and Sant Gregori. It is an excellent vantage point.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.catalunyamedieval.es/santuari-de-la-mare-de-deu-del-coll-osor-selva//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_chiesa_0_0_01_0_03_000</styleUrl>
+				<Point>
+					<coordinates>2.524267,41.957746,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 192 ">
+				<name>Catedral de Girona</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/catedral_girona.JPG"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Built between the 11th and 18th centuries, it includes a series of walls and spaces in different styles, from Romanesque (the cloister and Charlemagne tower) to the Baroque façade and steps. Its most singular feature is its large Gothic nave (15th-16th centuries) which, at a width of 23 metres, is the widest of its kind in the world.<br><br>
+<b>Address: </b>Plaça de la Catedral, s/n - 17004 Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.catedraldegirona.org/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_chiesa_0_0_01_0_03_000</styleUrl>
+				<Point>
+					<coordinates>2.825915999999999,41.98727,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 200 ">
+				<name>Santuari de la Mare de Déu dels Àngels</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/Santuari%20de%20la%20Mare%20de%20D%C3%A9u%20dels%20%C3%80ngels.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The sanctuary of the Angels is located at an altitude of 484 metres, in the Massís de Gavarres, in the municipality of Sant Martí Vell. In 1409, the bishop Descatllar agreed to the construction of the hermitage. From these heights you get fantastic panoramic views of Girona, of Baix Empordà, of the islands of Medes, of the Pyrenees, Montseny and the Guilleries.<br><br>
+<b>Address: </b>Carretera dels Ángels, km10.5, 17462 Sant Martí Vell, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.santuarisdegirona.cat/angels/en/index.asp">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_chiesa_0_0_01_0_03_000</styleUrl>
+				<Point>
+					<coordinates>2.908882,41.984566,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 194 ">
+				<name>Santuari de la Mare de Déu de la Salut de Terrades</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/salut_terrades.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>In the nineteenth century the shrine was restored after the damage probably caused by the World War, and was completely rebuilt in 1885.<br><br>
+<b>Address: </b>Afores, s/n - 17731 Terrades, Girona<br>
+ 
+ 
+<b> </b><a href=" http://coneixercatalunya.blogspot.com.es/2014/03/santuari-de-la-mare-de-deu-de-la-salut.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_chiesa_0_0_01_0_03_000</styleUrl>
+				<Point>
+					<coordinates>2.834285,42.325305,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 195 ">
+				<name>Ermita de la Mare de Déu del Camp</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/Ermita%20de%20la%20Mare%20de%20D%C3%A9u%20del%20Camp.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The church has a single nave with a semicircular apse and two side chapels on each side. The nave is covered with a vault. <br><br>
+<b>Address: </b>Garriguella, Alt Empordà, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.poblesdecatalunya.cat/element.php?e=6115">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_chiesa_0_0_01_0_03_000</styleUrl>
+				<Point>
+					<coordinates>3.066218,42.351811,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 196 ">
+				<name>Santuari de la Mare de Déu de les Salines</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/Santuari%20de%20la%20Mare%20de%20D%C3%A9u%20de%20les%20Salines.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The sanctuary has a chapel, a small shelter and a restaurant. Thanks to its privileged location, it enjoys spectacular views of the area. <br><br>
+<b>Address: </b>Maçanet de Cabrenys, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.massanetdecabrenys.com/salines8.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_chiesa_0_0_01_0_03_000</styleUrl>
+				<Point>
+					<coordinates>2.749067,42.420877,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 198 ">
+				<name>Ermita de la Mare de Déu de l&apos;Esperança</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/Ermita%20de%20la%20Mare%20de%20D%C3%A9u%20de%20lEsperan%C3%A7a.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Exemplary representative of the Baroque architecture of the seventeenth and eighteenth centuries. It stands out for its uniqueness in the region, a stone pulpit decorated with reliefs.<br><br>
+<b>Address: </b>C/ Raval, 6, 17121 Cruïlles, Girona<br>
+ 
+ 
+<b> </b><a href=" http://patmapa.gencat.cat/web/guest/patrimoni/arquitectura?articleId=HTTP://GAUDI_ELEMENTARQUITECTONIC_7057">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_chiesa_0_0_01_0_03_000</styleUrl>
+				<Point>
+					<coordinates>3.011813,41.963962,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 206 ">
+				<name>Santuari de la Mare de Déu del Collell</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/Santuari%20de%20la%20Mare%20de%20D%C3%A9u%20del%20Collell.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Shrine of Romanesque style, built in the sixteenth century. <br><br>
+<b>Address: </b>17830 El Collell, Girona<br>
+ 
+ 
+<b> </b><a href=" http://patmapa.gencat.cat/web/guest/patrimoni/arquitectura?articleId=HTTP://GAUDI_ELEMENTARQUITECTONIC_10615">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_chiesa_0_0_01_0_03_000</styleUrl>
+				<Point>
+					<coordinates>2.657379,42.151245,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 197 ">
+				<name>Santuari de Santa Maria de Bell-lloc</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/Santuari%20de%20Santa%20Maria%20de%20Bell-lloc.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The chapel dates from the thirteenth century. The present church was built in the eighteenth century and its construction ended in 1758.<br><br>
+<b>Address: </b>Palamós, Baix Empordà, Girona<br>
+ 
+ 
+<b> </b><a href=" http://totsonpuntsdevista.blogspot.com.es/2013/05/santuari-de-santa-maria-de-bell-lloc.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_chiesa_0_0_01_0_03_000</styleUrl>
+				<Point>
+					<coordinates>3.109228,41.881415,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 202 ">
+				<name>Santuari de la Mare de Déu de Rocacorba</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/Santuari%20de%20la%20Mare%20de%20D%C3%A9u%20de%20Rocacorba.JPG"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>At the top of the mountain Rocacorba you can find the sanctuary that bears its name. Almost 1000 meters high, it allows us to admire magnificent views of the area.<br><br>
+<b>Address: </b>Canet d'Adri, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.llemena.com/content/el-santuari-de-rocacorba-canet-dadri/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_chiesa_0_0_01_0_03_000</styleUrl>
+				<Point>
+					<coordinates>2.687712,42.067371,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 201 ">
+				<name>Santuari de Santa Afra</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/Santuari%20de%20Santa%20Afra"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The church has a single nave with side chapels, much of the structure is part of a reform of the early twentieth century.<br><br>
+<b>Address: </b>Pueblo de Ginestar, Pista asfaltada des de la carretera Gi-531, km.8, 17151 Sant Gregori, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.llemena.com/content/el-santuari-de-santa-afra-ginestar/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_chiesa_0_0_01_0_03_000</styleUrl>
+				<Point>
+					<coordinates>2.720697,42.006016,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 204 ">
+				<name>Santuari de la Mare de Déu del Far</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/Santuari%20de%20la%20Mare%20de%20D%C3%A9u%20del%20Far.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The shrine was built in the eleventh century and is located at a height of 1.123 m, with a magnificent view of Montseny.<br><br>
+<b>Address: </b>Susqueda, La Selva, Girona <br>
+ 
+ 
+<b> </b><a href=" http://www.poblesdecatalunya.cat/element.php?e=6637">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_chiesa_0_0_01_0_03_000</styleUrl>
+				<Point>
+					<coordinates>2.536356,42.021132,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 208 ">
+				<name>Santuari de la Mare de Déu del Vilar</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/Santuari%20de%20la%20Mare%20de%20D%C3%A9u%20del%20Vilar.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Sanctuary of nineteenth-century style. The shrine was built in the fourteenth century. <br><br>
+<b>Address: </b>Blanes, La Selva, Girona<br>
+ 
+ 
+<b> </b><a href=" http://patmapa.gencat.cat/web/guest/patrimoni/arquitectura?articleId=HTTP://GAUDI_ELEMENTARQUITECTONIC_26678/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_chiesa_0_0_01_0_03_000</styleUrl>
+				<Point>
+					<coordinates>2.776983,41.714396,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 212 ">
+				<name>Santuari de la Mare de Déu del Mont</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/Santuari%20de%20la%20Mare%20de%20D%C3%A9u%20del%20Mont.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Sanctuary of Romanesque style, built in the 14th century. <br><br>
+<b>Address: </b>Paraje Masos Albanya, s/n, 17733 Albanyà, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.marededeudelmont.com/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_chiesa_0_0_01_0_03_000</styleUrl>
+				<Point>
+					<coordinates>2.707145,42.258319,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 205 ">
+				<name>Ermita de la Mare de Déu de Farners</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/Ermita%20de%20la%20Mare%20de%20D%C3%A9u%20de%20Farners.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The current chapel is formed largely by a Baroque reconstruction, which was added to the portion of the Romanesque church. <br><br>
+<b>Address: </b>Diseminado Diseminat, 63, 17430 Santa Coloma de Farners, Girona<br>
+ 
+ 
+<b> </b><a href=" http://patmapa.gencat.cat/web/guest/patrimoni/arquitectura?articleId=HTTP://GAUDI_ELEMENTARQUITECTONIC_23921">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_chiesa_0_0_01_0_03_000</styleUrl>
+				<Point>
+					<coordinates>2.632824,41.859975,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 211 ">
+				<name>Santuari de la Mare de Déu la Font de la Salut</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/Santuari%20de%20la%20Mare%20de%20D%C3%A9u%20la%20Font%20de%20la%20Salut.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The extension of the building dates from the 19th century and the last restoration work (restoration of the organ, new road paving and heating system) was carried out between 2000 and 2003. The picture that is worshiped is a plaster copy placed there in 1939, after the Civil War. <br><br>
+<b>Address: </b>17174 Sant Feliu de Pallerols, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.santuarisdegirona.cat/pallerols/en/index.asp">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_chiesa_0_0_01_0_03_000</styleUrl>
+				<Point>
+					<coordinates>2.496188,42.062797,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 209 ">
+				<name>Església de Santa Maria de Porqueres</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/Esgl%C3%A9sia%20de%20Santa%20Maria%20de%20Porqueres.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Church of Romanesque style, built in the twelfth century. Protected in 1931. <br><br>
+<b>Address: </b>Porqueras, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.porqueres.cat/index.php/arees/turisme/santa-maria/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_chiesa_0_0_01_0_03_000</styleUrl>
+				<Point>
+					<coordinates>2.748622,42.121792,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 213 ">
+				<name>Església de la Mare de Déu del Tura</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/Esgl%C3%A9sia%20de%20la%20Mare%20de%20D%C3%A9u%20del%20Tura.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Baroque church built in the ninth century.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.festacatalunya.cat/articles-mostra-6736-cat-esglysia_del_tura.htm/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_chiesa_0_0_01_0_03_000</styleUrl>
+				<Point>
+					<coordinates>2.491518,42.182275,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 210 ">
+				<name>Església de Santa Maria de Finestres</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/Esgl%C3%A9sia%20de%20Santa%20Maria%20de%20Finestres.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Church of Romanesque style, built in the 10th century.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.monestirs.cat/monst/garrot/gt13fine.htm">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_chiesa_0_0_01_0_03_000</styleUrl>
+				<Point>
+					<coordinates>2.593071,42.112074,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 214 ">
+				<name>Santuari de la Mare de Déu de Montgrony</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/Santuari%20de%20la%20Mare%20de%20D%C3%A9u%20de%20Montgrony.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Shrine built in the fourteenth century.<br><br>
+<b>Address: </b>Gombrèn, Girona<br>
+ 
+ 
+<b> </b><a href=" http://cataloniasacra.cat/llocs/santuari-de-mogrony/623/itinerari/48/l_ca/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_chiesa_0_0_01_0_03_000</styleUrl>
+				<Point>
+					<coordinates>2.085331,42.26567,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 215 ">
+				<name>Santuari de la Mare de Déu de Núria</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/Santuari%20de%20la%20Mare%20de%20D%C3%A9u%20de%20N%C3%BAria.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Núria is a popular place of pilgrimage. Sited at an altitude of almost 2000 metres, it provides not just a natural shelter among the high peaks, but also a spiritual oasis whose history can be traced to ancient origins and traditions. It is the ideal place in which to organise retreats and periods of meditation and prayer.<br><br>
+ 
+ 
+ 
+<b> </b><a href="http://www.valldenuria.cat/hivern/estacio/santuari-basilica/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_chiesa_0_0_01_0_03_000</styleUrl>
+				<Point>
+					<coordinates>2.153454,42.397181,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 216 ">
+				<name>Ermita de Nostra Senyora del Remei</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/Ermita%20de%20Nostra%20Senyora%20del%20Remei.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Chapel built in the seventeenth century.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://latribunadelbergueda.blogspot.com.es/2013/09/ermita-de-la-marededeu-del-remei-beget.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_chiesa_0_0_01_0_03_000</styleUrl>
+				<Point>
+					<coordinates>2.479947,42.319069,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Castelli</name>
+			<Placemark id=" 190 ">
+				<name>Castell de Montsoriu</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/castell_montsoriu.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Consisting of three enclosures encircled by walls, the oldest preserved castle rock, the master tower or keep, it dates from the second half of the tenth century.<br><br>
+<b>Address: </b>Camí del Castell de Montsoriu, 17401 Arbúcies, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.montsoriu.cat//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#sn_castello10171050101012</styleUrl>
+				<Point>
+					<coordinates>2.54061,41.783161,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 184 ">
+				<name>Castell de Sant Pere</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/castell_stpere_rfreser.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The castle is located in the upper part of the village, between the rivers and Segadell Freser. What remains today is a half-ruined tower, some walls with relieving arches and some ships buried.<br><br>
+<b>Address: </b>Sant Pere de Ribes, Girona<br>
+ 
+ 
+<b> </b><a href="http://www.artmedieval.net/Castell%20de%20Sant%20Pere%20de%20Ribes.htm">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#sn_castello10171050101012</styleUrl>
+				<Point>
+					<coordinates>2.171747,42.309686,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 176 ">
+				<name>Castell de Quermançó</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/castell_querman%C3%A7%C3%B3.JPG"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Castle Quermançó is an important example of Catalan medieval castles used for defense. The surrealist painter Salvador Dalí had a deep affection for the castle and was very familiar with it.<br><br>
+<b>Address: </b>Vilajuïga, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.cdq.es/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#sn_castello10171050101012</styleUrl>
+				<Point>
+					<coordinates>3.018362,42.266138,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 179 ">
+				<name>Castell de Requesens</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/castell_recasens.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>This is a neo-medieval castle which was built in the highest mountain Albera, where enemy troops could be controlled.  In the lower part of the castle there is the first defense, where the pictures were the stables. The castle even had its own hospital.<br><br>
+<b>Address: </b>17708 Requesens, Girona<br>
+ 
+ 
+<b> </b><a href="http://www.castellderequesens.cat/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#sn_castello10171050101012</styleUrl>
+				<Point>
+					<coordinates>2.944447,42.446564,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 175 ">
+				<name>Castell de Sant Ferran de Figueres</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/castell_stferran_figueres.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The castle of San Fernando is considered to be Europe's largest bastion fortress and declared of cultural interest, classified as a historical monument.<br><br>
+<b>Address: </b>Pujada del Castell, s/n - 17600 Figueres, Girona<br>
+ 
+ 
+<b> </b><a href="http://www.castillosanfernando.org//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#sn_castello10171050101012</styleUrl>
+				<Point>
+					<coordinates>2.947908,42.272958,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 173 ">
+				<name>Castell Palau de Peralada</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/castell_peralada.JPG"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The property has two large buildings: the gothic castle housing the casino and the familys quarters, and the El Carmen convent and museum with private collections.<br><br>
+<b>Address: </b>Plaça del Carme, s/n - 17491, Peralada, Girona <br>
+ 
+ 
+<b> </b><a href="http://www.museucastellperalada.com/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#sn_castello10171050101012</styleUrl>
+				<Point>
+					<coordinates>3.011042,42.307776,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 177 ">
+				<name>Castell de la Bisbal</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/castell_labisbal.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The castle is located in the center of La Bisbal d'Empordà. It is the old episcopal palace residence of the bishops of Girona, who were lords of the city. It is an extraordinary example of civil architecture of the Middle Ages.<br><br>
+<b>Address: </b>Castell d'Empordà, s/n - 17115 La Bisbal, Girona<br>
+ 
+ 
+<b> </b><a href=" http://castellscatalans.blogspot.com.es/2011/02/la-bisbal.html#//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#sn_castello10171050101012</styleUrl>
+				<Point>
+					<coordinates>3.037265,41.959434,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 178 ">
+				<name>Castell de Bellcaire</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/castell_bellcaire.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>It represents a beautiful archaeological site, now restored. The square building was surrounded by other six round towers: the Southeast tower is pretty fully maintained. <br><br>
+<b>Address: </b>Bellcaire d'Empordà, Girona<br>
+ 
+ 
+<b> </b><a href="http://castellscatalans.blogspot.it/search?q=bellcaire">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#sn_castello10171050101012</styleUrl>
+				<Point>
+					<coordinates>3.094448,42.08111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 180 ">
+				<name>Castell de Rocabertí</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/castell_rocaberti.JPG"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>This monument is a rock castle located on a steep granite cliff taper. Today, only ruins remain on.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.lajonquera.info/castellderocaberti.html/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#sn_castello10171050101012</styleUrl>
+				<Point>
+					<coordinates>2.884067,42.436931,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 182 ">
+				<name>Castell d&apos;Hostoles</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/castell_hostoles.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The castle is a castle rock Hostoles, built in the 9th-10th centuries, of which only ruins remain.<br><br>
+<b>Address: </b>Sant Feliu de Pallerols, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.catalunyamedieval.es/castell-dhostoles-la-garrotxa/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#sn_castello10171050101012</styleUrl>
+				<Point>
+					<coordinates>2.530871,42.070288,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 186 ">
+				<name>Castell de la Trinitat</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/castell_trinitat.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The military construction, which dates from 1544, has the shape of a five-pointed star, with pronounced angular corners for defense against enemy projectiles. It is built on a grand scale with two-meter thick walls.<br><br>
+<b>Address: </b>Golfo de Rosas, Girona<br>
+ 
+ 
+<b> </b><a href="http://rosespedia.cat/index.php/Castell_de_la_Trinitat">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#sn_castello10171050101012</styleUrl>
+				<Point>
+					<coordinates>3.18386,42.247311,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 181 ">
+				<name>Castell de Púbol</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/castell_pubol.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The castle, open to the public since 1996, allows visitors to discover a medieval building in which Salvador Dalí lent material form to an exuberant creative effort with his mind set on one person, Gala.<br><br>
+<b>Address: </b>Gala Dalí, s/n - 17120 Púbol, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.salvador-dali.org/museus/castell-gala-dali-pubol/en_index/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#sn_castello10171050101012</styleUrl>
+				<Point>
+					<coordinates>2.983254,42.014619,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 185 ">
+				<name>Castell de Bufalaranya</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/castell_bufalaranya.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>This castle was built in the eighth century. Standing on a hill with difficult access, its fortified perimeter has the characteristic of opus spicatum. An air of mystery shrouds the charming remains.<br><br>
+<b>Address: </b>Rosas, Girona<br>
+ 
+ 
+<b> </b><a href="http://www.rosespedia.cat/index.php/Castell_de_Bufalaranya">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#sn_castello10171050101012</styleUrl>
+				<Point>
+					<coordinates>3.194448,42.295327,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 187 ">
+				<name>Castell de Medinyà</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/castell_medinya.JPG"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The castle displays a mix of architectural remains of the 12th century. What remains of the original construction is a very strong circular tower, the donjon and several fragments of wall.<br><br>
+<b>Address: </b>Sant Julià de Ramis, Girona<br>
+ 
+ 
+<b> </b><a href="http://castellscatalans.blogspot.it/2013/03/medinya.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#sn_castello10171050101012</styleUrl>
+				<Point>
+					<coordinates>2.865254,42.049524,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 191 ">
+				<name>Castell de Montgrí</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/castell_montgri.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Built between 1294 and 1301, the only parts erected were the perimeter walls, forming a square of 31m along each side, and the four round towers at its corners. The walls are 31m high with battlements along the top.<br><br>
+<b>Address: </b>Torroella de Montgrí, 17257, Girona<br>
+ 
+ 
+<b> </b><a href=" http://castellscatalans.blogspot.com.es/2008/05/montgr-baix-empord.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#sn_castello10171050101012</styleUrl>
+				<Point>
+					<coordinates>3.131597,42.052156,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 188 ">
+				<name>Castell de Sant Llorenç de la Muga</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/castell_stlloren%C3%A7muga.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The lookout tower was built in the thirteenth century and is now in perfect condition. It has a completely circular crowned and is built on bedrock.<br><br>
+<b>Address: </b>Sant Llorenç de la Muga, Alt Empordà, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.artmedieval.net/castell%20sant%20llorenc%20muga.htm">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#sn_castello10171050101012</styleUrl>
+				<Point>
+					<coordinates>2.785799,42.32005,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 189 ">
+				<name>Castell de Farners</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/Castell%20de%20Farners.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The castle was built in the early eleventh century. It was restored in the late twentieth century, when the top of the north wall, the most damaged over the centuries, was reconstructed. It consists of a circular master tower, about 12 meters high, surrounded by a walled enclosure.<br><br>
+<b>Address: </b>Santa Coloma de Farnés, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.artmedieval.net/Castell%20Farners.htm">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#sn_castello10171050101012</styleUrl>
+				<Point>
+					<coordinates>2.631209,41.860372,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Località</name>
+			<Folder>
+				<name>Borghi d&apos;eccellenza</name>
+				<Placemark id=" 165 ">
+					<name>Agullana</name>
+					<open>1</open>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/Agullana.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Already inhabited in prehistoric times.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://ca.agullana.cat//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+					<styleUrl>#msn_sito unesco_0_0_01_0_0_4_20</styleUrl>
+					<Point>
+						<coordinates>2.846832000000001,42.393861,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id=" 166 ">
+					<name>Amer</name>
+					<open>1</open>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/amer.JPG"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Unique architectural heritage railway in Catalonia.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.amer.cat//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+					<styleUrl>#msn_sito unesco_0_0_01_0_0_4_20</styleUrl>
+					<Point>
+						<coordinates>2.604768,42.009685,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id=" 167 ">
+					<name>Besalú</name>
+					<open>1</open>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/Besal%C3%BA.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>This medieval town is one of the main attractions of la Garrotxa, it has remains of important towns of the Jewish community. <br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.besalu.cat//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+					<styleUrl>#msn_sito unesco_0_0_01_0_0_4_20</styleUrl>
+					<Point>
+						<coordinates>2.692852,42.200849,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id=" 168 ">
+					<name>Cruïlles, Monells i Sant Sadurní de l&apos;Heura</name>
+					<open>1</open>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/cruilles_monells.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>This municipality is made up of the three nuclei that give it its name, plus a number of small villages scattered around its territory.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.cmss.cat//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+					<styleUrl>#msn_sito unesco_0_0_01_0_0_4_20</styleUrl>
+					<Point>
+						<coordinates>2.997894,41.943149,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id=" 169 ">
+					<name>La Bisbal d&apos;Empordà</name>
+					<open>1</open>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/la_bisbal.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Ceramics is the mainstay of the local economy.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.labisbal.cat//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+					<styleUrl>#msn_sito unesco_0_0_01_0_0_4_20</styleUrl>
+					<Point>
+						<coordinates>3.039864999999999,41.958979,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id=" 171 ">
+					<name>Peralada</name>
+					<open>1</open>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/peralada.JPG"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Peralada is a feudal town with lots of history. At present, the town is known for its music festival and its medieval castle.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.peralada.org//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+					<styleUrl>#msn_sito unesco_0_0_01_0_0_4_20</styleUrl>
+					<Point>
+						<coordinates>3.010082,42.307975,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id=" 172 ">
+					<name>Peratallada</name>
+					<open>1</open>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/peratallada.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The village is declared a historical-artistic and cultural heritage of national interest and is one of the most important centers of Catalonia regarding medieval architecture.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.forallac.cat/index.php/municipi/pobles/peratallada/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+					<styleUrl>#msn_sito unesco_0_0_01_0_0_4_20</styleUrl>
+					<Point>
+						<coordinates>3.090505,41.97873,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Musei</name>
+			<Placemark id=" 218 ">
+				<name>Ecomuseu Farinera de Castelló d&apos;Empúries</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/Ecomuseu%20Farinera%20de%20Castell%C3%B3%20dEmp%C3%BAries.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The Ecomuseu-Farinera was established with these objectives: to conserve and enrich the heritage of the Farinera and its environment; to promote its social usage and convert it into a promotional tool of social and economic life; and to promote the culture of the village of Castelló dEmpúries and the region of Alt Empordà.<br><br>
+<b>Address: </b>C/ Sant Francesc, 5-7, 17486, Castelló d'Empúries , Alt Empordà, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.ecomuseu-farinera.org/index2.php?la=ENG/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>3.076942,42.25874,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 219 ">
+				<name>Museu municipal de Tossa de Mar</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/museu_tossa.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The Museu de Tossa de Mar is located in the heart of the walled Old Town (12th century). The building occupied by the museum (14th century) is the so-called Fern House, also known as the home of the Mayor of Sac Governor. <br><br>
+<b>Address: </b>Plaça Pintor Roig Soler, 1, 17320 Tossa de Mar, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.tossademar.com/museu/home.htm">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>2.932741,41.716272,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 220 ">
+				<name>Museu Etnològic del Montseny</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/museu_etnologic_montseny.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Museu Etnològic del Montseny is housed within a seventeenth-century building situated in the centre of the village of Arbúcies. <br><br>
+<b>Address: </b>Carrer Major, 6, 17401 Arbúcies, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.museuetnologicmontseny.org/ca/visita-virtual-del-museu?content_lang=en">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>2.513812,41.816011,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 221 ">
+				<name>Museu Arqueològic de Banyoles</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/museu_arq_banyoles.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The museum exhibits collections from archaeological sites in the region of the Lake Plan, from the most remote times to the Middle Ages.<br><br>
+<b>Address: </b>Placeta de la Font, 11, 17820 Banyoles, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.museusdebanyoles.cat/arqueologic/ElMuseu/tabid/254/Default.aspx/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>2.766975,42.118951,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 222 ">
+				<name>Museu Darder d&apos;Història Natural</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/museu_darder.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Museu Darder is one of the oldest museums in the region. It exhibits some natural history collections dedicated to explaining the phenomenon of the hydrogeological basin of Lake Banyoles.<br><br>
+<b>Address: </b>Plaça dels Estudis, 2 - 17820 Banyoles, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.museusdebanyoles.cat/Default.aspx?alias=www.museusdebanyoles.cat/darder">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>2.765226,42.119154,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 223 ">
+				<name>Museu Terracotta</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/museu_terracotta.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Museu Terracotta in La Bisbal d'Empordà is, today, the only institution in the province of Girona devoted to preserving, conserving and promoting the material and cultural heritage related to pottery and ceramics.<br><br>
+<b>Address: </b>c/ Sis dOctubre, 99 -17100 La Bisbal dEmpordà, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.museuscostabrava.cat/index.php?pagina=2&museu=2&idioma=3/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>3.045369,41.958888,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 224 ">
+				<name>Museu Municipal Josep Aragay</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/museu_jargay.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The museum is located in the former parish church of Santa Maria, which dates back to the 12th century. The remains of the Romanesque apse and crossing can still be seen on the site. <br><br>
+<b>Address: </b>Carrer Nou, 2, 17400 Breda, Girona<br>
+ 
+ 
+<b> </b><a href="http://www.museuaragay.cat/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>2.557695,41.748873,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 225 ">
+				<name>Museu de Cadaqués</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/museu_cadaques.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Museu de Cadaqués is dedicated to Salvador Dalí and it holds temporary exhibitions about the painter's biography and works of art.<br><br>
+<b>Address: </b>Platja Portlligat, s/n, 17488 Cadaqués, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.visitcadaques.org/?lang=uk&sec=cultura&sub=museus/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>3.275001,42.288782,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 226 ">
+				<name>Museu de l&apos;Embotit</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/museu_embotit.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The Sausage museum was inaugurated in 1993 to commemorate the first licence granted to the Sala family, 150 years before, allowing them to produce sausages in Castellfollit de la Roca, a product with a long tradition in this town in Girona. <br><br>
+<b>Address: </b>Carretera de Girona, 10 - 17856 Castellfollit de la Roca, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.catalunya.com/-17-16001-210/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>2.550252,42.219792,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 227 ">
+				<name>Museu de l&apos;Anxova i de la Sal</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/museu_anxova.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Museu de l'Anxova i de la Sal shows the history of fishing and salting of fatty fish from the sixteenth century to the present. In a while, it immerses us in the unique heritage and knowledge of the Catalan coast.<br><br>
+<b>Address: </b>Av. Francesc Macià, 1 - 17130 L'Escala, Girona<br>
+ 
+ 
+<b> </b><a href=" http://museudelanxovaidelasal.blogspot.com.es/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>3.126141,42.125711,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 228 ">
+				<name>Museu del Joguet de Catalunya</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/Museu%20del%20Joguet%20de%20Catalunya.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The museum's exhibits include over 4.000 items: animated life forms, Meccano constructions, miniature theatre sets, cardboard animals and horses, kitchens, balls, spinning tops, planes, cars, trains, dolls, puppets, magic tricks, games for the blind, disguises, cut-outs, barrel organs, soldiers, robots, steam engines, teddy bears, tricycles, scooters, etc.<br><br>
+<b>Address: </b>Carrer de Sant Pere, 1 - 17600 Figueres, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.mjc.cat/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>2.960611,42.266607,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 230 ">
+				<name>Museu d&apos;Art de Girona</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/museu_art_girona.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>It contains the most important collection of art in the diocese and province of Girona, dating from the Romanesque age to the dawn of the 20th century.<br><br>
+<b>Address: </b>Pujada de la Catedral, 12 - 17004 Girona<br>
+ 
+ 
+<b> </b><a href="http://www.museuart.com/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>2.826023999999999,41.986839,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 229 ">
+				<name>Teatre Museu Dalí</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/museu_dali.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The Dalí Theatre-Museum is the largest surrealistic object in the world. It is located in  the  the former Municipal Theatre, a 19th century construction destroyed at the end of the Spanish Civil War. On its ruins, Dalí decided to create his museum.<br><br>
+<b>Address: </b>Plaça Gala i Salvador Dalí, 5 - 17600 Figueres, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.salvador-dali.org/museus/teatre-museu-dali/en_index//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>2.959547,42.268207,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 231 ">
+				<name>Museu del Cinema</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/museu_cine_girona.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>This museum exhibits Tomàs Mallol's valuable collection of pre-cinema pieces, from the first moving images from shadow theatres to today's cinema.<br><br>
+<b>Address: </b>C. Sèquia, 1, 17001, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.museudelcinema.cat/eng/index.php">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>2.822333,41.983884,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 232 ">
+				<name>Museu d&apos;Història de la Ciutat de Girona</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/museu_historia_girona.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Housed in an old Capuchin monastery (18th century), whose desiccator, cloister and cistern still remain, this museum tells the story of Girona, from its foundation by the Romans (1st century BC) to the return of democracy in 1975. It is completed with several theme rooms, such as the Sardana Room.<br><br>
+<b>Address: </b>Carrer de la Força, 27 - 17004 Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.girona.cat/museuhistoria/eng/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>2.825042,41.98696,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 234 ">
+				<name>Museu d&apos;Arqueologia de Catalunya a Girona</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/museu_stpere_galligants.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Founded in 1846, this is one of the oldest museums in Catalonia. It houses archaeological findings from excavations in the region of Girona, from prehistory up to the Middle Ages, in particular from Empúries and Girona.<br><br>
+<b>Address: </b>C/ de Santa Llúcia, 8 - 17007 Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.mac.cat/eng/Branches/Girona/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>2.826511,41.988651,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 233 ">
+				<name>Museu d&apos;Història dels Jueus</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/museu_jueus_girona.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>This museum tells the story of Catalonia's medieval Jewish communities, paying special attention to Girona. Of particular interest is a unique collection of medieval Jewish tombstones from the Jewish cemetery of Montjuïc. <br><br>
+<b>Address: </b>Carrer de la Força, 8 - 17004 Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.girona.cat/call/eng/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>2.825278,41.986004,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 235 ">
+				<name>Museu del Mar</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/museu_mar.JPG"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The museum intends to show in particular the history of Lloret that was hidden behind the explosion of tourism. <br><br>
+<b>Address: </b>Camprodon i Arrieta, 2 - 17310 Lloret de Mar, Girona<br>
+ 
+ 
+<b> </b><a href="http://lloretdemar.org/en/what-to-see/not-to-be-missed/583-maritime-museum-can-garriga">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>2.850721,41.699616,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 236 ">
+				<name>Casa Museu Can Trincheria</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/can_trincheria.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Can Trincheria, one of the largest mansions in Olot, was built in the first half of the eighteenth century, although the present result is the product of several expansions and later renovations.<br><br>
+<b>Address: </b>Carrer Sant Esteve, 29 - 17800 Olot, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.olotcultura.cat/equipaments/museus-dolot/can-trincheria//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>2.488057,42.182033,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 237 ">
+				<name>Museu de la Garrotxa</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/museu_garrotxa.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Museu de la Garrotxa is located on the third floor of the Hospice building (neoclassical building of the eighteenth century). Their rooms are dedicated to the artistic activity of the region between the late eighteenth and mid-twentieth century.<br><br>
+<b>Address: </b>Carrer de l'Hospici, 8 - 17800 Olot, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.olotcultura.cat/equipaments/museus-dolot/museu-garrotxa/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>2.489551,42.181282,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 238 ">
+				<name>Museu dels Volcans</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/museu_volcans.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Museu dels Volcans is situated in the heart of the Parc Nou. It is the science section of the Museu de la Garrotxa.<br><br>
+<b>Address: </b>Avinguda de Santa Coloma, 43 - 17800 Olot, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.olotcultura.cat/equipaments/museus-dolot/museu-dels-volcans/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>2.480085,42.171193,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 239 ">
+				<name>Museu-tresor Parroquial de Sant Esteve d&apos;Olot</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/museu_parroquial_olot.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Inside the church of St. Stephen there is the Treasury-Museum, with fantastic pieces of jewelry, paintings, carvings and ornaments between the fifteenth and nineteenth centuries. <br><br>
+<b>Address: </b>Passeig d'en Blay, 3 - 17800 Olot, Garrotxa, Girona<br>
+ 
+ 
+<b> </b><a href=" http://cataloniasacra.cat/llocs/museu-tresor-parroquial-de-sant-esteve-d-olot/250/itinerari/10/l_ca/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>2.488215,42.182131,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 240 ">
+				<name>Museu del Suro</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/museu_suro.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The Museum of Palafrugell Cork was founded formally in 1972. It was born linked to the figure of the archaeologist Michael Oliva from Girona, in conjunction with local researchers and A. J. Recasens Bay, who were the drivers. <br><br>
+<b>Address: </b>Carrer de Begur, 15 - 17200 Palafrugell, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.museudelsuro.cat/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>3.16498,41.918613,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 241 ">
+				<name>Museu de la Pesca</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/museu_pesca_palamos.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Through an audiovisual introduction and five areas, visitors will discover the world of fishing in our region. The key to the permanent exhibition of the Fishing Museum is finding the origins of a world alive and active, as it can be seen every day in the fishing harbor of Palamós.<br><br>
+<b>Address: </b>Port de Palamós, Moll Pesquer, s/n - 17230 Palamós, Girona<br>
+ 
+ 
+<b> </b><a href="http://www.museudelapesca.org/index.php/en/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>3.127185,41.844985,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 242 ">
+				<name>Museu Cerdà</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/museu_cerda.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Museum of the region of Cerdanya.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.puigcerda.cat/museucerda/museu-cerda/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>1.92971,42.433458,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 243 ">
+				<name>Museu Etnogràfic de Ripoll</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/gironaslow/cultural-resources/museu_etnografic_ripoll.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The museum reveals the recent past and the identity of a territory and a recognized way of living and of feeling. <br><br>
+<b>Address: </b>Plaça de l'Abat Oliba, s/n - 17500 Ripoll, Girona<br>
+ 
+ 
+<b> </b><a href=" http://www.museuderipoll.org/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>2.18916,42.201361,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

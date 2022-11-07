@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ca_other.kml</name>
+	<open>1</open>
+	<Style id="sn_movies">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/movies.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_movies">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_movies</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_movies</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_movies">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.05</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/movies.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>Others</name>
+		<Placemark>
+			<name>Mill Road Winter Fair (Mill Road based)</name>
+			<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Mill%20Road%20Winterfair.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Mill Road Winterfair is a cultural event that celebrates diversity in Cambridge and promotes local business communities of the area. 
+<br>
+<br>
+<a href= http://www.millroadwinterfair.org/> www.millroadwinterfair.org</a><br><br>
+<b>Address:</b>98-100 Mill Road, Cambridge , CB1 2BD<br>
+</div>
+</body>]]></description>
+			<LookAt>
+				<longitude>0.1410409999536166</longitude>
+				<latitude>52.19867700009004</latitude>
+				<altitude>0</altitude>
+				<heading>-3.309800745118972e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000286609185</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_movies</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>0.1410409999536166,52.19867700009003,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The &apos;Big Weekend&apos; / Summer in the City (Parkers Piece)</name>
+			<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/The%20Big%20Weekend.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+The Summer Festival is a series of outdoor events in the city involving arts and crafts events and music sessions on open parks. The key event is the Big Weekend with three days of live music.
+<br>
+<br>
+<a href= http://www.cambridgesummerinthecity.co.uk/big-weekend/> www.cambridgesummerinthecity.co.uk</a><br><br>
+<b>Address:</b>Parkside, Cambridge, CB1 1JF
+<br>
+</div>
+</body>]]></description>
+			<LookAt>
+				<longitude>0.1281238333601054</longitude>
+				<latitude>52.20212300011255</latitude>
+				<altitude>0</altitude>
+				<heading>1.706609855418804e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000591037881</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_movies</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>0.1281238333601054,52.20212300011256,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Duxford &apos;flying legends&apos; show</name>
+			<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Duxford%20Flying%20Legends.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+“Flying Legends” is a nostalgic flying display lasting over three hours at the historic Imperial War Museum in Duxford.
+<br>
+<br>
+<a href=" http://www.eventmad.co.uk/wp-content/uploads/2013/05/Duxford-Air-Show.jpg
+/"> www.eventmad.co.uk/wp-content/uploads/2013/05/Duxford-Air-Show.jpg
+</a><br><br>
+<b>Address:</b>IWM Duxford, Cambridgeshire, CB22 4QR<br>
+</div>
+</body>]]></description>
+			<LookAt>
+				<longitude>0.128179833144435</longitude>
+				<latitude>52.09476383346375</latitude>
+				<altitude>0</altitude>
+				<heading>-1.452855636419516e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.00041633601</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_movies</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>0.128179833144435,52.09476383346375,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cambridge Winter and Summer Beer Festival</name>
+			<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Cambridge%20Beer%20Festival.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+The Cambridge Beer Festival is an annual event which is held in Summer and Winter to showcase local beers .<br>
+<br>
+<a href= http://www.cambridgebeerfestival.com/> www.cambridgebeerfestival.com </a><br><br>
+<b>Address:</b>Chesterton Road, Cambridge, Cambridgeshire, CB5 8AQ<br>
+</div>
+</body>]]></description>
+			<LookAt>
+				<longitude>0.1197548333295018</longitude>
+				<latitude>52.21223483325345</latitude>
+				<altitude>0</altitude>
+				<heading>-1.846318204610434e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.00034498169</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_movies</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>0.1197548333295018,52.21223483325345,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cambridge Folk Festival (Cherry Hinton Hall)</name>
+			<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Cambridge%20Folk%20Festival.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+The Cambridge Folk Festival is an annual music festival which is held over a long weekend in summer and is often combined with a camping experience on site. 
+<br>
+<br>
+<a href= http://www.cambridgefolkfestival.co.uk/> www.cambridgefolkfestival.co.uk
+</a><br><br>
+<b>Address:</b> Cherry Hinton Road, Cambridge, Cambridgeshire, CB1 8DW
+<br>
+</div>
+</body>]]></description>
+			<LookAt>
+				<longitude>0.1649669999630588</longitude>
+				<latitude>52.1861548330161</latitude>
+				<altitude>0</altitude>
+				<heading>-3.379130625154016e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000368463761</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_movies</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>0.1649669999630588,52.18615483301609,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Strawberry Fair</name>
+			<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Strawberry%20Fair.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Strawberry Fair is a free music and arts festival in the heart of Cambridge. Each June fair-goers of all ages enjoy an abundance of eclectic, sometimes eccentric activities and entertainment.
+<br>
+<br>
+<a href= http://www.strawberry-fair.org.uk/> www.strawberry-fair.org.uk </a><br><br>
+<b>Address:</b> Midsummer Common, Cambridge, CB4 1HA<br>
+</div>
+</body>]]></description>
+			<LookAt>
+				<longitude>0.1284888334649059</longitude>
+				<latitude>52.2100789999356</latitude>
+				<altitude>0</altitude>
+				<heading>1.106296310546806e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.000243800672</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_movies</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>0.1284888334649059,52.2100789999356,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cambridge Town &amp; Country Show</name>
+			<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Cambridge%20Town%20and%20Country%20Show.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+The Cambridge Town and Country Show is a family event that celebrating country life while showcasing local products from produce to cheese, arts and crafts.
+<br>
+<br>
+<a href=
+http://www.oakleighfairs.co.uk/cambridge-town-and-country/> www.oakleighfairs.co.uk</a><br><br>
+<b>Address:</b>Parker's Piece , Cambridge , Cambridgeshire , CB1 1JF
+<br>
+</div>
+</body>]]></description>
+			<LookAt>
+				<longitude>0.1302160126839724</longitude>
+				<latitude>52.20267362642856</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0003551443593140627</heading>
+				<tilt>17.93243097543354</tilt>
+				<range>367.5205285926853</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_movies</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>0.1302160126839724,52.20267362642857,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EAT Cambridge</name>
+			<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/EAT%20Cambridge.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Eat Cambridge is a new annual festival of food and drink with the aim of showing off our fabulous local independent producers to local food fans throughout the county of Cambridgeshire. 
+<br>
+<br>
+<a href=http://www.eat-cambridge.co.uk/> www.eat-cambridge.co.uk </a><br><br>
+<b>Address:</b>The Corn Exchange, Wheeler Street, Cambridge , CB2 3QB
+<br>
+</div>
+</body>]]></description>
+			<LookAt>
+				<longitude>0.1196397417016337</longitude>
+				<latitude>52.20434780325968</latitude>
+				<altitude>0</altitude>
+				<heading>-4.681218775881283e-010</heading>
+				<tilt>0</tilt>
+				<range>1001.910467180538</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_movies</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>0.1196397417016337,52.20434780325967,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cambridge Shakespeare Festival</name>
+			<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Cambridge%20Shakespeare%20Festival.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+The Cambridge Shakespeare Festival brings the worlds created by William Shakespeare to life in the stunning gardens and open spaces of the University of Cambridge. 
+<br>
+<br>
+<a href= http://www.cambridgeshakespeare.com/> www.cambridgeshakespeare.com </a><br><br>
+<b>Address:</b>Takes place in various locations
+<br>
+</div>
+</body>]]></description>
+			<LookAt>
+				<longitude>0.1377644818082557</longitude>
+				<latitude>52.20697284125095</latitude>
+				<altitude>0</altitude>
+				<heading>0.01334649355680985</heading>
+				<tilt>30.00220577971958</tilt>
+				<range>608.2866643622295</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_movies</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>0.1377644818082557,52.20697284125095,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cambridge Festival of Ideas</name>
+			<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Cambridge%20Festival%20of%20Ideas.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+The festival is an annual celebration of the arts, humanities and social sciences and consists of a number of talks, hands on activities, film screenings and other creative programmes. The Festival celebrates local talent and research .<br>
+<br>
+<a href=http://www.festivalofideas.cam.ac.uk/> www.festivalofideas.cam.ac.uk</a><br><br>
+<b>Address:</b> Trumpington Street, Cambridge <br>
+</div>
+</body>]]></description>
+			<LookAt>
+				<longitude>0.1210055054461923</longitude>
+				<latitude>52.20029830848653</latitude>
+				<altitude>0</altitude>
+				<heading>0.001077741998006347</heading>
+				<tilt>11.09877376915009</tilt>
+				<range>512.1522032314234</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_movies</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>0.1210055054461923,52.20029830848653,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cambridge Science Festival</name>
+			<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Cambridge%20Science%20Festival.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Cambridge Science Festival gives the public an opportunity to explore Cambridge Science. Most of the events are free.
+<br>
+<br>
+<a href= http://www.cambridgesciencefestival.org/Home.aspx> www.cambridgesciencefestival.org</a><br><br>
+<b>Address:</b> Takes place in various locations.<br>
+</div>
+</body>]]></description>
+			<LookAt>
+				<longitude>0.1234119157861069</longitude>
+				<latitude>52.20351413310544</latitude>
+				<altitude>0</altitude>
+				<heading>0.002727127858132054</heading>
+				<tilt>23.09561408171665</tilt>
+				<range>435.2401737697908</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_movies</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>0.1234119157861069,52.20351413310544,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Buskers and Street Performers Festival</name>
+			<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Buskers%20and%20Street%20Performance%20Festival.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+The Buskers and Street Performers Festival celebrates and showcases the variety of musical talent in and around Cambridge. 
+<br>
+<br>
+<a href= https://www.cambridge.gov.uk/buskers-and-street-performers-festival> www.cambridge.gov.uk </a><br><br>
+<b>Address:</b>Takes place in various locations. <br>
+</div>
+</body>]]></description>
+			<LookAt>
+				<longitude>0.1290935471761712</longitude>
+				<latitude>52.20648299375476</latitude>
+				<altitude>0</altitude>
+				<heading>-0.02849582290411104</heading>
+				<tilt>22.87344311570372</tilt>
+				<range>745.8256531174011</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_movies</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>0.1290935471761712,52.20648299375477,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cambridge Film Festival</name>
+			<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Cambridge%20Film%20Festival.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+The Cambridge Film Festival is a celebration of film that gives local and national amateurs a platform to show their talent.
+<br>
+<br>
+<a href= http://www.cambridgefilmfestival.org.uk/> www.cambridgefilmfestival.org.uk</a><br><br>
+<b>Address:</b> St Andrew's Street, Cambridge , CB2 3AR<br>
+</div>
+</body>]]></description>
+			<LookAt>
+				<longitude>0.1236849408103957</longitude>
+				<latitude>52.2031895098248</latitude>
+				<altitude>0</altitude>
+				<heading>-1.056563346365677e-005</heading>
+				<tilt>21.75672979801189</tilt>
+				<range>308.3456888849367</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_movies</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>0.1243096254913589,52.20251586603564,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Open Cambridge</name>
+			<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Open%20Cambridge.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Open Cambridge is an annual weekend in September, during which Cambridge’s cultural treasures open their doors so that local people can enjoy beautiful gardens, historic buildings and more.
+<br>
+<br>
+<a href=http://www.opencambridge.cam.ac.uk/> www.opencambridge.cam.ac.uk</a><br><br>
+<b>Address:</b>Takes place in several central city locations. <br>
+</div>
+</body>]]></description>
+			<LookAt>
+				<longitude>0.1334881150866418</longitude>
+				<latitude>52.20568262035631</latitude>
+				<altitude>0</altitude>
+				<heading>0.007343278976438029</heading>
+				<tilt>24.03538769557695</tilt>
+				<range>595.3331962309688</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_movies</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>0.1334881150866418,52.20568262035631,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>E-Luminate Festival</name>
+			<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/E-Luminate%20Festival.jpg?attredirects=0" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+At Cambridge‘s E-Luminate Festival art meets technology as key attractions in the city are illuminated to shed light on low-carbon innovations. 
+<br>
+<br>
+<a href=http://www.e-luminatefestivals.co.uk/> www.e-luminatefestivals.co.uk </a><br><br>
+<b>Address:</b>Takes place in several city centre locations. <br>
+</div>
+</body>]]></description>
+			<LookAt>
+				<longitude>0.1375173571967414</longitude>
+				<latitude>52.20611457103907</latitude>
+				<altitude>0</altitude>
+				<heading>0.0105264561148871</heading>
+				<tilt>24.03926058384685</tilt>
+				<range>1653.962588210357</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_movies</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>0.1375173571967414,52.20611457103906,0</coordinates>
+			</Point>
+		</Placemark>
+		<Folder>
+			<name>Sport</name>
+			<Placemark id="2590460125207057421">
+				<name>Jesus Green Swimming Pool</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Jesus%20Green%20Outdoor%20Swimming%20Pool.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Jesus  Green is among the longest outdoor swimming pools in Europe (100 yards long). It is one of the few remaining examples of the lidos built in 1920s and is open for public bathing between May and September.
+<br>
+<br>
+<a href=https://www.cambridge.gov.uk/jesus-green-outdoor-pool> www.cambridge.gov.uk</a><br><br>
+<b>Address:</b>Cambridge Science Centre, 18 Jesus Lane, Cambridge, CB5 8BQ, United Kingdom
+<br>
+</div>
+</body>]]></description>
+				<styleUrl>#msn_movies</styleUrl>
+				<ExtendedData>
+					<Data name="tracking_href_2">
+						<value>http://www.google.com/maps/gen_204?ct=google_earth:popup&amp;oi=blaces-swim-swimming._._._.a7b22310216d07eb_en&amp;cad=lat:52.212956,lon:0.1233366,quad:02010010100130,cc:GB</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.1233366,52.212956,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Newmarket Racecourses: The Rowley Mile</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Newmarket%20Racecourses%2C%20The%20Rowley%20Mile.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+The Rowley Mile offers the ultimate flat racing experience boasting world class facilities as well as world class racing. 
+<br>
+<br>
+<a href= http://www.newmarketracecourses.co.uk/racing/racecourse-information/the-rowley-mile/> www.newmarketracecourses.co.uk </a><br><br>
+<b>Address:</b>Westfield House, Cambridge Road, Newmarket, Suffolk CB8 0TG<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>0.3822301849133548</longitude>
+					<latitude>52.23085777308185</latitude>
+					<altitude>0</altitude>
+					<heading>-3.416215892739879e-010</heading>
+					<tilt>0</tilt>
+					<range>1026.643635343313</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_movies</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>0.3822301849133547,52.23085777308184,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

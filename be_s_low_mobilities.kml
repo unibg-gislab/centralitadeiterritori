@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>be_s_low_mobilities.kml</name>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow-reverse.png</href>
+			</Icon>
+			<hotSpot x="54" y="42" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_arrow-reverse">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_arrow-reverse</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_arrow-reverse</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="LineStyle001110">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff2d2d2d</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="LineStyle00111">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff2d2d2d</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_arrow-reverse">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow-reverse.png</href>
+			</Icon>
+			<hotSpot x="54" y="42" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="LineStyle0020020">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff2d2d2d</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow-reverse.png</href>
+			</Icon>
+			<hotSpot x="54" y="42" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow-reverse.png</href>
+			</Icon>
+			<hotSpot x="54" y="42" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_arrow-reverse">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow-reverse.png</href>
+			</Icon>
+			<hotSpot x="54" y="42" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="LineStyle0031000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#LineStyle001110</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#LineStyle0020020</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow-reverse.png</href>
+			</Icon>
+			<hotSpot x="54" y="42" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="LineStyle002002">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff2d2d2d</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="LineStyle00310000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#LineStyle00111</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#LineStyle002002</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>be_s_low_mobilities</name>
+		<Placemark id=" 637 ">
+			<name>Gare Ferroviaire de Beauvais</name>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/15/4/images/9-1-1-000318.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>74 Avenue de la Republique, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>2.088671,49.42641800000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id=" 636 ">
+			<name>Gare routière Corolis</name>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/15/3/images/9-1-2-002032.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>Place Clemenceau, Beauvais<br>
+ 
+ 
+<b> </b><a href="http://www.beauvaisis.fr/docs/transports/1108-guide-pratique-2011-2012.pdf">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>2.081846,49.429382,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id=" 807 ">
+			<name>Beauvais-Tille Airport - Terminal 2</name>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/15/1/images/9-1-5-002019.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>Route de l'Aeroport, Tille<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+			<styleUrl>#msn_arrow-reverse</styleUrl>
+			<Point>
+				<coordinates>2.114236,49.459745,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id=" 635 ">
+			<name>Gare routière de Beauvais</name>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/15/3/images/9-1-2-000317.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>40 Avenue De La Republique, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>2.083946,49.427057,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id=" 806 ">
+			<name>Beauvais-Till Airport - Terminal 1</name>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/15/1/images/9-1-5-000322.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>Route de l'Aeroport, Tille<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+			<styleUrl>#msn_arrow-reverse</styleUrl>
+			<Point>
+				<coordinates>2.111188,49.45908100000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Folder>
+			<name>CFBS_Lignes</name>
+			<Placemark>
+				<name>Ligne Noyelles sur mer - Cayeux sur Mer</name>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/mobility/Chemin-de-Fer-de-la-Baie-de-Somme.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Authentic Belle Epoque cars towed by steam locomotives run between Le Crotoy, Noyelle-sur-Mer, Saint-Valery-sur-Somme and Cayeux-sur-Mer.<br><br>
+<b>Address: </b>Chemin de fer de la baie de Somme BP 80031 80230 Saint-Valery-sul-Somme<br>
+<b> </b><a href="http://www.cfbs.eu/fr/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<LookAt>
+					<longitude>1.629668988520316</longitude>
+					<latitude>50.20507632828509</latitude>
+					<altitude>0</altitude>
+					<heading>2.592600345611573</heading>
+					<tilt>3.283981604638653e-012</tilt>
+					<range>19392.95571283073</range>
+				</LookAt>
+				<styleUrl>#LineStyle00310000</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						1.704369486604421,50.1880162817224,0 1.704433424673013,50.19002833379773,0 1.70415437304726,50.19062021231311,0 1.703196429435153,50.19126631227255,0 1.702079463746898,50.19196944000839,0 1.70019293889753,50.19274075244732,0 1.698698325252821,50.19293525076421,0 1.696054112768664,50.19287741751212,0 1.694069702538258,50.19250473761673,0 1.69223145135058,50.19135127714817,0 1.690934993631345,50.19025866939354,0 1.689931844214215,50.18921108554853,0 1.676153759497652,50.1755140292665,0 1.67348291213618,50.1741818846286,0 1.670392364976707,50.17378800068261,0 1.660947392520043,50.17408128025712,0 1.656666155241794,50.17480906830514,0 1.652760217976962,50.17614674428262,0 1.650394769437838,50.17720389149626,0 1.649078043753491,50.17761588334658,0 1.647926114416379,50.17756569469848,0 1.646512959905323,50.17681923988992,0 1.645878829440804,50.17685892483116,0 1.645128747266639,50.17715842333175,0 1.644735830836723,50.1777639579274,0 1.644189001635937,50.17854224707606,0 1.643249328411088,50.17944846884551,0 1.64227446891816,50.17965978269429,0 1.640761435027869,50.17957843554629,0 1.637311896388667,50.1790079200082,0 1.63348921233893,50.17768246844348,0 1.628800298898526,50.17549774714203,0 1.626999846488658,50.17499475944307,0 1.625013273174091,50.17485242789822,0 1.622749916741498,50.17508466799905,0 1.619958512468898,50.17586361218894,0 1.618480833260535,50.17597036751145,0 1.618276814623755,50.17601253390494,0 1.583005772566409,50.17227068925309,0 1.581967295521196,50.17220610167491,0 1.580954822949224,50.17192457598753,0 1.57440206875026,50.16959394508082,0 1.572648547404427,50.16903253057249,0 1.569563940059709,50.16834659331064,0 1.567740636736687,50.167914912207,0 1.566276041770408,50.1676592400819,0 1.564725961767792,50.16709904979523,0 1.563741186049583,50.16651362397947,0 1.562648587592506,50.16560906120878,0 1.561704581422191,50.16529886875427,0 1.560734472632277,50.16520559251909,0 1.545238229066257,50.16772141388386,0 1.54421816242477,50.16791714003863,0 1.543533154244685,50.16834670355735,0 1.533596148478609,50.17453923488691,0 1.532730690706686,50.17493854107174,0 1.532298923904065,50.17508030684338,0 1.531731812521656,50.17520666798869,0 1.525186319244796,50.17637714034659,0 1.506807676520893,50.180885585169,0 1.505832169929846,50.18109576221234,0 1.504589227342507,50.18108693437264,0 1.503033156259889,50.18088771332317,0 1.501956202834876,50.18043136865289,0 1.500148631054699,50.17910139268535,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Ligne Noyelles sur Mer - Le Crotoy</name>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/mobility/Chemin-de-Fer-de-la-Baie-de-Somme.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Authentic Belle Epoque cars towed by steam locomotives run between Le Crotoy, Noyelle-sur-Mer, Saint-Valery-sur-Somme and Cayeux-sur-Mer.<br><br>
+<b>Address: </b>Chemin de fer de la baie de Somme BP 80031 80230 Saint-Valery-sul-Somme<br>
+<b> </b><a href="http://www.cfbs.eu/fr/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<LookAt>
+					<longitude>1.629668988520353</longitude>
+					<latitude>50.20507632828508</latitude>
+					<altitude>0</altitude>
+					<heading>2.59260034561159</heading>
+					<tilt>3.895297244940522e-012</tilt>
+					<range>19392.95571283073</range>
+				</LookAt>
+				<styleUrl>#LineStyle0031000</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						1.704521290974327,50.18812232283974,0 1.70456180830422,50.19008792598295,0 1.704239957762582,50.19055258926271,0 1.703204503810071,50.19133097038126,0 1.701988167163208,50.1920659306172,0 1.701100424582535,50.19313248881506,0 1.699819656902122,50.1968439074855,0 1.699532121306362,50.19813655302168,0 1.698785332577757,50.19975124993042,0 1.697070546462669,50.20097226353995,0 1.694733462809382,50.20201659396765,0 1.685444708825571,50.20492400437401,0 1.684284975985051,50.20539708833663,0 1.683237374046229,50.20596833724453,0 1.682304966520277,50.20677598364963,0 1.678026364546838,50.21120917199563,0 1.677349273890712,50.2116841955552,0 1.675584598959233,50.21222368603474,0 1.673962860435054,50.21298652641397,0 1.67249004746796,50.21441144061547,0 1.671964890894131,50.21488200442331,0 1.671208480637788,50.21528463655726,0 1.665022037331923,50.21686377915496,0 1.664240870800128,50.21695166682836,0 1.660906269393621,50.21685419640187,0 1.65755223579302,50.21755366994965,0 1.651812724554105,50.22007827281517,0 1.651462380721284,50.22015352263049,0 1.644759649045909,50.22099867314503,0 1.641811988813728,50.22027172170093,0 1.641200101386048,50.22024075651165,0 1.636510840935643,50.22182376005894,0 1.635804378427238,50.2218930538686,0 1.633298128042057,50.22058416757117,0 1.630494318825271,50.2200966171711,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>CFBS_sites</name>
+			<Placemark id=" 56 ">
+				<name>St Valéry-Canal</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+ 
+<body> <div class="box"><br>
+<b></b>Dépot-atelier du MTVS.<br><br>
+ 
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<coordinates>1.651937,50.176219,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 61 ">
+				<name>Gare de Cayeux sur Mer</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+ 
+<body> <div class="box"><br>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<coordinates>1.501152,50.17953800000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 60 ">
+				<name>Gare de Lancheres-Pendé</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+ 
+<body> <div class="box"><br>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<coordinates>1.563955,50.166219,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 55 ">
+				<name>Gare de Noyelles-sur-Mer</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+ 
+<body> <div class="box"><br>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<coordinates>1.704452,50.18762600000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 58 ">
+				<name>Gare de St Valéry-ville</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+ 
+<body> <div class="box"><br>
+<b></b>Centre commercial du réseau.<br><br>
+ 
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<coordinates>1.643942,50.178202,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 62 ">
+				<name>Le Crotoy</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+ 
+<body> <div class="box"><br>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<coordinates>1.631389,50.220078,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 57 ">
+				<name>Les écluses</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+ 
+<body> <div class="box"><br>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<coordinates>1.647247,50.177,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 59 ">
+				<name>Station de St Valéry-Port</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+ 
+<body> <div class="box"><br>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<coordinates>1.644241,50.18066700000001,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

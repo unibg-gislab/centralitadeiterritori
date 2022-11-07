@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>be_other.kml</name>
+	<StyleMap id="msn_movies">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_movies</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_movies</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_movies">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/movies.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_movies">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.05</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/movies.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>be_other</name>
+		<Folder>
+			<name>eventi</name>
+			<open>1</open>
+			<Placemark id=" 65 ">
+				<name>Anzac Day</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/events/VILLERS-BRETONNEUX-AnzacDay.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>ANZAC Day in memory of the Australian and New Zealand Army Corps.<br><br>
+<b>Address: </b> 80800 Villers-Bretonneux<br>
+ 
+ 
+<b> </b><a href="http://www.villers-bretonneux.com/villers-bretonneux-anzac-day.php/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_movies</styleUrl>
+				<Point>
+					<coordinates>2.512811,49.887017,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 63 ">
+				<name>Hippodrome de Chantilly</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/events/Chantilly-hippodrome.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Famous racecourse.<br><br>
+<b>Address: </b> 16, avenue du Général Leclerc 60500 Chantilly<br>
+ 
+ 
+<b> </b><a href="http://www.chantilly-tourisme.com/hippodromedechantilly.php/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_movies</styleUrl>
+				<Point>
+					<coordinates>2.474292,49.190392,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 64 ">
+				<name>Grandes Réderies</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/events/Amiens-rederies.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Nearly 2.000 exhibitors, over 80.000 visitors, the Réderie Amiens is the second largest event of its kind in the north of France, after the sellout of Lille.<br><br>
+ 
+ 
+ 
+<b> </b><a href="http://www.grande-rederie-amiens.com/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_movies</styleUrl>
+				<Point>
+					<coordinates>2.293525,49.895298,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 66 ">
+				<name>Festival art, villes and paysage: Hortillonnages Amiens 2014</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/events/Amiens-art-villes.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Art event.<br><br>
+ 
+ 
+ 
+<b> </b><a href="http://www.artcitieslandscape.com/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_movies</styleUrl>
+				<Point>
+					<coordinates>2.344975,49.88731199999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 67 ">
+				<name>Amiens, la cathédrale en couleurs</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/beauvaisamiensslow/events/amiens_cathedrale_portail_mere_dieu.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Restitution of medieval colors with flashes of digital high-definition images.<br><br>
+<b>Address: </b> Notre-Dame dAmiens 30, place Notre-Dame 80000 Amiens<br>
+ 
+ 
+<b> </b><a href="http://www.amiens-cathedrale.fr/home.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_movies</styleUrl>
+				<Point>
+					<coordinates>2.302143,49.894539,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

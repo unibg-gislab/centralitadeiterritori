@@ -1,0 +1,2069 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>sa_cultural_resources</name>
+	<open>1</open>
+	<Style id="s_ylw-pushpin01303117000216">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/musei.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_chiesa_0_0_01_0_03_0000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_chiesa_0_0_01_0_03_01</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_chiesa_0_0_01_0_03_00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin0320011187206">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin01303117000216</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl10011251780204</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_chiesa_0_0_01_0_03_01">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/sitireligiosi.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed3010">
+		<LineStyle>
+			<color>ccb8b9e6</color>
+			<width>2.8</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl10011251780204">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/musei.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed402">
+		<LineStyle>
+			<color>ccb8b9e6</color>
+			<width>2.8</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_triangle21">
+		<IconStyle>
+			<color>ff434cff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_chiesa_0_0_01_0_03_00">
+		<IconStyle>
+			<scale>0.699993</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/sitireligiosi.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_triangle100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_triangle21</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_triangle30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed2002">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed3010</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed402</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_triangle30">
+		<IconStyle>
+			<color>ff434cff</color>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>sa_cultural_resources</name>
+		<open>1</open>
+		<Folder>
+			<name>Musei</name>
+			<open>1</open>
+			<Placemark id=" 443 ">
+				<name>Museo de Prehistoria y Arqueología de Cantabria</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/Museo%20de%20Prehistoria%20y%20Arqueolog%C3%ADa%20de%20Cantabria.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The Museum of Prehistory and Archaeology is a modern exhibition space of 2000m2 in Santander Eastern Market, located in the city center on Calle Hernán Cortés 4, adjacent to Paseo de Pereda. The building, built between 1839 and 1842 according to plans by A. Zabaleta, was declared of Cultural Interest in 1986.<br><br>
+<b>Address: </b> Calle Bailén, s/n, 39004, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.museosdecantabria.es/web/museoscantabria/Prehistoria/visitar/Situacion /">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>-3.804111,43.462521,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 444 ">
+				<name>Museo Marítimo del Cantábrico</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/Museo%20Mar%C3%ADtimo%20del%20Cant%C3%A1brico.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The Museo Marítimo del Cantábrico (MMC) is a museum dedicated to the dissemination of maritime heritage in the city of Santander, in Cantabria (Spain), on the verge of the bay. Its funds, one of the largest and most complete in the country, allow a global approach to marine biodiversity and the different ways in which the Cantabrian Men had related to the sea through the centuries.<br><br>
+<b>Address: </b> San Martín de Bajamar, s/n, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.cantur.com/instalaciones/informacion-practica/9-museo-maritimo-del-cantabrico/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>-3.784034,43.463288,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 445 ">
+				<name>Planetario de Santander</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/Planetario%20de%20Santander.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Planetary interpretation centre.<br><br>
+<b>Address: </b> Calle Gamazo s/n Escuela de Naútica, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.astrocantabria.org/?q=planetario">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>-3.791036,43.462989,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 446 ">
+				<name>Centro de Arte de la Fundación Botín</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/CentroArteBotin.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The Botín Centre, an art venue that will contribute in Santander, through the arts, to the development of creativity as a way to stimulate economic and social growth. The aim of the project, by Renzo Piano Building Workshop, in collaboration with Luis Vidal y Arquitectos, is to create a space for art, culture and educational activities, as well as to build a new meeting place in Santander which will link the city centre to the bay. To achieve this, the public spaces created around the building and the new Pereda Gardens, will be as important as the Centre itself.<br><br>
+<b>Address: </b> Paseo de Pereda, s/n (Bahía), 39004, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.fundacionbotin.org/ /">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>-3.803577,43.463291,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 447 ">
+				<name>Ateneo de Santander</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/AteneoSantander.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The Ateneo is a cultural association based in the city of Santander, in Cantabria (Spain), which inspired by their traditions, is devoted to the scientific, independent and impartial analysis of relevant aspects of culture, both in its historical and contemporary dimensions.<br><br>
+<b>Address: </b> Calle Gómez Oreña, 5-1°, 39003 Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" atesant.es//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>-3.80267,43.463419,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 448 ">
+				<name>Palacete del Embarcadero</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/Palacete%20del%20Embarcadero.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>This building serves as an exhibition and conference centre.<br><br>
+<b>Address: </b> Muelle de Calderón, s/n, 39003 Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.puertosantander.es/cas/palacete.aspx//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>-3.801917,43.461335,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 449 ">
+				<name>Centro de Interpretación de los Antiguos Muelles de Santander (CIAMS)</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/CIAMS.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Interpretation center of the old docks (port) of Santander.<br><br>
+<b>Address: </b> Plaza de Alfonso XIII, Santander, Cantabria<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>-3.805758,43.461178,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 450 ">
+				<name>Parlamento de Cantabria</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/Parlamento%20de%20Cantabria.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The Regional Parliament of Cantabria is located in which until the beginning of the century was the Hospital San Rafael, located on High Street, opposite the former Convent of the Poor Clares.<br><br>
+<b>Address: </b> Calle Alta 31/33, 39008 Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://servicios.eldiariomontanes.es/patrimonio/museos/mus17.htm//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>-3.813682,43.459955,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 451 ">
+				<name>Museo Taurino de Santander</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/Museo%20Taurino%20de%20Santander.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Bullring and bullfighting museum.<br><br>
+<b>Address: </b> Calle Jerónimo Sáinz de la Maza, s/n, 39011, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.plazadetorosdesantander.com/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>-3.826093,43.457013,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 452 ">
+				<name>Museo del Agua de Santander</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/Museo%20del%20Agua%20de%20Santander.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Water museum.<br><br>
+<b>Address: </b> Calle Pronillo s/n, 39012, Santander, Cantabria<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>-3.831515,43.462046,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 453 ">
+				<name>Casa-Museo de Menéndez Pelayo</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/Casa-Museo%20de%20Men%C3%A9ndez%20Pelayo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Library and Museum dedicated to the life and literary legacy of Menéndez Pelayo, one of the most famous Spanish writers of the XIX and XX centuries.<br><br>
+<b>Address: </b> Calle Rubio, 6, 39001, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.bibliotecademenendezpelayo.org/default.aspx?op=0&htmlTarget=principal.htm /">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>-3.812513,43.462294,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 454 ">
+				<name>Museo de Arte Moderno y Contemporáneo de Santander y Cantabria</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/Museo%20de%20Arte%20Moderno%20y%20Contempor%C3%A1neo%20de%20Santander%20y%20Cantabria.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>MAS: Museum of Modern and Contemporary Art of Santander and Cantabria. It is an evolution of the former Museum of Fine Arts of Santander.<br><br>
+<b>Address: </b> Calle Rubio, 6, 39001, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.museosantandermas.es/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>-3.812513,43.462293,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 455 ">
+				<name>Palacio de Exposiciones</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/Palacio%20de%20Exposiciones.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Official Exhibition and Conference Centre of the city.<br><br>
+<b>Address: </b> Avenida del Racing s/n, 39005 Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.palaciodeexposicionesycongresos.com//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>-3.791896,43.475731,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 457 ">
+				<name>Centro de Interpretación del Litoral</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/Centro%20de%20Interpretaci%C3%B3n%20del%20Litoral.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The Interpretation Centre of the Coast, located in La Maruca, welcomes the permanent exhibition "Heritage Coast of Cantabria" by which the features of the Cantabrian coast and the flora and fauna that inhabit in it are made known to residents and visitors. It also creates awareness of the importance of preserving our environment among visitors.<br><br>
+<b>Address: </b> Batería de San Pedro Monte, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://centrolitoralmaruca.wordpress.com/2013/08/29/centro-de-interpretacion-del-litoral-de-la-maruca//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>-3.836537,43.482073,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 458 ">
+				<name>Museo del Faro de Cabo Mayor</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/Museo%20del%20Faro%20de%20Cabo%20Mayor.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+ 
+ 
+ 
+<b> </b><a href="http://www.puertosantander.es/farocabomayor/esp/2_1.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>-3.790688,43.490345,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 459 ">
+				<name>Museo de la Catedral de Nuestra Señora de la Asunción de Santander</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/Museo%20de%20la%20Catedral%20de%20Nuestra%20Se%C3%B1ora%20de%20la%20Asunci%C3%B3n%20de%20Santander.png"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Museum of the Cathedral of Santander.<br><br>
+<b>Address: </b> Plaza del Obispo José Eguino y Trecu, 39002 Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.xn--espaaescultura-tnb.es/es/monumentos/cantabria/iglesia_catedral_de_nuestra_senora_de_la_asuncion.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>-3.807728,43.46083,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Luoghi della fede</name>
+			<open>1</open>
+			<Placemark id=" 467 ">
+				<name>Iglesia de San Francisco</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/Iglesia%20de%20San%20Francisco.JPG"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Religious building.<br><br>
+<b>Address: </b> Calle Alta, 19, 39008 Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.misas.org/p/parroquia-de-san-francisco-santander">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_chiesa_0_0_01_0_03_0000</styleUrl>
+				<Point>
+					<coordinates>-3.810792,43.463022,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 466 ">
+				<name>Parroquia de la Anunciacion</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/Parroquia%20de%20la%20Anunciacion.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Religious building.<br><br>
+<b>Address: </b> Calle de los Escalantes, 9, 39002 Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://parroquiaanunciacion.com/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_chiesa_0_0_01_0_03_0000</styleUrl>
+				<Point>
+					<coordinates>-3.80749,43.462289,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 465 ">
+				<name>Iglesia de los Jesuitas</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/Iglesia%20de%20los%20Jesuitas.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Religious building.<br><br>
+<b>Address: </b> Calle Juan de Herrera, 17, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.jesuitascantabria.es/joomla/index.php?option=com_content&view=category&id=36&layout=blog&Itemid=55">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_chiesa_0_0_01_0_03_0000</styleUrl>
+				<Point>
+					<coordinates>-3.805277,43.463253,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 464 ">
+				<name>Claustro de la Catedral de Nuestra Señora de la Asunción de Santander</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/Claustro%20de%20la%20Catedral%20de%20Nuestra%20Se%C3%B1ora%20de%20la%20Asunci%C3%B3n%20de%20Santander.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Cloister of the Cathedral of Santander.<br><br>
+<b>Address: </b> Calle San José, 15, 39003 Santander, Cantabria<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_chiesa_0_0_01_0_03_0000</styleUrl>
+				<Point>
+					<coordinates>-3.807724,43.460822,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 463 ">
+				<name>Cripta Catedral de Nuestra Seora de la Asunción de Santanderder</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/Cripta%20Catedral%20de%20Nuestra%20Se%C3%B1ora%20de%20la%20Asunci%C3%B3n%20de%20Santanderder.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Crypt of the Cathedral of Santander.<br><br>
+<b>Address: </b> Plaza del Obispo José Eguino y Trecu, 39002 Santander, Cantabria<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_chiesa_0_0_01_0_03_0000</styleUrl>
+				<Point>
+					<coordinates>-3.807721,43.460826,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 461 ">
+				<name>Catedral de Nuestra Señora de la Asunción de Santander</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/Catedral%20de%20Nuestra%20Se%C3%B1ora%20de%20la%20Asunci%C3%B3n%20de%20Santander.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Religious building. Main cathedral of the city.<br><br>
+<b>Address: </b> Isla de la Virgen del Mar, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.diocesisdesantander.com/catedral-2/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_chiesa_0_0_01_0_03_0000</styleUrl>
+				<Point>
+					<coordinates>-3.807723,43.460824,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 460 ">
+				<name>Ermita de la Virgen del Mar</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/Ermita%20de%20la%20Virgen%20del%20Mar.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Religious building.<br><br>
+<b>Address: </b> Isla de la Virgen del Mar, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.cantabriarural.com/lugares-con-encanto/playa-la-virgen-del-mar-santander.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_chiesa_0_0_01_0_03_0000</styleUrl>
+				<Point>
+					<coordinates>-3.877357,43.478439,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 456 ">
+				<name>Iglesia de Santa Lucía</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/Iglesia%20de%20Santa%20Luc%C3%ADa.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Religious building.<br><br>
+<b>Address: </b> Calle Hernán Cortés, 19, 39003 Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.minube.com/rincon/iglesia-de-santa-lucia-a54692">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_chiesa_0_0_01_0_03_0000</styleUrl>
+				<Point>
+					<coordinates>-3.802238,43.463143,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Luoghi di interesse culturale</name>
+			<open>1</open>
+			<Placemark id=" 412 ">
+				<name>Biblioteca Municipal de Santander</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/BibliotecaMunicipalSantander.png"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Public library.<br><br>
+<b>Address: </b> Calle Gravina, 4, 39001 Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" www.bibliotecaspublicas.es/rbm-santander/index.jsp/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>-3.812962999999999,43.462696,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 413 ">
+				<name>Biblioteca Central de Cantabria</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/BibliotecaCentral.png"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Public library.<br><br>
+<b>Address: </b> Calle Ruiz de Alda, 19, 39009 Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" www.bcc.cantabria.es/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>-3.814539,43.45432,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 414 ">
+				<name>Hotel Real</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/HotelReal.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Remarkable building of the XIX-XX centuries.<br><br>
+<b>Address: </b> Av Pérez Galdós, 28, 39005 Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.hotelreal.es/es/index.html/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>-3.783036000000001,43.466556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 416 ">
+				<name>El Solaruco</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/ElSolaruco.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Remarkable building of the XIX-XX centuries.<br><br>
+<b>Address: </b> Menéndez Pelayo 94-96, 39006 Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" www.fundacionbancosantander.com//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>-3.790473,43.467472,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 415 ">
+				<name>Edificio de Correos</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/Correos.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Remarkable building. Building of the Postal Service.<br><br>
+<b>Address: </b> Calle Alfonso XIII, 2, 39002 Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="https://sites.google.com/site/sevenbeautis/santander/Correos.jpg">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>-3.80672,43.46136,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 417 ">
+				<name>Ayuntamiento de Santander</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/AyuntamientoSantander.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Remarkable building. Santander Town Hall.<br><br>
+<b>Address: </b> Plaza Ayuntamiento, s/n, 39002 Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://portal.ayto-santander.es/portal/page/portal/inet_santander//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>-3.810008,43.462208,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 418 ">
+				<name>Mercado de la Esperanza</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/MercadodelaEsperanza.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Remarkable building of the XIX-XX centuries.<br><br>
+<b>Address: </b> Calle El Mercado, s/n, 39002 Santander, Cantabria <br>
+ 
+ 
+<b> </b><a href="http://santanderspain.info/mercado-de-la-esperanza/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>-3.809975,43.46277,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 419 ">
+				<name>Mercado del Este</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/MercadodelEste.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Remarkable building of the XIX-XX centuries.<br><br>
+<b>Address: </b> Calle Hernán Cortés, 4, 39003 Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.minube.it/posto-preferito/mercado-del-este-di-santander-a6920">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>-3.804552,43.462481,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 420 ">
+				<name>Hotel París</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/HotelParis.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Remarkable building of the XIX-XX centuries.<br><br>
+<b>Address: </b> Av Hoteles, 6, 39005 Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://hotelparissantander.es/en//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>-3.784242,43.471762,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 421 ">
+				<name>Gran Casino del Sardinero</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/CasinoSantander.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Remarkable building of the XIX-XX centuries. Grand Casino in the seafront.<br><br>
+<b>Address: </b> Av Pérez Galdós, 28, 39005 Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.grancasinosardinero.es/santander//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>-3.782741,43.471812,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 422 ">
+				<name>Gran Hotel Sardinero</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/HotelSardinero.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Remarkable building of the XIX-XX centuries. In the seafront.<br><br>
+<b>Address: </b> Plaza de Italia, 1, 39005 Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.hotelsardinero.es/es/index.html//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>-3.782894,43.47239,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 424 ">
+				<name>Isla de Mouro</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/FaroMouro.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Remarkable lighthouse in the bay of the city, in front of El Palacio de la Magdalena.<br><br>
+<b>Address: </b> Isla de Mouro Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.minube.com/rincon/isla-de-mouro-a259131">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>-3.755789,43.47321,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 423 ">
+				<name>Casa del Indiano</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/CasadelIndianoedificio.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Remarkable building of the XIX-XX centuries.<br><br>
+<b>Address: </b> Av Reina Victoria, s/n, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.casadelindiano.com/indiano/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>-3.781981,43.4709,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 425 ">
+				<name>Caballerizas de la Magdalena</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/CaballerizasPalacioMagdalena.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Remarkable building of the XIX-XX centuries.<br><br>
+<b>Address: </b> Real Sitio de la Magdalena Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.centenariopalaciomagdalena.com/es//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>-3.768896,43.468325,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 426 ">
+				<name>Edificio del Banco Vitalicio</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/EdificioVitalicio.JPG"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Remarkable building of the XIX-XX centuries.<br><br>
+<b>Address: </b> Calle Castelar, s/n, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="https://sites.google.com/site/sevenbeautis/santander/EdificioVitalicio.JPG">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>-3.796415,43.463342,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 427 ">
+				<name>Edificio Banco Santander</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/BancoSantander.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Remarkable building. Santander Bank Headquarters.<br><br>
+<b>Address: </b> Paseo de Pereda, 9, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.minube.com/rincon/edificio-del-banco-santander-a48378">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>-3.803411,43.462096,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 428 ">
+				<name>Palacete del Sr. Botín</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/PalaceteBotin.png"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Remarkable building of the XIX and XX century.<br><br>
+<b>Address: </b> Av Pérez Galdós, 28, 39005 Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.elmundo.es/larevista/num172/textos/botin2.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>-3.781341,43.465988,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 429 ">
+				<name>Palacio de la Magdalena</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/PalacioMagdalena.png"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The Royal Palace of La Magdalena is located on the peninsula of Magdalena, opposite the island of Mouro in Santander, and was built between 1909 and 1911, by public subscription, to house the Spanish royal family.<br><br>
+<b>Address: </b> Real Sitio de la Magdalena, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://palaciomagdalena.com/es/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>-3.766109,43.469157,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 430 ">
+				<name>Excavación Arqueológica de la Plaza Porticada</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/Excavaci%C3%B3n%20Arqueol%C3%B3gica%20de%20la%20Plaza.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Archeological excavation with ruins of a still unknown period.<br><br>
+<b>Address: </b> Plaza Porticada Santander, Cantabria<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>-3.805978,43.462078,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 431 ">
+				<name>Grúa de Piedra</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/Gr%C3%BAa%20de%20Piedra.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Industrial relic of the old Santander Port.<br><br>
+<b>Address: </b> Muelle de Albaredo, 39004, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="https://turismodecantabria.com/disfrutala/que-visitar/278-grua-de-piedra">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>-3.803014,43.460754,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 432 ">
+				<name>Monumento a Los Raqueros</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/Monumento%20a%20Los%20Raqueros.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>This monument consists of four bronze figures, located very close to the marina. The sculptures are 4 children, one standing looking out to the sea, two sitting and one jumping into the sea. On the floor there is a commemorative plaque. It represents some typical characters of Santander called "wreckers": They were poor or homeless children who subsisted on collecting coins thrown to them by tourists if the kids jumped to the sea. During the late nineteenth and early twentieth centuries it became a spectacle to see how these kids would recover the coins from the sea.<br><br>
+<b>Address: </b> Paseo de Pereda, s/n (Bahía), Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.minube.it/posto-preferito/monumento-ai-raqueros-a-santander-a6062">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>-3.798281,43.461916,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 433 ">
+				<name>Mapa de Cantabria en relieve</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/Mapa%20de%20Cantabria%20en%20relieve.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Relief map of Cantabria.<br><br>
+<b>Address: </b> Plaza de las Brisas, s/n, 39004, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://mapas.cantabria.es/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>-3.785816,43.474241,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 434 ">
+				<name>Sala BNS Santander</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/Sala%20BNS%20Santander.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Night pub where the visitor can enjoy live music at least once a week.<br><br>
+<b>Address: </b> Av Reina Victoria, 46, 39005, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="https://www.facebook.com/salabns/?ref=ts&fref=ts">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>-3.779706,43.471393,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 435 ">
+				<name>Black Bird Culture i Music Club</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/BlackBird.png"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Located in central Santander is this adaptable space for any type of event, especially concerts and jam sessions.<br><br>
+<b>Address: </b> Calle Vista Alegre ,13 bajo, 39001, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" www.facebook.com/Blackbirdclub/ /">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>-3.809955,43.465028,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 438 ">
+				<name>Palacio de Festivales de Cantabria</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/Palacio%20de%20Festivales%20de%20Cantabria.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Flagship theater of the city of Santander.<br><br>
+<b>Address: </b> Calle de Gamazo, s/n, 39006, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.palaciofestivales.com//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>-3.789689999999999,43.46239,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 436 ">
+				<name>Café de las Artes</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/CafeDeLasArtes.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Café de las Artes is born by the common desire of a group of artists of international experience to propose an alternative performance space in Santander. The CDAT features an open living space (11x11m and 4.80 m in height) allowing a public-scene variable ratio. Suitable for different formats, especially dance and acrobatics.<br><br>
+<b>Address: </b> Calle García Morato, 4, 39009, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.cdat.es/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>-3.816766,43.455782,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 437 ">
+				<name>Casyc</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/Casyc.png"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Located in a modernist building from the last century (1907) that opened D. Alfonso XIII. It has 6 rooms, 2 workshops, multipurpose room, media room, exhibition hall, auditorium for 500 people, cafeteria, spacious hallways and garage. This building houses the Social Work of a local savings bank and most of it's cultural programming and events are developed in collaboration with various groups.<br><br>
+<b>Address: </b> Calle de Tantín, 25, 39001, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.casyc.com /">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>-3.80559,43.46445,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 439 ">
+				<name>Escena Miriñaque</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/Escena%20Miri%C3%B1aque.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Theatre and school.<br><br>
+<b>Address: </b> Calle Isaac Peral, 9, 39008, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.escenamirinaque.es/inicio/bienvenidos//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>-3.817431,43.459407,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 442 ">
+				<name>Pub Molly Doolan</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/Pub%20Molly%20Doolan.JPG"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>39003 Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="https://www.facebook.com/pages/Molly-Doolan/319433548083727">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>-3.797123,43.465041,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 440 ">
+				<name>Doménico Café-Teatro</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/DomenicoCafe.png"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>A nice café to enjoy your drinks, live music and theater representations in a relaxed way.<br><br>
+<b>Address: </b> Calle Isaac Peral, 9, 39008, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.domenicocafe.com//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>-3.81537,43.460575,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 441 ">
+				<name>Phantom Cafe</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/Phantom%20Cafe.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>A nice café to enjoy your drinks, live music and theater representations in a relaxed way.<br><br>
+<b>Address: </b> Calle Santa Lucía, 20, 39003, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" https://es-es.facebook.com/pages/Phantom-Caf%C3%A9/47171441596//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>-3.800557,43.464215,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Itinerari culturali</name>
+			<open>1</open>
+			<Placemark>
+				<name>Magdaleno</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/santanderslow/mobility/Magdaleno.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Tourist train around the Real Sitio de la Magdalena with nice views to the sea and the Magdalena Palace.<br>
+<br>
+<a href=" http://www.centenariopalaciomagdalena.com/es/ > www.centenariopalaciomagdalena.com </a><br><br>
+<b>Address:</b> Real Sitio de la Magdalena Santander, Cantabria <br>
+</div>
+</body>]]></description>
+				<styleUrl>#failed2002</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-3.773386827621392,43.46880829673621,0 -3.772738431637878,43.46904838981145,0 -3.772197404262168,43.46935393456613,0 -3.771910320408009,43.46954427306895,0 -3.77176827131587,43.46977135680385,0 -3.771706615544881,43.46993388887003,0 -3.771624298420834,43.47011611409315,0 -3.771485337855659,43.47028174708581,0 -3.77116001753096,43.47048046576207,0 -3.770921148511086,43.47052334667155,0 -3.770549397736582,43.47057615447861,0 -3.770365588992467,43.47060473416368,0 -3.770210572936226,43.47051770796259,0 -3.77008004654571,43.47041441780847,0 -3.769494275957754,43.47048680287539,0 -3.768853233626677,43.47052191705942,0 -3.768509636939884,43.47049019789694,0 -3.768155448854063,43.47036593046053,0 -3.767712717863096,43.47012195300434,0 -3.767436067806482,43.46988189081884,0 -3.767275542282,43.46972065453416,0 -3.767133033206369,43.46957221480971,0 -3.767079652826773,43.46948371577655,0 -3.766288635309785,43.46949136771961,0 -3.766104512934179,43.4695665548637,0 -3.765954191871022,43.46961293699863,0 -3.765733438647101,43.46964117905691,0 -3.765524564386753,43.46959712060478,0 -3.76543304964256,43.46950547018891,0 -3.765518662703901,43.46939788449014,0 -3.765576172415633,43.46926009367838,0 -3.765450108256801,43.46904105890241,0 -3.765235646626127,43.46878887094626,0 -3.765156891368762,43.4684347262269,0 -3.765028659765116,43.46809212302877,0 -3.764845682165384,43.46777118395711,0 -3.764552012114027,43.46750522914527,0 -3.764472030639144,43.46728721460113,0 -3.764593407317103,43.46697160263928,0 -3.764809227311408,43.46678223140729,0 -3.764986311443207,43.4667296860014,0 -3.765158455364005,43.46672674408868,0 -3.765468870910622,43.46676899969532,0 -3.765689172921376,43.46678494082462,0 -3.765854116794396,43.4668055051681,0 -3.7661983690607,43.467109315659,0 -3.766331673522569,43.46723926129925,0 -3.766666405404451,43.4673614468401,0 -3.766983334220871,43.46743126541045,0 -3.767150676647557,43.46748443639503,0 -3.767307226327117,43.46761997144655,0 -3.767508160620601,43.4676946239457,0 -3.768397682224935,43.46792050173441,0 -3.769307808330545,43.46814824581676,0 -3.769429752864436,43.46849038952779,0 -3.769550783661511,43.46878578250357,0 -3.769734498525792,43.46894084277429,0 -3.769950627253447,43.4690591998725,0 -3.770279327057302,43.46909129440959,0 -3.770740300107024,43.46908672645168,0 -3.771668000242925,43.46898833086695,0 -3.772549277084387,43.46891448085633,0 -3.773386827621392,43.46880829673621,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Avenida de la Reina Victoria</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/PaseoReinaVictoria.png" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+In this street you will find examples of the most typical architecture of the XVIII and XIX centuries in the north of Spain.<br>
+<br>
+<b>Address:</b> Av Reina Victoria, s/n, Santander, Cantabria <br>
+</div>
+</body>]]></description>
+				<styleUrl>#failed2002</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-3.78719492861359,43.46347003005739,0 -3.78661220327173,43.46355023934478,0 -3.786105344512446,43.46360734970453,0 -3.785373707960453,43.46379658346861,0 -3.784879645459682,43.46392458087112,0 -3.784209967716214,43.46411061742796,0 -3.783444908981389,43.46432499203158,0 -3.78239621672011,43.46461935957493,0 -3.781763046397337,43.46479323061559,0 -3.781215402618762,43.46499544631912,0 -3.781094032829603,43.46507226641224,0 -3.780743850306894,43.46547370037488,0 -3.780348608880506,43.46571464614193,0 -3.779762673596364,43.4660849478033,0 -3.779248514698237,43.46635446006408,0 -3.77848849572636,43.46676353775646,0 -3.777347693146727,43.46730319545873,0 -3.776546358971282,43.46765211203233,0 -3.77600975713126,43.46795332363903,0 -3.775881123892809,43.46809321607704,0 -3.775880700082062,43.46831434596323,0 -3.775939803817598,43.4684297354003,0 -3.776371852431434,43.46872549487506,0 -3.776698495836828,43.46896180333609,0 -3.776939563874759,43.46924092936752,0 -3.777047069286782,43.46948576914537,0 -3.777388113601091,43.47031702171471,0 -3.777498217990337,43.47052152842702,0 -3.777578682158805,43.47063161452832,0 -3.777674406579155,43.47073087893659,0 -3.777860833545939,43.47087037358939,0 -3.778088023788109,43.4709883099508,0 -3.778432735291121,43.47110969376666,0 -3.778981408638237,43.47121133984846,0 -3.780493718042063,43.47153272112237,0 -3.781060021534063,43.47166253692937,0 -3.781481344532093,43.47180292815241,0 -3.781756774562236,43.4719658093014,0 -3.781935901041086,43.47211775071146,0 -3.782794807774312,43.47278567493085,0 -3.78304305727338,43.47295860986331,0 -3.783797003342166,43.47338004427811,0 -3.784300767824476,43.47366345648504,0 -3.78467384606001,43.47390493250089,0 -3.784855062908457,43.47408700640891,0 -3.78507401713196,43.47435416946293,0 -3.785259298496111,43.47459400911055,0 -3.785469144328022,43.47479743461792,0 -3.785671944748309,43.47494459375723,0 -3.785919809770266,43.47512856906765,0 -3.786245043532937,43.47525404701416,0 -3.787552484714247,43.47560331780788,0 -3.78810861273729,43.47575935181721,0 -3.788359343382956,43.47589684315646,0 -3.788425966033651,43.47615650895499,0 -3.788673919128758,43.47760390407775,0 -3.78892451345294,43.4790960751513,0 -3.788895373970012,43.4794089094855,0 -3.788782188738675,43.4795425638579,0 -3.788705307818125,43.47973218897371,0 -3.788580555146073,43.47995882118295,0 -3.788328708457309,43.48026364824399,0 -3.787833598880892,43.48058624843172,0 -3.78731140708282,43.48091031392669,0 -3.786898691155116,43.48114726563878,0 -3.786786496867926,43.48129552713083,0 -3.786756762741534,43.4813949332931,0 -3.786787015817828,43.48208301649876,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Paseo de Pereda</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/PaseoPereda.jpeg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+In this street you will find examples of the most typical architecture of the XVIII and XIX centuries in the north of Spain.<br>
+<br>
+<a href=" -/"> - </a><br><br>
+<b>Address:</b> Paseo de Pereda, s/n (Bahía) 39004, Santander, Cantabria <br>
+</div>
+</body>]]></description>
+				<styleUrl>#failed2002</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-3.80358456890004,43.46119062697299,0 -3.803443945710598,43.46101909312307,0 -3.802271905397185,43.46151942968891,0 -3.802055620038952,43.46158145773821,0 -3.80176392963725,43.4616547277075,0 -3.801125048648587,43.46172056933392,0 -3.798499272090123,43.46199040687708,0 -3.797880170114557,43.46201602199343,0 -3.797452688234103,43.46207816440307,0 -3.79689419167933,43.46241809640917,0 -3.796152965631,43.46281992979411,0 -3.795978150388368,43.46286660491853,0 -3.79219343546278,43.46259036481276,0 -3.790936295285692,43.46248100644577,0 -3.790570671678462,43.46239704954826,0 -3.790318215029486,43.46233500263991,0 -3.787893683416649,43.46205423341127,0 -3.787729161237199,43.46208382395842,0 -3.787619688719298,43.46213873237947,0 -3.78708513457408,43.46262296666974,0 -3.786493268246361,43.46300166205574,0 -3.786208687134866,43.46310293852681,0 -3.785301659021548,43.46329213530677,0 -3.785079154318356,43.46332154037158,0 -3.784351525713357,43.46306656471089,0 -3.782411480493785,43.46334718882196,0 -3.782203184367388,43.4637062283323,0 -3.78091956061176,43.46398158178617,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

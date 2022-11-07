@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>sa_s_low_mobilities.kml</name>
+	<open>1</open>
+	<Style id="sn_arrow-reverse0">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow-reverse.png</href>
+			</Icon>
+			<hotSpot x="54" y="42" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_arrow-reverse0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_arrow-reverse0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_arrow-reverse</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_arrow-reverse">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow-reverse.png</href>
+			</Icon>
+			<hotSpot x="54" y="42" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<Placemark id=" 551 ">
+		<name>Santander Airport</name>
+		<open>1</open>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/mobility/SANTANDER%20AIRPORT.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b>Address: </b>Carretera del Aeropuerto, s/n, 39600 Maliaño<br>
+ 
+ 
+<b> </b><a href=" http://www.aena.es/csee/Satellite/HomeAena">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#msn_arrow-reverse0</styleUrl>
+		<Point>
+			<coordinates>-3.823748,43.423212,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 543 ">
+		<name>Santander Bus Station</name>
+		<open>1</open>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+ 
+<body> <div class="box"><br>
+ 
+<b>Address: </b>Calle Navas de Tolosa, 39002 Santander<br>
+ 
+<b> <b> </b><a href="http://www.transportedecantabria.es/web/guest/home">Website</a><br>
+ 
+
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#msn_arrow-reverse0</styleUrl>
+		<Point>
+			<coordinates>-3.809385,43.459458,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 528 ">
+		<name>Santander Train Station</name>
+		<open>1</open>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+ 
+<body> <div class="box"><br>
+ 
+<b>Address: </b>Plaza de las Estaciones, s/n. 39002  Santander<br>
+ 
+ 
+<b> <b> </b><a href="www.adif.es/es_ES/infraestructuras/estaciones/14223/informacion_000036.shtml">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#msn_arrow-reverse0</styleUrl>
+		<Point>
+			<coordinates>-3.811078,43.45856,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

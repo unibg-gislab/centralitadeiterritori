@@ -1,0 +1,1698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ca_s_low_culturalresources.kml</name>
+	<open>1</open>
+	<Style id="s_ylw-pushpin01303117000216">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/musei.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="sn_castello10171050101012">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_castello01000080040022</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_castello200001010001110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_chiesa_0_0_01_0_03_00">
+		<IconStyle>
+			<scale>0.699993</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/sitireligiosi.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_sito unesco_0_0_01_0_0_4_200">
+		<IconStyle>
+			<scale>0.827273</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/borghi_png.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_chiesa_0_0_01_0_03_01">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/sitireligiosi.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl10011251780204">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/musei.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_castello01000080040022">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/castelli.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff005cb8</color>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_sito unesco_0_0_01_0_0_4_20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_sito unesco_0_0_01_0_0_4_200</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_sito unesco_0_0_01_0_0_4_20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin0320011187206">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin01303117000216</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl10011251780204</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_chiesa_0_0_01_0_03_0000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_chiesa_0_0_01_0_03_01</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_chiesa_0_0_01_0_03_00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_sito unesco_0_0_01_0_0_4_20">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/borghi_png.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_castello200001010001110">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/castelli.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff005cb8</color>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_sito unesco_0_0_01_0_0_4_200">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/borghi_png.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_sito unesco_0_0_01_0_0_4_20">
+		<IconStyle>
+			<scale>0.827273</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/borghi_png.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_sito unesco_0_0_01_0_0_4_200">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_sito unesco_0_0_01_0_0_4_20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_sito unesco_0_0_01_0_0_4_200</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Cultural resources</name>
+		<open>1</open>
+		<Folder>
+			<name>Villages of excellence</name>
+			<Placemark>
+				<name>Wimpole Estate, The National Trust</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Wimpole%20Estate.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Wimpole Estate is a large estate containing Wimpole Hall, a country house located southwest of Cambridge. It is owned by the National Trust .<br>
+<br>
+<a href=http://www.nationaltrust.org.uk/wimpole-estate/>www.nationaltrust.org.uk </a><br><br>
+<b>Address:</b> Arrington, Royston, Hertfordshire SG8 0BW<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>-0.04925899997946459</longitude>
+					<latitude>52.14124683359782</latitude>
+					<altitude>0</altitude>
+					<heading>2.503794144254617e-011</heading>
+					<tilt>0</tilt>
+					<range>1000.000143255927</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_sito unesco_0_0_01_0_0_4_20</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-0.04925899997946459,52.14124683359782,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Grantchester Village</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Grantchester%20Village.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Grantchester is a small but pretty village that is a popular destination for going punting on the River Cam. The historic village can excellently be combined with a visit to the Orchard Tea Rooms.
+<br>
+<br>
+<a href= http://www.grantchester.org.uk/> www.grantchester.org.uk</a><br><br>
+<b>Address:</b> Grantchester, CB2 4AG, Cambridgeshire <br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>0.0972460000793629</longitude>
+					<latitude>52.17730000048472</latitude>
+					<altitude>0</altitude>
+					<heading>6.180880001651052e-011</heading>
+					<tilt>0</tilt>
+					<range>1000.000438701512</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_sito unesco_0_0_01_0_0_4_200</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>0.0972460000793629,52.17730000048472,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punting (and the River Cam)</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Punting%20and%20the%20River%20Cam.JPG" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Punting along the River Cam is a classic tradition in Cambrige. It provides a beautiful journey with  stunning views of the ‘Backs’ in a very Cambridge way while being told the history of the University by a professional guide.
+<br>
+<br>
+<b>Address:</b> Granta Place, Cambridge, CB2 1RS
+<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>0.1175308393929297</longitude>
+					<latitude>52.21013376502485</latitude>
+					<altitude>0</altitude>
+					<heading>-2.068270355526768e-010</heading>
+					<tilt>0</tilt>
+					<range>1001.207393234544</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_sito unesco_0_0_01_0_0_4_200</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>0.1175308393929297,52.21013376502485,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Island Hall</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Island%20Hall.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Island Hall is an elegant riverside mansion built in the late 1740s just north of Cambridge providing a venue for ceremonies and scheduled tour groups. 
+<br>
+<br>
+<a href= http://www.islandhall.com/> www.islandhall.com </a><br><br>
+<b>Address:</b>Post Street, Godmanchester, Huntingdon, Cambs, PE29 2BA<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>0.1795394521461869</longitude>
+					<latitude>52.31784982578995</latitude>
+					<altitude>0</altitude>
+					<heading>0.002541016027576936</heading>
+					<tilt>0</tilt>
+					<range>1284.295727686665</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_sito unesco_0_0_01_0_0_4_200</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>0.1795394521461868,52.31784982578995,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Castles</name>
+			<Placemark id="16851474661913952706">
+				<name>Mountfitchet Castle &amp; Norman Village</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Mountfitchet%20Castle%20and%20Village.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Mountfitchet Castle and Norman Village is an open-air museum experience where vistors can explore medieval life in a historic castle and village. It is located 30 minutes away from Cambridge on the way to Stansted airport <br>
+<br>
+<a href=http://www.mountfitchetcastle.com/> www.mountfitchetcastle.com</a><br><br>
+<b>Address:</b> Lower Street, Stansted, Essex, CM24 8LY<br>
+</div>
+</body>]]></description>
+				<styleUrl>#sn_castello10171050101012</styleUrl>
+				<ExtendedData>
+					<Data name="tracking_href_2">
+						<value>http://www.google.com/maps/gen_204?ct=google_earth:popup&amp;oi=blaces-tourist_destination-tourist_destination._._._.7af34378f6069572_en&amp;cad=lat:51.902176,lon:0.201036,quad:020100100112,cc:GB</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.201036,51.902176,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="3230760221969737764">
+				<name>Hedingham Castle</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/micro-business/Hedingham%20Castle.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+The 900 year old Norman keep of Hedingham Castle in Essex stands in 160 acres of landscaped gardens and woodland.
+<br>
+<br>
+<a href=http://www.hedinghamcastle.co.uk/> www.hedinghamcastle.co.uk</a><br><br>
+<b>Address:</b> Bayley Street, Castle Hedingham, Essex, CO9 3DJ<br>
+</div>
+</body>]]></description>
+				<styleUrl>#sn_castello10171050101012</styleUrl>
+				<ExtendedData>
+					<Data name="tracking_href_2">
+						<value>http://www.google.com/maps/gen_204?ct=google_earth:popup&amp;oi=blaces-generic_poi-event_venue._._._.fdc20a81bfc71a6c_en&amp;cad=lat:51.9927281,lon:0.6025049,quad:020100100122,cc:GB</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.6025049,51.9927281,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Religious</name>
+			<Placemark id="3689260485220570745">
+				<name>Round Church</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/The%20Round%20Church.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+The origins of the Round Church building date back to about 1130 AD making it one of the oldest buildings in Cambridge <br>
+<br>
+<a href= http://www.christianheritageuk.org.uk/> www.christianheritageuk.org.uk</a><br><br>
+<b>Address:</b> Bridge Street, Cambridge , CB2 1UB
+<br>
+</div>
+</body>]]></description>
+				<styleUrl>#msn_chiesa_0_0_01_0_03_0000</styleUrl>
+				<ExtendedData>
+					<Data name="tracking_href_2">
+						<value>http://www.google.com/maps/gen_204?ct=google_earth:popup&amp;oi=blaces-worship_general-church._._._.8a205064d414b966_en&amp;cad=lat:52.2084959,lon:0.1189768,quad:02010010100130303,cc:GB</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.1189768,52.2084959,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="13900943080634574511">
+				<name>Ely Cathedral</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Ely%20Cathedral.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Ely Cathedral in Cambridgeshire is a magnificent medieval cathedral with a number of unique characteristics, for example an octagon tower.
+<br>
+<br>
+<a href= http://www.elycathedral.org/> www.elycathedral.org</a><br><br>
+<b>Address:</b> Chapter House, The College, Ely, Cambridgeshire, CB7 4DL <br>
+</div>
+</body>]]></description>
+				<styleUrl>#msn_chiesa_0_0_01_0_03_0000</styleUrl>
+				<ExtendedData>
+					<Data name="tracking_href_2">
+						<value>http://www.google.com/maps/gen_204?ct=google_earth:popup&amp;oi=blaces-worship_general-church._._._.372559bad7f05b83_en&amp;cad=lat:52.3986614,lon:0.2637792,quad:02010010101330,cc:GB</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.2637792,52.3986614,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Museums and cultural locations</name>
+			<Placemark id="16068983067978096398">
+				<name>Oliver Cromwell&apos;s House</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Oliver%20Cromwells%20House.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Oliver Cromwell’s House was home to the former “Lord Protector” of Britain and re-create a 17th Century experience with audio guides and guided tours. 
+<br>
+<br>
+<a href=http://www.visitcambridge.org/things-to-do/oliver-cromwells-house-p507381> www.visitcambridge.org</a><br><br>
+<b>Address:</b> 29 St Mary's Street, Ely, Cambridgshire,CB7 4HF<br>
+</div>
+</body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<ExtendedData>
+					<Data name="tracking_href_2">
+						<value>http://www.google.com/maps/gen_204?ct=google_earth:popup&amp;oi=blaces-tourist_destination-tourist_destination._._._.d6732e1d5aaa5413_en&amp;cad=lat:52.3987984,lon:0.2590025,quad:02010010101,cc:GB</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.2590025,52.3987984,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Anglesey Abbey</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Anglesey%20Abbey.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Anglesey Abbey is a Jacobean-style house with beautiful gardens and a working watermill.
+<br>
+<br>
+<a href=http://www.nationaltrust.org.uk/anglesey-abbey/>www.nationaltrust.org.uk/anglesey-abbey
+</a><br><br>
+<b>Address:</b>Quy Road, Lode, Cambridge, Cambridgeshire , CB25 9EJ
+<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>0.2368069998609834</longitude>
+					<latitude>52.23584183313729</latitude>
+					<altitude>0</altitude>
+					<heading>-1.089623991995075e-010</heading>
+					<tilt>0</tilt>
+					<range>1000.000187951793</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>0.2368069998609834,52.23584183313729,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mill Road (local art space - see Ceri)</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Local%20art%20on%20Mill%20Road.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+An exciting community art project is being developed on Mill Road to celebrate the multicultural and diverse community of this vibrant part of Cambridge. <br>
+<br>
+<br>
+<b>Address:</b> Mill Road, Cambridge, CB1 <br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>0.1441790000016252</longitude>
+					<latitude>52.19711599998603</latitude>
+					<altitude>0</altitude>
+					<heading>6.781041973214014e-013</heading>
+					<tilt>0</tilt>
+					<range>1000.00032572115</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>0.1441790000016252,52.19711599998603,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cambridge Science Centre</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Cambridge%20Science%20Centre.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+The Cambridge Science Centre is a venue for exhibitions, shows and workshops dedicated to bringing science, technology, engineering and mathematics to life with fun and hands-on activities.
+<br>
+<br>
+<a href=http://www.cambridgesciencecentre.org/> www.cambridgesciencecentre.org</a><br><br>
+<b>Address:</b>Cambridge Science Centre, 18 Jesus Lane, Cambridge, CB5 8BQ, United Kingdom
+<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>0.1210329999687909</longitude>
+					<latitude>52.20868600022075</latitude>
+					<altitude>0</altitude>
+					<heading>-3.15035307843551e-011</heading>
+					<tilt>0</tilt>
+					<range>1000.000343571776</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>0.1210329999687909,52.20868600022074,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Duxford Imperial War Museum</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Duxford%20Imperial%20War%20%20Museum.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+The Imperial War Museum displays iconic aircraft of WW1 and WW2 and the powerful stories of the men and women involved to show the impact of aviation on the nature of war and on people’s lives.
+<br>
+<br>
+<a href= http://www.iwm.org.uk/visits/iwm-duxford> www.iwm.org.uk</a><br><br>
+<b>Address:</b>Duxford, Cambridge CB22 4QR<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>0.128179833144435</longitude>
+					<latitude>52.09476383346375</latitude>
+					<altitude>0</altitude>
+					<heading>-1.452855636419516e-010</heading>
+					<tilt>0</tilt>
+					<range>1000.00041633601</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>0.128179833144435,52.09476383346375,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Centre for Computing History</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Centre%20for%20Computing%20History.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+The Centre for Computing History tells the story of the Information Age presenting a collection of related artefacts while reflecting the social and historical impacts of computers in Europe. 
+<br>
+<br>
+<a href= http://www.computinghistory.org.uk/> www.computinghistory.org.uk</a><br><br>
+<b>Address:</b>Centre for Computing History, Rene Court , Coldhams Road, Cambridge, CB1 3EW
+<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>0.148808833245111</longitude>
+					<latitude>52.20829100036805</latitude>
+					<altitude>0</altitude>
+					<heading>-7.752318767916002e-011</heading>
+					<tilt>0</tilt>
+					<range>1000.000221048859</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>0.148808833245111,52.20829100036805,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Scott Polar Research Institute</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Scott%20Polar%20Research%20Institute.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Scott Polar Research Institute holds a collection of artefacts, journals, paintings, photographs, clothing equipment, maps and other materials illustrating polar exploration, history and science. 
+<br>
+<br>
+<a href=http://www.spri.cam.ac.uk/museum/> www.spri.cam.ac.uk</a><br><br>
+<b>Address:</b> Scott Polar Research Institute, University of Cambridge, Lensfield Road, Cambridge CB2 1ER, England
+<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>0.1263008332685622</longitude>
+					<latitude>52.19822399945812</latitude>
+					<altitude>0</altitude>
+					<heading>-4.823394415518975e-011</heading>
+					<tilt>0</tilt>
+					<range>1000.000114642218</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>0.1263008332685622,52.19822399945811,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="12687767599581280044">
+				<name>The Fitzwilliam Museum</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Fitzwilliam%20Museum.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+The Fitzwilliam Museum hosts diverse, high-quality collections across the ancient world which are supplemented by regular temporary exhibitions as well as an outdoor sculpture gallery.
+<br>
+<br>
+<a href= http://www.fitzmuseum.cam.ac.uk/> www.fitzmuseum.cam.ac.uk </a><br><br>
+<b>Address:</b> Trumpington Street, Cambridge, Cambridgeshire, CB2 1RB
+<br>
+</div>
+</body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<ExtendedData>
+					<Data name="tracking_href_2">
+						<value>http://www.google.com/maps/gen_204?ct=google_earth:popup&amp;oi=blaces-museum-museum._._._.3ecb0f264b137b25_en&amp;cad=lat:52.1995342,lon:0.119944,quad:020100101000,cc:GB</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.119944,52.1995342,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sedgwick Museum of Geology</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Sedgwick%20Museum%20of%20Geology.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+The Sedgwick Museum of Earth Sciences is the oldest of the University of Cambridge museums. It hosts a stunning collection of fossils, minerals and rocks that illustrate the evolution of life in the oceans, on land and in the air. 
+<br>
+<br>
+<a href=http://www.sedgwickmuseum.org/> www.sedgwickmuseum.org</a><br><br>
+<b>Address:</b> Downing Street, Cambridge, CB2 3EQ <br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>0.1215179999691518</longitude>
+					<latitude>52.20293510902372</latitude>
+					<altitude>0</altitude>
+					<heading>-1.345649077340761e-010</heading>
+					<tilt>30.29276366241169</tilt>
+					<range>174.3325877336582</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>0.1215084343686002,52.20286795141286,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Museum of Zoology</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/University%20Museum%20of%20Zoology.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+The University Museum of Zoology displays fossils, specimens, mammal skeletons and shells from all over the world <br>
+<br>
+<a href= http://www.museum.zoo.cam.ac.uk/> www.museum.zoo.cam.ac.uk </a><br><br>
+<b>Address:</b> Downing Street, Cambridge, CB2 3EJ <br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>0.1215179999256066</longitude>
+					<latitude>52.2028868338867</latitude>
+					<altitude>0</altitude>
+					<heading>-5.833569642456098e-011</heading>
+					<tilt>0</tilt>
+					<range>1000.000202019668</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>0.1220000294934076,52.20283187092115,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Whipple Museum of the History of Science</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Whipple%20Museum%20of%20the%20History%20of%20Science.jpg
+" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+The Whipple Museum holds an internationally important collection of scientific instruments and models, dating from the Middle Ages to the present <br>
+<br>
+<a href=http://www.hps.cam.ac.uk/whipple>www.hps.cam.ac.uk/whipple </a><br><br>
+<b>Address:</b> Free School Lane, Cambridge, CB2 3RH <br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>0.119051902376317</longitude>
+					<latitude>52.20370014433269</latitude>
+					<altitude>0</altitude>
+					<heading>-1.7635555274559e-006</heading>
+					<tilt>19.80751414602756</tilt>
+					<range>296.4796270477007</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>0.119051902376317,52.2037001443327,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cambridge Ruskin Gallery</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Ruskin%20Gallery.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+The Ruskin Gallery is an exhibition space surrounded by artists’ studios on the Anglia Ruskin University campus. Open to the general public, all exhibitions are free and carefully selected. 
+<br>
+<br>
+<a href= http://www.anglia.ac.uk/ruskin/en/home/microsites/ruskin_gallery/about_the_gallery.html> www.anglia.ac.uk</a><br><br>
+<b>Address:</b> Anglia Ruskin University, East Road, Cambridge, CB1 1PT<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>0.134807999910418</longitude>
+					<latitude>52.20382500025063</latitude>
+					<altitude>0</altitude>
+					<heading>-7.395674226173458e-011</heading>
+					<tilt>0</tilt>
+					<range>1000.000139527012</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>0.1348079999104179,52.20382500025062,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Museum of Archaeology &amp; Anthropology</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Museum%20of%20Archaeology%20and%20Anthropology.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+The Museum of Archaeology and Anthropology houses the University's collections of local antiquities, together with archaeological and ethnographic artefacts from around the world.
+<br>
+<br>
+<a href=http://maa.cam.ac.uk/maa/> maa.cam.ac.uk </a><br><br>
+<b>Address:</b>Downing Street, Cambridge , CB2 3DZ<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>0.1215179999256066</longitude>
+					<latitude>52.2028868338867</latitude>
+					<altitude>0</altitude>
+					<heading>-5.833569642456098e-011</heading>
+					<tilt>0</tilt>
+					<range>1000.000202019668</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>0.1215179999256066,52.20288683388669,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kettles Yard House &amp; Gallery</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Kettles%20Yard%20House%20%26%20Gallery.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Kettle’s Yard is a unique house and art gallery in Cambridge hosting a distinctive collection of 20th century contemporary and modern art. <br>
+<br>
+<a href=http://www.kettlesyard.co.uk/house/group_visits/> www.kettlesyard.co.uk</a><br><br>
+<b>Address:</b> Castle Street, Cambridge CB3 0AQ - UK
+<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>0.1146368338713444</longitude>
+					<latitude>52.21085083408596</latitude>
+					<altitude>0</altitude>
+					<heading>4.21950200118783e-010</heading>
+					<tilt>0</tilt>
+					<range>1000.000263746191</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>0.1146368338713444,52.21085083408596,0</coordinates>
+				</Point>
+			</Placemark>
+			<Folder>
+				<name>Library</name>
+				<Placemark id="1154907443186812759">
+					<name>Cambridge University Library</name>
+					<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Cambridge%20University%20Library.jpg
+" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+The University of Cambridge Library has an excellent collection of publications and is free and open to the public with quick membership. 
+<br>
+<br>
+<a href=http://www.lib.cam.ac.uk/> www.lib.cam.ac.uk </a><br><br>
+<b>Address:</b> Cambridge University Library , West Road, Cambridge , CB3 9DR
+<br>
+</div>
+</body>]]></description>
+					<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+					<ExtendedData>
+						<Data name="tracking_href_2">
+							<value>http://www.google.com/maps/gen_204?ct=google_earth:popup&amp;oi=blaces-library-library._._._.f6a6c851d8a7aede_en&amp;cad=lat:52.2050683,lon:0.1077597,quad:0201001010002112,cc:GB</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>0.1077597,52.20506830000001,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Others</name>
+				<Placemark>
+					<name>Chilford Hall Wine Estate</name>
+					<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Chilford%20Hall%20Vineyard.jpg
+" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Chilford Hall Vineyard is located just outside of Cambridge and offers tours through the Winery and Vineyard Trails. 
+<br>
+<br>
+<a href=http://www.chilfordhall.co.uk/cgi-bin/ch/index.html> www.chilfordhall.co.uk</a><br><br>
+<b>Address:</b> Balsham Road, Linton, Cambridge, CB21 4LE<br>
+</div>
+</body>]]></description>
+					<LookAt>
+						<longitude>0.2878189991203439</longitude>
+						<latitude>52.1071590003808</latitude>
+						<altitude>0</altitude>
+						<heading>6.234572982771683e-011</heading>
+						<tilt>0</tilt>
+						<range>1000.345717102188</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>0.2878189991203439,52.1071590003808,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>The Bridge of Sighs</name>
+					<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Bridge%20of%20Sighs.JPG
+" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+The Bridge of Sighs in Cambridge is a covered bridge belonging to St John's College of the University of Cambridge, named after the Bridge of Sighs in Venice.
+<br>
+<br>
+<a href= http://www.joh.cam.ac.uk/bridge-sighs> www.joh.cam.ac.uk/bridge-sighs
+</a><br><br>
+<b>Address:</b>St John's College,Cambridge CB2 1TP<br>
+</div>
+</body>]]></description>
+					<LookAt>
+						<longitude>0.117381160320833</longitude>
+						<latitude>52.2088332504517</latitude>
+						<altitude>0</altitude>
+						<heading>1.010170393289147e-006</heading>
+						<tilt>23.77175491121817</tilt>
+						<range>222.3596529957165</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>0.117381160320833,52.2088332504517,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Cambridge observatory - Institute of Astronomy</name>
+					<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Cambridge%20Observatory.jpg
+" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+The Cambridge Observatory belongs to the University of Cambridge Institute of Astronomy and offers free talks and public sessions to gaze at the stars.
+<br>
+<br>
+<a href= http://www.ast.cam.ac.uk/public/public_observing> www.ast.cam.ac.uk </a><br><br>
+<b>Address:</b>Wilberforce Road, Cambridge, CB3 0WB<br>
+</div>
+</body>]]></description>
+					<LookAt>
+						<longitude>0.0934590000069524</longitude>
+						<latitude>52.21407583318219</latitude>
+						<altitude>0</altitude>
+						<heading>6.94091454212445e-012</heading>
+						<tilt>0</tilt>
+						<range>1000.000123423037</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>0.0934590000069524,52.21407583318218,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4448513964843012666">
+					<name>Cambridge United Football Club Ltd</name>
+					<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+					<ExtendedData>
+						<Data name="tracking_href_2">
+							<value>http://www.google.com/maps/gen_204?ct=google_earth:popup&amp;oi=blaces-generic_poi-football._._._.e39a1ef065953bb3_en&amp;cad=lat:52.212628,lon:0.1542981,quad:0201001010013,cc:GB</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>0.1542981,52.212628,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>The Corpus Clock</name>
+					<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/The%20Corpus%20Clock.jpg
+" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+The Corpus Clock is an unusual clock that is both beautiful and deeply disturbing. It is a remarkable mixture of modern design and an ancient setting that is worth a glance for passersby. 
+<br>
+<br>
+<a href=http://www.corpus.cam.ac.uk/about-us/the-corpus-clock/> www.corpus.cam.ac.uk </a><br><br>
+<b>Address:</b> Corpus Christi College, Cambridge, CB2 1RB<br>
+</div>
+</body>]]></description>
+					<LookAt>
+						<longitude>0.1176258334089431</longitude>
+						<latitude>52.20373683369766</latitude>
+						<altitude>0</altitude>
+						<heading>5.933455210708297e-011</heading>
+						<tilt>0</tilt>
+						<range>1000.000298277422</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>0.1176258334089431,52.20373683369766,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="637576451843947086">
+					<name>Curve Motion</name>
+					<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Curve%20Motion.jpg
+" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Curve motion is an indoor children‘s centre that offers activities for the whole family including roller skates and softplay .<br>
+<br>
+<a href=http://www.curvemotion.com/> www.curvemotion.com </a><br><br>
+<b>Address:</b> Lark Valley Business Park, Bury St Edmunds, IP32 6LJ <br>
+</div>
+</body>]]></description>
+					<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+					<ExtendedData>
+						<Data name="tracking_href_2">
+							<value>http://www.google.com/maps/gen_204?ct=google_earth:popup&amp;oi=blaces-soccer-activities._._._.1e4d38e0610de35a_en&amp;cad=lat:52.268722,lon:0.7030821,quad:02010010103232,cc:GB</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>0.7030821,52.268722,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Corpus Playroom</name>
+					<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Corpus%20Playroom.jpg
+" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+The Corpus Playroom is an intimate studio space in the heart of Cambridge.
+<br>
+<br>
+<a href=https://www.corpusplayroom.com/> www.corpusplayroom.com </a><br><br>
+<b>Address:</b> 10 St Edward's Passage, Cambridge, CB2 3PJ<br>
+</div>
+</body>]]></description>
+					<LookAt>
+						<longitude>0.1181188333167604</longitude>
+						<latitude>52.2046304359645</latitude>
+						<altitude>0</altitude>
+						<heading>-2.197103071314052e-010</heading>
+						<tilt>12.54514668228518</tilt>
+						<range>496.0317549386959</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>0.1181188333167604,52.2046304359645,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Theatres</name>
+				<Placemark>
+					<name>West Road Concert Hall</name>
+					<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/West%20Road%20Concert%20Hall.jpg
+" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Situated in Central Cambridge, West Road Concert Hall is one of Cambridge’s premiere music venues with excellent acoustic qualities. 
+<br>
+<br>
+<a href=" http://www.westroad.org/> www.westroad.org </a><br><br>
+<b>Address:</b> 11 West Road, Cambridge , CB3 9DP<br>
+</div>
+</body>]]></description>
+					<LookAt>
+						<longitude>0.1079000000990682</longitude>
+						<latitude>52.20209699994836</latitude>
+						<altitude>0</altitude>
+						<heading>8.065147441708872e-011</heading>
+						<tilt>0</tilt>
+						<range>1000.000611009331</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>0.1079000000990682,52.20209699994835,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4201798871175770365">
+					<name>Cambridge Junction</name>
+					<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Cambridge%20Junction.jpg
+" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Cambridge Junction is a culturally diverse and popular entertainment venue that is mainly used for comedy and music gigs.
+<br>
+<br>
+<a href=http://www.junction.co.uk/> www.junction.co.uk </a><br><br>
+<b>Address:</b>Clifton Way, Cambridge, CB1 7GX<br>
+</div>
+</body>]]></description>
+					<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+					<ExtendedData>
+						<Data name="tracking_href_2">
+							<value>http://www.google.com/maps/gen_204?ct=google_earth:popup&amp;oi=blaces-music-performing_arts._._._.20fbee890e2fa3f6_en&amp;cad=lat:52.190726,lon:0.13647,quad:020100101000221,cc:GB</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>0.13647,52.190726,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Cambridge Arts Theatre</name>
+					<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Cambridge%20Arts%20Theatre.JPG
+" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Cambridge Arts Theatre has a 75 year history of drama, opera, music, and dance, showcasing both amateur and professional productions. <br>
+<br>
+<b>Address:</b>6 St Edward's Passage, Cambridge, CB2 3PJ
+<br>
+</div>
+</body>]]></description>
+					<LookAt>
+						<longitude>0.118118833288603</longitude>
+						<latitude>52.20465583343876</latitude>
+						<altitude>0</altitude>
+						<heading>-3.638702401690784e-011</heading>
+						<tilt>0</tilt>
+						<range>1000.000117377418</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>0.118118833288603,52.20465583343875,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="6062133388990478261">
+					<name>Cambridge Corn Exchange</name>
+					<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/The%20Corn%20Exchange.jpg?attredirects=0" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+The Corn Exchange is a multi-purpose entertainment venue showing performances of rock and pop as well as musicals, comedy, ballet, orchestral concerts and an annual Christmas show.
+<br>
+<br>
+<a href=http://www.cornex.co.uk/> www.cornex.co.uk</a><br><br>
+<b>Address:</b>Wheeler Street, Cambridge , CB2 3QB
+<br>
+</div>
+</body>]]></description>
+					<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+					<ExtendedData>
+						<Data name="tracking_href_2">
+							<value>http://www.google.com/maps/gen_204?ct=google_earth:popup&amp;oi=blaces-music-performing_arts._._._.63eb62c086e07b74_en&amp;cad=lat:52.2043484,lon:0.119639,quad:0201001010002121,cc:GB</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>0.119639,52.2043484,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5680365879291547822">
+					<name>The Mumford Theatre</name>
+					<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/Mumford%20Theatre.jpg?attredirects=0" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Situated in the heart of the Anglia Ruskin University Campus, the Mumford Theatre is a university theatre presenting a range of local community and student theatre. It also presents music events.
+<br>
+<br>
+<a href=http://www.anglia.ac.uk/ruskin/en/home/microsites/mumford_theatre.html>www.anglia.ac.uk</a><br><br>
+<b>Address:</b>Mumford Theatre, Anglia Ruskin University, East Road , Cambridge CB1 1PT
+<br>
+</div>
+</body>]]></description>
+					<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+					<ExtendedData>
+						<Data name="tracking_href_2">
+							<value>http://www.google.com/maps/gen_204?ct=google_earth:popup&amp;oi=blaces-music-performing_arts._._._.acaa15104b93a9d5_en&amp;cad=lat:52.2037878,lon:0.1328966,quad:02010010100022111,cc:GB</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>0.1328966,52.2037878,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ADC Theatre</name>
+					<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/ADC%20Theatre.jpg?attredirects=0" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+The ADC (Cambridge University’s Amateur Dramatic Club) is a lively theatre in Cambridge which is run almost entirely by students and presents a vibrant programme of drama, music and comedy.
+<br>
+<br>
+<a href=http://www.adctheatre.com/> www.adctheatre.com</a><br><br>
+<b>Address:</b>ADC Theatre, Park Street, Cambridge, CB5 8AS
+<br>
+</div>
+</body>]]></description>
+					<LookAt>
+						<longitude>0.120116000037922</longitude>
+						<latitude>52.20908883347872</latitude>
+						<altitude>0</altitude>
+						<heading>3.728293408970086e-011</heading>
+						<tilt>0</tilt>
+						<range>1000.000614152753</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>0.120116000037922,52.20908883347873,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

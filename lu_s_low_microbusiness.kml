@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>lu_s_low_microbusiness.kml</name>
+	<Style id="sn_home_0_0110">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/ricettivit%C3%A0.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_home_0_0110">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/ricettivit%C3%A0.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_Restaurant_0_0_0203">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Restaurant_0_0_0403</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Restaurant_0_0_0203</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_home_0_0110">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_home_0_0110</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_home_0_0110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Restaurant_0_0_0403">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/ristorazione.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_Restaurant_0_0_0203">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/ristorazione.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>lu_s_low_microbusiness</name>
+		<open>1</open>
+		<Folder>
+			<name>Ricettività s-low</name>
+			<Placemark id=" 382 ">
+				<name>Hotel Stadt Lübeck</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/microbusiness/Hotel%20Stadt%20L%C3%BCbeck.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Familyhotel near the centralstation especially for bike tourists, with rooms for bikes.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.hotel-stadt-luebeck.de/startseite/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_0110</styleUrl>
+				<Point>
+					<coordinates>10.670396,53.866534,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 380 ">
+				<name>Evershof</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/microbusiness/Evershof.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Farm holidays at the Lübecker Bucht.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.evershof.de/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_0110</styleUrl>
+				<Point>
+					<coordinates>10.870746,53.975209,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 381 ">
+				<name>Landhotel Klempau&apos;s Hof</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/microbusiness/Landhotel%20Klempaus%20Hof.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Country hotel with an Italian restaurant.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.hotel-klempau.de/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_0110</styleUrl>
+				<Point>
+					<coordinates>10.639529,53.790853,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 377 ">
+				<name>Strandcamping Priwall</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/microbusiness/Strandcamping%20Priwall.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Family camping on the peninsula Priwall at the Baltic Sea with natural reserves close-by. Electricity and hot water are generated by solar power.<br><br>
+ 
+ 
+ 
+<b> </b><a href="http://www.priwall.de/html/camping.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_0110</styleUrl>
+				<Point>
+					<coordinates>10.880976,53.955034,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 379 ">
+				<name>Forsthaus St. Hubertus</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/microbusiness/Forsthaus%20St.%20Hubertus.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Family managed forester's house located between the city centre and the natural parks Lauenburgische Seen.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.forsthaus-st-hubertus.de/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_0110</styleUrl>
+				<Point>
+					<coordinates>10.722667,53.822952,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 376 ">
+				<name>Rucksack Hotel</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/microbusiness/Rucksack%20Hotel.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>A hostel for backpackers and explorers.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.rucksackhotel-luebeck.com/?page_id=4">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_0110</styleUrl>
+				<Point>
+					<coordinates>10.695223,53.869159,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 375 ">
+				<name>CVJM Hotel am Dom</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/microbusiness/CVJM%20Hotel%20am%20Dom.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The hostel is located in the city center. Trips can be organised and booked at the booking counter.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.cvjm-luebeck.de/hotel-sleepin/hotel-am-dom-garni/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_0110</styleUrl>
+				<Point>
+					<coordinates>10.682804,53.865213,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 374 ">
+				<name>Hostel Altstadt</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/microbusiness/Hostel%20Altstadt.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The hostel is located in the city centre. Trips can be organised and booked at the booking counter.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.jugendherberge.de/Jugendherbergen/Luebeck%20Altstadt535/Portraet">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_0110</styleUrl>
+				<Point>
+					<coordinates>10.681205,53.86866400000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 174 ">
+				<name>Waldhotel Twiehaus</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/microbusiness/Waldhotel%20Twiehaus.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Family managed forest hotel.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.waldhotel-twiehaus.de/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_0110</styleUrl>
+				<Point>
+					<coordinates>10.737784,53.8974,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 142 ">
+				<name>Campingplatz Lübeck-Schönböcken</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/microbusiness/Campingplatz.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Camping site which is closest to the city centre.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.camping-luebeck.de/index.php">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_0110</styleUrl>
+				<Point>
+					<coordinates>10.630925,53.869835,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Ristorazione s-low</name>
+			<Placemark id=" 394 ">
+				<name>Lübecker Hanse</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/microbusiness/lubecker-hanse.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>A Slow Food restaurant, the members of the Slow Food convivium Lübeck meet here.<br><br>
+ 
+ 
+ 
+<b> </b><a href="http://www.luebeckerhanse.de/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_0203</styleUrl>
+				<Point>
+					<coordinates>10.682133,53.866102,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 393 ">
+				<name>Hof Thorn</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/microbusiness/Hof%20Thorn.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>A farm with café and shop offering regional food.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.hof-thorn.de/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_0203</styleUrl>
+				<Point>
+					<coordinates>10.840062,53.938639,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 392 ">
+				<name>Marli-Hof</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/microbusiness/Marli-Hof.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The Marli-Hof includes a café and shop with seasonal food as well as sheltered workshops with pottery and market garden.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.marli.de/rs/arbeiten_und_foerdern/werkstattarbeitsplaetze/marli_hof/index.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_0203</styleUrl>
+				<Point>
+					<coordinates>10.742108,53.87201999999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 391 ">
+				<name>Weltladen</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/microbusiness/Weltladen.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Fair-trade shop.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.weltladen.de/luebeck/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_0203</styleUrl>
+				<Point>
+					<coordinates>10.690781,53.86549299999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 390 ">
+				<name>Niederegger</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/microbusiness/Niederegger.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Café and shop with traditional and regional specialities.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.niederegger.de/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_0203</styleUrl>
+				<Point>
+					<coordinates>10.68565,53.866534,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 389 ">
+				<name>Café Affenbrot</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/microbusiness/Caf%C3%A9%20Affenbrot.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The only vegetarian café and restaurant in Lübeck and its surroundings, offering e.g. TransFair coffee, self-made cake and regional vegetable.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.cafeaffenbrot.de/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_0203</styleUrl>
+				<Point>
+					<coordinates>10.695151,53.869148,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 388 ">
+				<name>Ratskeller zu Lübeck</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/microbusiness/Ratskeller%20zu%20L%C3%BCbeck.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Under the high arches of the beautiful historic premises, the guests can enjoy fine Holstein cuisine.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.ratskeller-zu-luebeck.de/eng/index.php">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_0203</styleUrl>
+				<Point>
+					<coordinates>10.685328,53.86692399999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 386 ">
+				<name>Schiffergesellschaft</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/microbusiness/Schiffergesellschaft.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Official ship's captain building from 1535, Renaissance style. Now a historic restaurant.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.schiffergesellschaft.com/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_0203</styleUrl>
+				<Point>
+					<coordinates>10.688206,53.871116,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 385 ">
+				<name>Contigo</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/microbusiness/contigo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Fair-trade shop and café.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.contigo.de/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_0203</styleUrl>
+				<Point>
+					<coordinates>10.686385,53.864693,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 384 ">
+				<name>Landwege e.V.</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/microbusiness/Landwege%20e.V..jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The Landwege e.V. is an association which includes health-food shops and regional farms.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://landwege.de/startseite.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_0203</styleUrl>
+				<Point>
+					<coordinates>10.695416,53.86838900000001,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

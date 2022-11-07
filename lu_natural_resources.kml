@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>lu_natural_resources</name>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<color>ff00aa00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin02000">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00008b</color>
+			<width>1.6</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<color>ff00aa00</color>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin6000000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin02000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1000200</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin1000200">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00008b</color>
+			<width>1.6</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>lu_natural_resources</name>
+		<open>1</open>
+		<Folder>
+			<name>Sentieri escursionistici</name>
+			<Placemark>
+				<name>Stadtökologischer Pfad</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/luebeckslow/natural-resources/Stadt%C3%B6kologischer%20Pfad.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+This urban ecology trail leads to 9 nature experience stations in the southern part of the city centre.<br><br>
+
+
+<b> </b><a href=" http://unv.luebeck.de/naturschutz/erholung_naturerleben/naturerleben/naturerlebnispfade.html<BR>">Website</a><br>
+</div>
+</body>]]></description>
+				<styleUrl>#msn_ylw-pushpin6000000</styleUrl>
+				<LineString>
+					<coordinates>
+						10.68467080593109,53.8616893690065,0 10.68441867828369,53.8606390429357,0 10.68508386611939,53.86005692315516,0 10.68617820739746,53.86013285228149,0 10.68671464920044,53.8605757694388,0 10.68750858306885,53.86066435230768,0 10.6881308555603,53.86093009978896,0 10.68856000900269,53.86149955299384,0 10.6891393661499,53.86200572711394,0 10.69008350372315,53.86254985746321,0 10.69143533706665,53.86300540301093,0 10.69248676300049,53.86352421273222,0 10.69304466247559,53.86396709398946,0 10.69411754608154,53.8637393270713,0 10.69152116775513,53.86008223287924,0 10.69066286087036,53.85920903855146,0 10.68956851959229,53.85844972432384,0 10.68834543228149,53.857816951942,0 10.68746566772461,53.85755118468824,0 10.68585634231567,53.85798147368181,0 10.68594217300415,53.85858893296373,0 10.68504095077515,53.85824723820273,0 10.68504095077515,53.85770305189707,0 10.68478345870972,53.85732338284158,0 10.68418264389038,53.85690574290184,0 10.6836462020874,53.85663996986089,0 10.68145751953125,53.85609576265321,0 10.68122148513794,53.85582998446804,0 10.68074941635132,53.85569076664977,0 10.67997694015503,53.8556781104615,0 10.67941904067993,53.85591857738397,0 10.67922592163086,53.85629825918513,0 10.6792688369751,53.85672856106208,0 10.67952632904053,53.85732338284158,0 10.67956924438477,53.85820927194595,0 10.6792688369751,53.8594874503159,0 10.6791615486145,53.86051249584626,0 10.67896842956543,53.86142362634764,0 10.67890405654907,53.86176529517042,0 10.67806720733643,53.86146158968798,0 10.67712306976318,53.86160078830775,0 10.67637205123901,53.86194245568379,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>punti di interesse naturalistico</name>
+			<Folder>
+				<name>Gardens</name>
+				<open>1</open>
+				<Placemark id=" 373 ">
+					<name>Schulgarten</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/natural-resources/Schulgarten.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The Schulgarten is divided into different gardens and flowerbeds, e.g. a fruit and vegetable garden and a water lily pond.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.luebeck-info.com/sehenswuerdigkeiten/schulgarten_mehr.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<Point>
+						<coordinates>10.703924,53.869977,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Parks</name>
+				<open>1</open>
+				<Placemark id=" 372 ">
+					<name>Burgtor-Stadtpark</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/natural-resources/Burgtor-Stadtpark.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Large urban park close to the Stadtpark.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://unv.luebeck.de/naturschutz/erholung_naturerleben/erholungslandschaften/stadtpark.html<BR>">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<Point>
+						<coordinates>10.729437,53.883196,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id=" 371 ">
+					<name>Wallanlagen</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/natural-resources/Wallanlagen.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Formerly used for defense, the Wallanlagen now serve as a park where residents and tourists can take a walk from the Holstentor to the Hüxterdamm.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://unv.luebeck.de/naturschutz/erholung_naturerleben/erholungslandschaften/herrengarten.html or http://unv.luebeck.de/naturschutz/erholung_naturerleben/erholungslandschaften/wallanlagen.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<Point>
+						<coordinates>10.689375,53.858842,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id=" 370 ">
+					<name>Herrengarten</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/natural-resources/Herrengarten.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Landscaped public park with numerous lakes and ponds.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://unv.luebeck.de/naturschutz/erholung_naturerleben/erholungslandschaften/herrengarten.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<Point>
+						<coordinates>10.643091,53.896702,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Placemark id=" 354 ">
+				<name>Baltic Sea</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/natural-resources/Baltic%20Sea.JPG"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The Lübeck district Travemünde is located directly at the Baltic Sea.<br><br>
+ 
+ 
+ 
+<b> </b><a href="http://www.ostsee.de/baltic-sea-germany/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>10.899124,53.96416500000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 353 ">
+				<name>Kücknitzer Mühlenbachtal and Söhlengraben</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/natural-resources/K%C3%BCcknitzer%20M%C3%BChlenbachtal%20and%20S%C3%B6hlengraben.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Natural diversity within a small green area surrounded by buildings.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://unv.luebeck.de/naturschutz/arten_biotopschutz/schutzgebiete/lsg/kuecknitzer_muehlengraben.html<BR>">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>10.773575,53.906348,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 355 ">
+				<name>Fackenburger Landgraben and Tremser Teich</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/natural-resources/Fackenburger%20Landgraben%20and%20Tremser%20Teich.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Meadows and forest surrounding the Fackenburger ditch and Tremser pond.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://unv.luebeck.de/naturschutz/arten_biotopschutz/schutzgebiete/lsg/fackenburger_landgraben.html<BR>">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>10.681844,53.903605,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 357 ">
+				<name>Ostseestation Priwall</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/natural-resources/Ostseestation%20Priwall.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>At the Ostseestation on the Priwall peninsula in Travemünde there is an environment centre as well as an aquarium featuring local sea creatures.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.travemuende-tourismus.de/entdecken/sehenswuerdigkeiten/ostseestation-priwall.html<BR>">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>10.879018,53.956048,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 356 ">
+				<name>Stecknitztal</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/natural-resources/Stecknitztal.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Meadowland at the Elbe-Lübeck-Kanal.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://unv.luebeck.de/naturschutz/erholung_naturerleben/naturerleben/naturerlebnisraeume.html; http://www.laemmerhof.de/region/stecknitz.html?">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>10.641975,53.840982,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 358 ">
+				<name>Malerwinkel</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/natural-resources/Malerwinkel.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>A small green area with a nice view at the Obertrave.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.luebeck.de/tourismus/sightseeing/sehenswuerdigkeiten/bruecken/dankwartsbruecke-malerwinkel.html<BR>">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>10.679183,53.862778,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 360 ">
+				<name>Moislinger Aue and Krähenwald</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/natural-resources/Moislinger%20Aue%20and%20Kr%C3%A4henwald.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>A nature experience area with meadows, forest and brook.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://unv.luebeck.de/naturschutz/erholung_naturerleben/naturerleben/naturerlebnisraeume.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>10.62335,53.846881,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 359 ">
+				<name>Stadtwald</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/natural-resources/Stadtwald.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The mixed forest is cultivated on environment-friendly criteria without using fertiliser or pesticide.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.luebeck-magazin.de/service/umwelt/artikel/detail/stadtwald-luebeck.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>10.617256,53.790815,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 361 ">
+				<name>Schafberg Dummersdorf</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/natural-resources/Schafberg%20Dummersdorf.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Apart from meadows and a pond there are cultivated areas for wheat and vegetables.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://unv.luebeck.de/naturschutz/erholung_naturerleben/naturerleben/naturerlebnisraeume.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>10.834751,53.92584800000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 363 ">
+				<name>Schellbruch</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/natural-resources/Schellbruch.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Natural reserve and bird sanctuary.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://unv.luebeck.de/naturschutz/arten_biotopschutz/schutzgebiete/nsg/schellbruch.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>10.719652,53.901658,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 362 ">
+				<name>Plankenwiese</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/natural-resources/Plankenwiese.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Forested area at the former borderland.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://unv.luebeck.de/naturschutz/erholung_naturerleben/naturerleben/naturerlebnisraeume.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>10.749521,53.843488,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 364 ">
+				<name>Dassower Lake</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/natural-resources/Dassower%20Lake.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The sea with the islands Buchhorst and Graswerder is located at the border to the German region Mecklenburg-Vorpommern. There is a small quay for local fishing boats and the old castle Johannstorf in baroque style.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://unv.luebeck.de/naturschutz/arten_biotopschutz/schutzgebiete/dassower_see.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>10.926246,53.908484,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 365 ">
+				<name>Dummersdorfer Ufer</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/natural-resources/Dummersdorfer%20Ufer.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Natural reserve at the river Trave.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://unv.luebeck.de/naturschutz/arten_biotopschutz/schutzgebiete/nsg/dummersdorfer_ufer.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>10.859642,53.917989,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 366 ">
+				<name>Southern Priwall</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/natural-resources/Southern%20Priwall.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Natural reserve and known as a resting ground for birds.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://unv.luebeck.de/naturschutz/arten_biotopschutz/schutzgebiete/nsg/suedlicher_priwall.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>10.873976,53.946438,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 367 ">
+				<name>Brodtener Steilufer</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/natural-resources/Brodtener%20Steilufer.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Beautiful 4 km steep coast of the Baltic Sea.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://unv.luebeck.de/naturschutz/arten_biotopschutz/schutzgebiete/lsg/brodtener_winkel.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>10.875027,53.987802,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 368 ">
+				<name>Trave</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/natural-resources/Trave.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The river Trave flows through the city of Lübeck and into the Baltic Sea.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.flussinfo.net/trave/uebersicht/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>10.680857,53.871634,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 369 ">
+				<name>Der kleine See</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/natural-resources/Der%20kleine%20See.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Small lake at the river Wakenitz which serves as an open air pool.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.kleiner-see-luebeck.de/Kontakt.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>10.73199,53.842121,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

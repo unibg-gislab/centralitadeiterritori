@@ -1,0 +1,1522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>lu_cultural_resources.kml</name>
+	<StyleMap id="msn_chiesa_0_0_01_0_03_0000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_chiesa_0_0_01_0_03_01</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_chiesa_0_0_01_0_03_00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_chiesa_0_0_01_0_03_01">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/sitireligiosi.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_sito unesco_0_0001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_sito unesco_0_0001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_sito unesco_0_001</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_cittadarte">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_cittadarte</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_cittadarte</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_cittadarte">
+		<IconStyle>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/cittadarte.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1.1</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="sn_castello10171050101012">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_castello01000080040022</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_castello200001010001110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_castello01000080040022">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/castelli.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff005cb8</color>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed402">
+		<LineStyle>
+			<color>ccb8b9e6</color>
+			<width>2.8</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0320011187206">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin01303117000216</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl10011251780204</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_sito unesco_0_0001">
+		<IconStyle>
+			<color>ff6e94df</color>
+			<scale>0.9</scale>
+			<Icon>
+				<href>C:/Users/docente/AppData/LocalLow/Google/GoogleEarth/sito unesco_0_0_01_0_0_1_01_2_0_4.gif</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>9cffffff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="failed2002">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed3010</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed402</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_triangle21">
+		<IconStyle>
+			<color>ff434cff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_sito unesco_0_001">
+		<IconStyle>
+			<color>ff6e94df</color>
+			<scale>1.06364</scale>
+			<Icon>
+				<href>C:/Users/docente/AppData/LocalLow/Google/GoogleEarth/sito unesco_0_0_01_0_0_1_01_2_0_4.gif</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>9cffffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin01303117000216">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/musei.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_triangle30">
+		<IconStyle>
+			<color>ff434cff</color>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_castello200001010001110">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/castelli.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff005cb8</color>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed3010">
+		<LineStyle>
+			<color>ccb8b9e6</color>
+			<width>2.8</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_cittadarte">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/cittadarte.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1.1</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl10011251780204">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/musei.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_triangle100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_triangle21</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_triangle30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_chiesa_0_0_01_0_03_00">
+		<IconStyle>
+			<scale>0.699993</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/sitireligiosi.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>lu_s_low_culturalresources</name>
+		<open>1</open>
+		<Folder>
+			<name>Lubecca_itinerariculturali</name>
+			<Placemark>
+				<name>Wissenschaftspfad</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/luebeckslow/cultural-resources/Wissenschaftspfad.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Ten exhibits spread across the city centre create a connection between the 'Museum für Natur und Umwelt' and the future 'Hansemuseum'.<br>
+<br><br>
+<b></b><a href="http://wissen.luebeck.de/wissenschaftspfad/index.html<BR>">Website</a><br>
+</div>
+</body>]]></description>
+				<styleUrl>#failed2002</styleUrl>
+				<LineString>
+					<coordinates>
+						10.69108128547669,53.87392435750459,0 10.69061994552612,53.8729755463886,0 10.68946123123169,53.87314000852425,0 10.6891393661499,53.87257071376089,0 10.68871021270752,53.87177368807325,0 10.68834543228149,53.87115376870412,0 10.68800210952759,53.87033141250509,0 10.68761587142944,53.86961025607042,0 10.68461179733276,53.86961025607042,0 10.6843113899231,53.86835769165823,0 10.68403244018555,53.86754793308653,0 10.68386077880859,53.86627000095149,0 10.683753490448,53.86558673409053,0 10.68323850631714,53.86558673409053,0 10.68272352218628,53.86539693575973,0 10.68220853805542,53.86575755185201,0 10.68225145339966,53.86638387767667,0 10.6808352470398,53.86623204197421,0 10.68111419677734,53.86537162925055,0 10.68115711212158,53.86494141625245,0 10.68109273910523,53.86430874204164,0 10.68081378936768,53.8637393270713,0 10.68034172058106,53.862891517089,0 10.68029880523682,53.86233473700816,0 10.68064212799072,53.86190449277981,0 10.68137168884277,53.86147424412707,0 10.68283081054688,53.86086682673221,0 10.68323850631714,53.86061373354844,0 10.68411827087402,53.86072762567058,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Località</name>
+			<Folder>
+				<name>Cittadarte</name>
+				<open>1</open>
+				<Placemark id=" 318 ">
+					<name>Historic centre</name>
+					<open>1</open>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/cultural-resources/city%20center%20uno.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>In 1987, the whole city centre was declared as a UNESCO world heritage site. Main reasons were the impressive skyline, the largely intact medieval city structure with pre-industrial building fabric and the large amount of archaeological findings documenting the development of Lübeck.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.luebeck.de/languages/eng/city_portrait/index.html ">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+					<styleUrl>#msn_cittadarte</styleUrl>
+					<Point>
+						<coordinates>10.687482,53.86720999999999,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Historic city centre</name>
+					<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/cultural-resources/city%20center%20uno.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>In 1987, the whole city centre was declared as a UNESCO world heritage site. Main reasons were the impressive skyline, the largely intact medieval city structure with pre-industrial building fabric and the large amount of archaeological findings documenting the development of Lübeck.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.luebeck.de/languages/eng/city_portrait/index.html ">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+					<styleUrl>#msn_sito unesco_0_0001</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									10.67988038063049,53.8701036802374,0 10.67979790270329,53.86978342963815,0 10.67977979779244,53.86945052456409,0 10.67995816469193,53.8687973586913,0 10.68029344081879,53.86759221716365,0 10.68060725927353,53.8663617350044,0 10.68086072802544,53.86575913349479,0 10.68096399307251,53.86517550328547,0 10.6807816028595,53.86424231069448,0 10.68018078804016,53.86310030770905,0 10.68007349967957,53.86251822217158,0 10.68018347024918,53.86216390527066,0 10.68050801753998,53.86180958536917,0 10.68104982376099,53.86149322577866,0 10.68256258964539,53.86082253553563,0 10.68461179733276,53.85956338047563,0 10.68810939788818,53.8604365674089,0 10.69018006324768,53.86198674569496,0 10.6921112537384,53.86274599573763,0 10.69477200508118,53.86491610946774,0 10.69613456726074,53.86706713151773,0 10.69644570350647,53.86802556601527,0 10.69645643234253,53.86898397855287,0 10.69624185562134,53.86992971725315,0 10.69572687149048,53.87086278297448,0 10.69453597068787,53.87226076113166,0 10.69304466247559,53.87359543875543,0 10.69199860095978,53.87430071328455,0 10.690598487854,53.87494904933222,0 10.68869411945343,53.87438294182766,0 10.68686485290527,53.87378519988793,0 10.68300247192383,53.87229238905621,0 10.68127512931824,53.87126763213428,0 10.6804221868515,53.87071728935045,0 10.68010836839676,53.87041048591916,0 10.67988038063049,53.8701036802374,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Luoghi di interesse culturale</name>
+			<Placemark id=" 271 ">
+				<name>Puppenbrücke</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/cultural-resources/Puppenbr%C3%BCcke.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>This bridge features statues and vases from 1774-1776.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.luebeck.de/tourismus/sightseeing/sehenswuerdigkeiten/bruecken/puppenbruecke.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>10.6757498,53.86623800000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 333 ">
+				<name>Wasserkunst</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/cultural-resources/Wasserkunst.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The historic water tower from 1867 with brick gothic architecture is under monumental protection and still in use to store water.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" ">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>10.700469,53.85525999999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 335 ">
+				<name>Feuerschiff Fehmarn-Belt</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/cultural-resources/Feuerschiff%20Fehmarn-Belt.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>This ship at the Untertrave can be visited.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.fsfehmarnbelt.de">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>10.685341,53.874253,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 334 ">
+				<name>Burgtor</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/cultural-resources/Burgtor.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Built in the 13th century and made higher in 1444. The Baroque cupola is from 1685. The Burgtor still provides northern access to the city centre.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.luebeck.de/tourismus/sightseeing/sehenswuerdigkeiten/stadttore/burgtor.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>10.691081,53.873924,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 336 ">
+				<name>Ausgrabungen Gründungsviertel</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/cultural-resources/Ausgrabungen%20Gr%C3%BCndungsviertel.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The archaeological excavation site is located at remains of historical buildings from the foundation of Lübeck in the 12th and 13th century.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.luebeck.de/tourismus/sightseeing/weltkulturerbe/gruendungsviertel">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>10.681817,53.867684,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 337 ">
+				<name>Market</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/cultural-resources/Market.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Market square with the famous 'Kaak', a Gothic arched complex rebuilt some years ago.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.luebeck.de/tourismus/sightseeing/sehenswuerdigkeiten/rathaus/<BR>">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>10.684912,53.866642,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 338 ">
+				<name>Koberg</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/cultural-resources/Koberg.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The 2nd biggest square in the historic city centre.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.luebeck.de/tourismus/sightseeing/sehenswuerdigkeiten/plaetze/koberg.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>10.689043,53.871565,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 339 ">
+				<name>Buddenbrookhaus</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/cultural-resources/Buddenbrookhaus.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Baroque building from 1758, owned by the Mann family from 1841 to 1891, then acquired by the city. Today, it houses the Heinrich and Thomas Mann Centre.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://buddenbrookhaus.de/<BR>">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>10.685803,53.86833899999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 340 ">
+				<name>Heiligen-Geist-Hospital</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/cultural-resources/oeffnungszeiten-heiligen-geist-hospital.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Built in the late 13th century in Gothic style.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.stiftungsverwaltung-luebeck.de/heiligen-geist-hospital.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>10.690824,53.87097700000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 341 ">
+				<name>Füchtingshof</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/cultural-resources/F%C3%BCchtingshof.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Largest and finest courtyard in Lübeck with a Baroque portal.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.luebeck.de/tourismus/sightseeing/sehenswuerdigkeiten/gaenge-und-hoefe/fuechtingshof.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>10.690797,53.86948999999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 344 ">
+				<name>Town hall</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/cultural-resources/Town%20Hall.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The town hall located at the Market has always been seat of the government. Building was begun in 1230, in the following centuries different parts were added, e.g. the sandstone front section in Renaissance style and the massive granite pillars.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.luebeck.de/tourismus/sightseeing/sehenswuerdigkeiten/rathaus/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>10.685381,53.866626,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 342 ">
+				<name>Denkmal Emanuel Geibel</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/cultural-resources/Denkmal%20Emanuel%20Geibel.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The monument of the Lübeck poet Emanuel Geibel is located at the square 'Koberg'.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.jhelbach.de/freiligr/geibel.htm or http://www.kunst-luebeck.de/kunstwerkedetails/geibel-denkmal.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>10.689794,53.871052,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 345 ">
+				<name>Glandorps-Hof</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/cultural-resources/Glandorps-Hof.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Courtyard in the Glockengießerstraße.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.luebeck.de/tourismus/sightseeing/sehenswuerdigkeiten/gaenge-und-hoefe/glandorpsgang.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>10.691864,53.869325,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 346 ">
+				<name>Salt storehouses</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/cultural-resources/Salt%20storehouses.JPG"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Built in the 16th and 17th century. Formerly used for storing salt for export to Scandinavia.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.luebeck.de/tourismus/sightseeing/sehenswuerdigkeiten/gebaeude/salzspeicher.html<BR>">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>10.680106,53.865897,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 347 ">
+				<name>Obertrave</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/cultural-resources/Obertrave.JPG"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Quayside area with historic houses and the 'Malerwinkel'  a small green area on the other side of the river Trave.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.stadtpanoramen.de/luebeck/obertrave.html ">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>10.680224,53.86247400000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 348 ">
+				<name>TheaterFigurenMuseum</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/cultural-resources/TheaterFigurenMuseum.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Exhibition about the history of puppet theatre with a variety of puppets from Europe, Africa and Asia.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.theaterfigurenmuseum.de/de/<BR>">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>10.682208,53.865757,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 349 ">
+				<name>Musik- und Kongresshalle</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/cultural-resources/Musik-%20und%20Kongresshalle.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The Musik- und Kongresshalle (MuK) was built in 1994 and offers place for congresses and events, such as concerts, musicals and plays. The MuK was the first building in Schleswig-Holstein awarded with the 'Ökoprofit'-certificate for ecologically aware and sustainable economic activity.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.muk.de/<BR>">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>10.678056,53.869427,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 351 ">
+				<name>Stadttheater</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/cultural-resources/Stadttheater.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Built in 1908, the Stadttheater stages musical theatres, plays and concerts.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.theaterluebeck.de/<BR>">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>10.686511,53.869692,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 350 ">
+				<name>Freilichtbühne</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/cultural-resources/Freilichtb%C3%BChne.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Open air theatre for plays.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.freilichtbuehne-luebeck.de">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>10.684022,53.858089,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 352 ">
+				<name>Old Lighthouse Travemünde</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/cultural-resources/Old%20Lighthouse%20Travem%C3%BCnde.JPG"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>This brick lighthouse was built in 1539 and is the oldest lighthouse in Germany. It was used for almost 450 years until 1972.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.travemuende-tourismus.de/entdecken/sehenswuerdigkeiten/alter-leuchtturm.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_triangle100</styleUrl>
+				<Point>
+					<coordinates>10.879356,53.960656,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Castelli</name>
+			<Placemark id=" 319 ">
+				<name>Burgkloster (Mary Magdalene Monastery)</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/cultural-resources/Burgkloster%20%28Mary%20Magdalene%20Monastery%29.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The former medieval slavic castle is nowadays open to the public as a cultural centre.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://burgkloster-luebeck.de/<BR>">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#sn_castello10171050101012</styleUrl>
+				<Point>
+					<coordinates>10.689745,53.873203,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Musei</name>
+			<Placemark id=" 325 ">
+				<name>Holstentor</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/cultural-resources/Holstentor.JPG"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The Holstentor was built in 1464-1478 in late Gothic style with red and black glazed tiles and a terracotta frieze. It is now the symbol of Lübeck and one of Germany's most well-known buildings. It houses a museum about the history of Lübeck, including a town model.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://museum-holstentor.de/<BR>">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>10.679591,53.866264,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 326 ">
+				<name>Museum für Natur und Umwelt</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/cultural-resources/Museum%20f%C3%BCr%20Natur%20und%20Umwelt.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Exhibitions about the natural history of Schleswig-Holstein.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://museum-fuer-natur-und-umwelt.de/de/43/das-museum.html<BR>">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>10.685652,53.860291,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 332 ">
+				<name>Museumshafen</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/cultural-resources/Museumshafen.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The harbour museum is located at the Untertrave and presents traditional sailing boats and historic boats.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.museumshafen-luebeck.org/index.php?seid=2<BR>">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>10.687508,53.87501200000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 327 ">
+				<name>St. Annen-Museum</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/cultural-resources/St.%20Annen-Museum.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Built in 1502-1515 in late Gothic style for the Augustinian nuns, but used by them for only 30 years due to the Reformation in Lübeck. Later served as a poor-house, workhouse and prison. Since 1915, the building accommodates art treasures of European significance dating from the late Middle Ages to the Renaissance taken from Lübeck churches.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://st-annen-museum.de/<BR>">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>10.688732,53.86274,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 328 ">
+				<name>Willy-Brandt-Haus</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/cultural-resources/Willy-Brandt-Haus.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>This interactive museum next to the Behnhaus presents the recent history and present of Gemany and Europe.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.willy-brandt.de/haus-luebeck.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>10.68944,53.869724,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 329 ">
+				<name>Geschichtswerkstatt Herrenwyk</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/cultural-resources/Geschichtswerkstatt%20Herrenwyk.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>This museum is situated in the former department store of a blast furnace works at the edge of a former industrial residential centre. Exhibitions display the industrial era in Lübeck.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://geschichtswerkstatt-herrenwyk.de/de/56/home.html<BR>">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>10.805075,53.903491,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 330 ">
+				<name>Günther-Grass-Haus</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/cultural-resources/G%C3%BCnther-Grass-Haus.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>A museum for literature and visual arts.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://grass-haus.de/<BR>">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>10.690545,53.869307,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 331 ">
+				<name>Behnhaus Drägerhaus</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/cultural-resources/Behnhaus%20Dr%C3%A4gerhaus.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The museum is housed in two adjacent buildings. The Behnhaus is a prestigious classicist building from the late 18th century, which now houses municipal art collections from the 19th and 20th century. In the Drägerhaus, there are exhibits of 19th century middle-class residential life and paintings.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://museum-behnhaus-draegerhaus.de/<BR>">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin0320011187206</styleUrl>
+				<Point>
+					<coordinates>10.689579,53.870262,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Luoghi della fede</name>
+			<Placemark id=" 207 ">
+				<name>Aegidienkirche</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/cultural-resources/Aegidienkirche.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Built in the 13th century in Romanesque style, but completely converted into a Gothic church. Still completely intact with magnificient interior.<br><br>
+ 
+ 
+ 
+<b> </b><a href="http://www.luebeck.de/tourismus/sightseeing/sehenswuerdigkeiten/kirchen/aegidienkirche.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_chiesa_0_0_01_0_03_0000</styleUrl>
+				<Point>
+					<coordinates>10.68974,53.863891,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 320 ">
+				<name>Dom (Cathedral)</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/cultural-resources/Dom%20%28Cathedral%29.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Lübeck's oldest church. Its foundation stone was laid by Henry the Lion in 1173 after he had transferred the bishopric from Oldenburg to Lübeckin 1160. Completed as Romanesque pillared basilica by 1250 and soon after converted in Gothic style with side naves, a large choir with gallery and the Marientide Chapel. The entire length of the cathedral as well as the height of its spires is 120 metres.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.domzuluebeck.de/<BR>">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_chiesa_0_0_01_0_03_0000</styleUrl>
+				<Point>
+					<coordinates>10.685706,53.860905,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 321 ">
+				<name>Petrikirche</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/cultural-resources/Petrikirche.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Gothic brick basilica with a look-out tower.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.st-petri-luebeck.de/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_chiesa_0_0_01_0_03_0000</styleUrl>
+				<Point>
+					<coordinates>10.683281,53.865827,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 322 ">
+				<name>Katharinenkirche</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/cultural-resources/Katharinenkirche.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Lübeck's only surviving monastery church in Gothic style from the 12th and 13th century, with 9 expressionist sculptures on the west facade. In 1531, a grammar school was established, which later was attended by the Mann brothers. Now it is a museum church.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://museumskirche.de/<BR>">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_chiesa_0_0_01_0_03_0000</styleUrl>
+				<Point>
+					<coordinates>10.689011,53.868851,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 323 ">
+				<name>Jakobikirche</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/cultural-resources/Jakobikirche.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Gothic ship's captain church, completed in 1334, preserved with its original fixtures.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.st-jakobi-luebeck.de/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_chiesa_0_0_01_0_03_0000</styleUrl>
+				<Point>
+					<coordinates>10.688946,53.870926,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 324 ">
+				<name>Marienkirche (St. Mary&apos;s Church)</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/cultural-resources/Marienkirche%20%28St.%20Marys%20Church%29.JPG"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Main church of the city council, begun in Romanesce style round 1200, but completed in Gothic style by 1350. The three-nave brick basilica became a model for many churches in the Baltic region.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.st-marien-luebeck.de/ ">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_chiesa_0_0_01_0_03_0000</styleUrl>
+				<Point>
+					<coordinates>10.685019,53.867788,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,1361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ca_s_low_microbusiness.kml</name>
+	<StyleMap id="msn_home_0_01">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_home_0_01</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_home_0_01</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Restaurant_0_0_020">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/ristorazione.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_home_0_01">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/ricettivit%C3%A0.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_home_0_01">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/ricettivit%C3%A0.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_Restaurant_0_0_040">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/ristorazione.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_Restaurant_0_0_020">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Restaurant_0_0_040</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Restaurant_0_0_020</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Microbusiness</name>
+		<Folder>
+			<name>Ricettività</name>
+			<Placemark id="9000543164085030031">
+				<name>De Vere University Arms Hotel</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/micro-business/University%20Arms%20Hotel.jpg
+" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+University Arms Hotel is a well established hotel  with traditional charm and a convenient city centre location adjacent to Parker’s Piece. 
+<br>
+<br>
+<a href=http://www.universityarmshotel.com/> www.universityarmshotel.com </a><br><br>
+<b>Address:</b>Regent Street,Cambridge,CB2 1AD<br>
+</div>
+</body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<ExtendedData>
+					<Data name="tracking_href_2">
+						<value>http://www.google.com/maps/gen_204?ct=google_earth:popup&amp;oi=blaces-lodging-hotel._._._.eb99d324398d2337_en&amp;cad=lat:52.2024617,lon:0.1258492,quad:02010010100021221,cc:GB</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.1258492,52.2024617,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="16884434347091325900">
+				<name>Warkworth House</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/micro-business/Warkworth%20Guest%20House.jpg
+" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Warkworth Guest House is a  well-renowned family owned guest house that has been in the centre of Cambridge for 35 years.
+<br>
+<br>
+<a href= http://warkworthhouse.com/> warkworthhouse.com </a><br><br>
+<b>Address:</b> Warkworth Terrace, Cambridge, CB1 1EE <br>
+</div>
+</body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<ExtendedData>
+					<Data name="tracking_href_2">
+						<value>http://www.google.com/maps/gen_204?ct=google_earth:popup&amp;oi=blaces-lodging-lodging._._._.390f0965b4e27b44_en&amp;cad=lat:52.2041293,lon:0.1305345,quad:02010010100021222,cc:GB</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.1305345,52.2041293,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="4313474787893140527">
+				<name>Leverton House Bed and Breakfast</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/micro-business/Leverton%20House.jpg
+" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Leverton House is a well regarded Bed and Breakfast that has been awarded 4* from Visit Britain and an award of 5* from the environmental services. 
+<br>
+<br>
+<a href=http://www.levertonhouse.co.uk/> www.levertonhouse.co.uk </a><br><br>
+<b>Address:</b> 732 Newmarket Road, Cambridge, CB5 8RS<br>
+</div>
+</body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<ExtendedData>
+					<Data name="tracking_href_2">
+						<value>http://www.google.com/maps/gen_204?ct=google_earth:popup&amp;oi=blaces-lodging-lodging._._._.89cbc6c3b5186804_en&amp;cad=lat:52.2112291,lon:0.1713455,quad:0201001010013333,cc:GB</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.1713455,52.2112291,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="4875899427737442145">
+				<name>Harvest View B&amp;B</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/micro-business/Harvest%20View.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Harvest View is a well regarded Bed and Breakfast accommodation that is located slightly out of the city.
+<br>
+<br>
+<a href=http://www.harvestview.co.uk/> www.harvestview.co.uk</a><br><br>
+<b>Address:</b> Whitwell Way, Coton, Cambridge, CB23 7PW <br>
+</div>
+</body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<ExtendedData>
+					<Data name="tracking_href_2">
+						<value>http://www.google.com/maps/gen_204?ct=google_earth:popup&amp;oi=blaces-lodging-lodging._._._.23abcf65e255e14f_en&amp;cad=lat:52.207429,lon:0.052324,quad:020100101001030,cc:GB</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.052324,52.207429,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Worth House B&amp;B</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/micro-business/Worth%20House%20B%26B.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Worth House is a four star bed and breakfast which is locally owned and enjoys an exceptionally good reputation on Tripadvisor.
+<br>
+<br>
+<a href=http://www.worth-house.co.uk/> www.worth-house.co.uk </a><br><br>
+<b>Address:</b> 152 Chesterton Road, Cambridge, Cambridgeshire, CB4 1DA<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>0.1334910000066247</longitude>
+					<latitude>52.21575383366469</latitude>
+					<altitude>0</altitude>
+					<heading>-2.452692197035626e-012</heading>
+					<tilt>0</tilt>
+					<range>1000.000529592636</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>0.1334910000066247,52.21575383366469,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5463234894603381016">
+				<name>The End Cottage Bed &amp; Breakfast</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/micro-business/The%20End%20Cottage.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+At The End Cottage visitors sleep in their own little thatched cottage in delightful garden with tremendous views in double bedroom, en-suite facilities.
+<br>
+<br>
+<a href=http://www.cambridgebedandbreakfasts.com/the-end-cottage> www.cambridgebedandbreakfasts.com</a><br><br>
+<b>Address:</b>75 Fowlmere Road, Heydon, Cambridgeshire, SG8 8PZ<br>
+</div>
+</body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<ExtendedData>
+					<Data name="tracking_href_2">
+						<value>http://www.google.com/maps/gen_204?ct=google_earth:popup&amp;oi=blaces-lodging-lodging._._._.eaf04b9fa9d2b575_en&amp;cad=lat:52.0455073,lon:0.0853474,quad:02010010100003,cc:GB</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.0853474,52.0455073,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="15668989082508321901">
+				<name>Chequer Cottage</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/micro-business/Chequer%20Cottage.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Chequer Cottage is a Charming fifteenth Century cottage in a countryside hamlet. It was recently renovated and offers comfortable double en-suite rooms.
+<br>
+<br>
+<a href=http://www.chequercottage.com/> www.chequercottage.com</a><br><br>
+<b>Address:</b>43 Streetly End, Horseheath, Cambridge, CB21 4RP<br>
+</div>
+</body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<ExtendedData>
+					<Data name="tracking_href_2">
+						<value>http://www.google.com/maps/gen_204?ct=google_earth:popup&amp;oi=blaces-lodging-lodging._._._.03a5e8b97f84a4b0_en&amp;cad=lat:52.1081012,lon:0.3575504,quad:02010010103001,cc:GB</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.3575503999999999,52.1081012,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Anstey Hall</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/micro-business/Anstey%20Hall.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Anstey Hall in Cambridge is a magnificent mansion set within its own parkland that provides bed and breakfast accommodation .<br>
+<br>
+<a href=http://www.ansteyhall.com/> www.ansteyhall.com</a><br><br>
+<b>Address:</b> Maris Lane, Trumpington, Cambridge, CB2 9LG <br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>0.111204702726877</longitude>
+					<latitude>52.17335037357973</latitude>
+					<altitude>0</altitude>
+					<heading>0.0001531272999834839</heading>
+					<tilt>26.15168569287491</tilt>
+					<range>167.9092996204476</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>0.111204702726877,52.17335037357973,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="4164348279135503860">
+				<name>The Willow Guest House</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/micro-business/The%20Willow%20Guest%20House.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+The Willow Guest House offers quiet bed and breakfast accommodation next the the world renowned restaurant “The Cock”. 
+<br>
+<br>
+<a href=http://www.thewillowguesthouse.co.uk/> http://www.thewillowguesthouse.co.uk </a><br><br>
+<b>Address:</b> 45 High Street,St Ives,Cambridgeshire,PE28 9BJ<br>
+</div>
+</body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<ExtendedData>
+					<Data name="tracking_href_2">
+						<value>http://www.google.com/maps/gen_204?ct=google_earth:popup&amp;oi=blaces-lodging-lodging._._._.3e7bad3cc30be043_en&amp;cad=lat:52.3186748,lon:-0.1042831,quad:01323323233213203,cc:GB</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.1042831,52.3186748,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="3438654584612018503">
+				<name>Rectory Farm Bed &amp; Breakfast</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/micro-business/Rectory%20Farm.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+The Rectory Farm is a Georgian style bed and breakfast accommodation set in two acres of beautiful gardens just outside of Cambridge. <br>
+<br>
+<a href=http://www.rectoryfarmbnb.net/> www.rectoryfarmbnb.net </a><br><br>
+<b>Address:</b> Madingley Road, Cambridge, CB23 7PG<br>
+</div>
+</body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<ExtendedData>
+					<Data name="tracking_href_2">
+						<value>http://www.google.com/maps/gen_204?ct=google_earth:popup&amp;oi=blaces-lodging-lodging._._._.e17887b9bd486377_en&amp;cad=lat:52.2152122,lon:0.0704842,quad:02010010100103,cc:GB</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.0704842,52.2152122,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ambassador Lodge</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/micro-business/Ambassador%20Lodge.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Ambassador Lodge is a friendly family run B & B next to Milton Country Park, close to Cambridge and within walking distance of the River Cam.
+<br>
+<br>
+<a href=http://www.ambassadorlodge.co.uk/>www.ambassadorlodge.co.uk </a><br><br>
+<b>Address:</b> 37 High Street, Milton, Cambridge, CB24 6DF<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>0.1626508334108867</longitude>
+					<latitude>52.2440508336803</latitude>
+					<altitude>0</altitude>
+					<heading>5.603024154600203e-011</heading>
+					<tilt>0</tilt>
+					<range>1000.00020517526</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>0.1626508334108867,52.24405083368029,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Home From Home</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/micro-business/Home%20From%20Home.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Home From Home is a four star bed and breakfast accommodation situated just a 15 minutes walk from the centre.<br>
+<br>
+<a href=http://www.homefromhomeguesthouse-cambridge.co.uk/> www.homefromhomeguesthouse-cambridge.co.uk </a><br><br>
+<b>Address:</b> 78 Milton Road, Cambridge, CB4 1LA<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>0.1269318334374781</longitude>
+					<latitude>52.21664583345574</latitude>
+					<altitude>0</altitude>
+					<heading>7.292709980381939e-011</heading>
+					<tilt>0</tilt>
+					<range>1000.000170335686</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>0.1269318334374781,52.21664583345574,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Harston Manor House</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/micro-business/Harston%20Manor%20House%20Airbnb.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Harston Manor House is a beautiful high end accommodation on Airbnb. The house is located in a rural setting in a village 5 miles from the centre of Cambridge.<br>
+<br>
+<a href=https://www.airbnb.co.uk/rooms/1112391> www.airbnb.co.uk </a><br><br>
+<b>Address:</b> Church Street, Harston, CB22 7NP<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>0.0737758333395111</longitude>
+					<latitude>52.13834699952376</latitude>
+					<altitude>0</altitude>
+					<heading>9.021978803097821e-012</heading>
+					<tilt>0</tilt>
+					<range>1000.000163272587</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>0.0737758333395111,52.13834699952376,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cottage with attached windmill</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/micro-business/Cosy%20Cottage%20adjoins%20Windmill%2C%20Airbnb.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Cosy Cottage adjoins 1836 Windmill. The accommodation is quiet but within walking distance of the picturesque conservation village of Linton, near Cambridge.
+<br>
+<br>
+<a href= https://www.airbnb.it/rooms/437590 > www.airbnb.it</a><br><br>
+<b>Address:</b>Linton, CB21 4NS<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>0.286920908796815</longitude>
+					<latitude>52.09101284115648</latitude>
+					<altitude>0</altitude>
+					<heading>0.002572071864792782</heading>
+					<tilt>25.91854642066971</tilt>
+					<range>625.3877528420146</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>0.2868998195965489,52.09070677624929,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>University Rooms Cambridge</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/micro-business/University%20Rooms%20Cambridge.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Bed and breakfast accommodation in Cambridge University colleges is a unique opportunity to stay in a historic Cambridge college, eat in the college hall and wander through the college's gardens and courts.<br>
+<br>
+<a href=http://www.universityrooms.com/en/city/cambridge/home> www.universityrooms.com</a><br><br>
+<b>Address:</b> Various College locations.
+<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>0.1159717582751618</longitude>
+					<latitude>52.20433657102957</latitude>
+					<altitude>0</altitude>
+					<heading>0.0008397177773002122</heading>
+					<tilt>0</tilt>
+					<range>1001.141910036076</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>0.1159717582751618,52.20433657102957,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Ristorazione</name>
+			<Placemark id="18353997262849083017">
+				<name>Gog Magog Hills Farm Shop</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/micro-business/Gog%20Magog%20Hills%20Farm%20Shop%20and%20Butchers.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Gog Magog Hills Farm Shop is a traditional Farm Shop, Butchery and Café of exceptional quality and local produce on the periphery of Cambridge. <br>
+<br>
+<a href=http://reestablishingthefoodconnection.blogspot.fr/2013/08/gog-magog-farm-shop-brilliant-picnic.html> http://reestablishingthefoodconnection.blogspot.fr</a><br><br>
+<b>Address:</b>Gog Magog Hills Farm Shop, Heath Farm, Shelford Bottom, Cambridge CB22 3AD UK <br>
+</div>
+</body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<ExtendedData>
+					<Data name="tracking_href_2">
+						<value>http://www.google.com/maps/gen_204?ct=google_earth:popup&amp;oi=blaces-restaurant-food_and_drink._._._.d6d8d01adb0d4f69_en&amp;cad=lat:52.159737,lon:0.1743,quad:02010010100023,cc:GB</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.1743,52.15973699999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="8224477713767325466">
+				<name>The Orchard Tea Gardens</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/cultural-resources/The%20Orchard%20Tea%20Gardens.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+The Orchard Tea Gardens is a well established venue and the key attraction to the village of Grantchester. Locals, students and Cambridge visitors alike treat themselves with tea and scones here after a punting trip. <br>
+<br>
+<br>
+<b>Address:</b>The Orchard Tea Garden,45-47 Mill Way, Grantchester, CB3 9ND
+<br>
+</div>
+</body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<ExtendedData>
+					<Data name="tracking_href_2">
+						<value>http://www.google.com/maps/gen_204?ct=google_earth:popup&amp;oi=blaces-cafe-cafe._._._.89d10a408c3df850_en&amp;cad=lat:52.1771884,lon:0.0958627,quad:02010010100021,cc:GB</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.0958627,52.1771884,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1951068736818139928">
+				<name>Midsummer House</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/micro-business/Midsummer%20House.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Midsummer House is located on the historic grounds of Midsummer Common beside the River Cam and is the only 2 Star Michelin Restaurant in East Anglia. Although the menu is based on French cuisine, ingredients are sourced locally.
+<br>
+<br>
+<a href=http://www.midsummerhouse.co.uk/> www.midsummerhouse.co.uk</a><br><br>
+<b>Address:</b> Midsummer Common, Cambridge CB4 1HA
+<br>
+</div>
+</body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<ExtendedData>
+					<Data name="tracking_href_2">
+						<value>http://www.google.com/maps/gen_204?ct=google_earth:popup&amp;oi=blaces-restaurant-restaurant._._._.b9bdbda8a134201d_en&amp;cad=lat:52.2124954,lon:0.127714,quad:02010010100130333112,cc:GB</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.127714,52.2124954,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Alimentum</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/micro-business/The%20Alimentum.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+The Alimentum offers a Modern European cuisine based on local ingredients using slow cooking techniques to accentuate flavour and texture. This Cambridge Restaurant holds one Michelin Star.
+<br>
+<br>
+<a href=http://www.restaurantalimentum.co.uk/> www.restaurantalimentum.co.uk</a><br><br>
+<b>Address:</b> 52-154 Hills Road, Cambridge, CB2 8PB<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>0.1358620000202082</longitude>
+					<latitude>52.18887900017007</latitude>
+					<altitude>0</altitude>
+					<heading>1.716173882738298e-011</heading>
+					<tilt>0</tilt>
+					<range>1000.000333038439</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>0.1358620000202082,52.18887900017007,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Market Square - market traders</name>
+				<open>1</open>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/micro-business/Traders%20on%20Market%20Square.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Traders on the market in the very centre of Cambridge sell international and local products seven days a week.
+<br>
+<br>
+<b>Address:</b> Market Square, Cambridge, CB2 3QJ <br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>0.1190930000763402</longitude>
+					<latitude>52.20535483374209</latitude>
+					<altitude>0</altitude>
+					<heading>5.831826549402159e-011</heading>
+					<tilt>0</tilt>
+					<range>1000.000327299907</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>0.1190930000763402,52.20535483374209,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mill Road eclectic shops</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/micro-business/Eclectic%20shops%20on%20Mill%20Road.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Some of the most locally focussed businesses in Cambridge can be found in and around Mill Road, for example Urban Larder, Limoncello, Black Cat Café, Williams Art and Hot Numbers as well as traditional antique dealers.
+<br>
+<br>
+<a href=" http://www.interactiveingredients.com/wp-content/uploads/millroad.jpg
+/"> www.interactiveingredients.com
+</a><br><br>
+<b>Address:</b> Several locations on Mill Road in Cambridge<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>0.1366850000510733</longitude>
+					<latitude>52.20015000016505</latitude>
+					<altitude>0</altitude>
+					<heading>4.028772585288835e-011</heading>
+					<tilt>0</tilt>
+					<range>1000.000181831938</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>0.1366850000510733,52.20015000016505,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cambridge Blue</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/micro-business/Cambridge%20Blue.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+The Cambridge Blue is a typical British Pub serving real ale and good food. 
+<br>
+<br>
+<a href=http://www.the-cambridgeblue.co.uk/> www.the-cambridgeblue.co.uk</a><br><br>
+<b>Address:</b>85-87 Gwydir Street,Cambridge, CB1 2LG<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>0.1389380000580909</longitude>
+					<latitude>52.20297683306922</latitude>
+					<altitude>0</altitude>
+					<heading>4.14282031870275e-011</heading>
+					<tilt>0</tilt>
+					<range>1000.000136969814</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>0.1389380000580909,52.20297683306922,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bridge street local retail</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/micro-business/Bridge%20Street%20local%20retail.jpeg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Bridge Street is an often forgotten part of Cambridge that hosts a collection of small local businesses 
+<br>
+<br>
+<a href=http://www.cambridgeonline.co.uk/streets/Bridge_Street/> www.cambridgeonline.co.uk</a><br><br>
+<b>Address:</b>Bridge Street,Cambrige, CB2<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>0.1189608332268355</longitude>
+					<latitude>52.20788958521973</latitude>
+					<altitude>0</altitude>
+					<heading>-1.692283692906321e-010</heading>
+					<tilt>44.99973079728701</tilt>
+					<range>999.0163485791804</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>0.1189608332268355,52.20788958521973,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>King Street Run (PUB CRAWL HISTORY)</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/micro-business/The%20King%20Street%20Run.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+The King Street Run is a typical British Pub that is famous as the location of a combined run and pub crawl.<br>
+<br>
+<a href=http://www.thekingstreetrun.co.uk/> www.thekingstreetrun.co.uk</a><br><br>
+<b>Address:</b>86 King Street, Cambridge,CB1 1LN<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>0.1241720000874858</longitude>
+					<latitude>52.20729883303634</latitude>
+					<altitude>0</altitude>
+					<heading>5.539697571526422e-011</heading>
+					<tilt>0</tilt>
+					<range>1000.000207328967</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>0.1241720000874858,52.20729883303634,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The &apos;Eagle&apos;</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/micro-business/The%20Eagle.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+The Eagle is one the oldest inns in Cambridge dating back to the 14th century.  It was in this Pub that Watson and Crick announced their discovery of "the secret of life" (DNA). Also, the Pub’s ceiling boasts signatures of RAF pilots from all over the world who returned from the Second World War.<br>
+<br>
+<a href=http://gkpubs.co.uk/pubs-in-cambridge/eagle-pub/> www.gkpubs.co.uk </a><br><br>
+<b>Address:</b>Benet Street, Cambridge, CB2 3QN<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>0.1182830000017066</longitude>
+					<latitude>52.20410483320232</latitude>
+					<altitude>0</altitude>
+					<heading>-2.854224801528669e-012</heading>
+					<tilt>0</tilt>
+					<range>1000.000121805304</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>0.1182830000017066,52.20410483320232,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kingston Arms</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/micro-business/The%20Kinston%20Arms.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+The Kingston Arms is a traditional and independent Pub that is committed to local sourcing. 
+<br>
+<br>
+<a href=http://www.kingston-arms.co.uk/> www.kingston-arms.co.uk</a><br><br>
+<b>Address:</b> 33 Kingston Street,Cambridge,CB1 2NU<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>0.1400228333084219</longitude>
+					<latitude>52.20027783324673</latitude>
+					<altitude>0</altitude>
+					<heading>-3.04443812273443e-011</heading>
+					<tilt>0</tilt>
+					<range>1000.00008955287</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>0.1369703996584604,52.20004479370779,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Harriets Café / tea rooms</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/micro-business/Harriets%20Caf%C3%A9%20Tearooms.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+At Harriets Café Tearooms visitors can enjoy traditional tea and scones accompanied by live piano music. 
+<br>
+<br>
+<a href= https://harrietscafetearooms.co.uk/> www.harrietscafetearooms.co.uk</a><br><br>
+<b>Address:</b> 16-17 Green Street,Cambridge,CB2 3JU <br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>0.119172999989714</longitude>
+					<latitude>52.20681283310957</latitude>
+					<altitude>0</altitude>
+					<heading>-1.97706260769786e-011</heading>
+					<tilt>0</tilt>
+					<range>1000.000291853189</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>0.119172999989714,52.20681283310957,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D&apos;Arrys British Cuisine and Wine Shop</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/micro-business/dArrys%20Cookhouse%20and%20Wine%20Shop.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+D’Arry’s Cookhouse and Wine Shop is a restaurant and bar in the heart of Cambridge that brings together high quality food and wine within a contemporary atmosphere. <br>
+<br>
+<a href=http://www.darrys.co.uk/> www.darrys.co.uk </a><br><br>
+<b>Address:</b> 2-4 King Street, Cambridge CB1 1LN<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>0.1241720000874858</longitude>
+					<latitude>52.20729883303634</latitude>
+					<altitude>0</altitude>
+					<heading>5.539697571526422e-011</heading>
+					<tilt>0</tilt>
+					<range>1000.000207328967</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>0.1241720000874858,52.20729883303634,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>English spirit destillery</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/micro-business/English%20Spirit%20Destillery.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+English Spirit Destillery offers tasting tours for individual visitors or groups through its destillery which uses copper pot stills to make a wide variety of small batch spirits.
+<br>
+<br>
+<a href=http://www.englishspiritdistillery.com/> www.englishspiritdistillery.com </a><br><br>
+<b>Address:</b> English Spirit Distillery, The Old Salt Depot Brinkley Road, Dullingham, CB8 9UW<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>0.3843428333371768</longitude>
+					<latitude>52.19152783366636</latitude>
+					<altitude>0</altitude>
+					<heading>2.558408368069114e-012</heading>
+					<tilt>0</tilt>
+					<range>1000.000385327526</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>0.3843428333371768,52.19152783366635,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Galleria restaurant</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/micro-business/Galleria%20Restaurant.JPG" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+The Galleria Restaurant is an independent restaurant located at the foot of Magdalene Bridge in Cambridge City overlooking St John’s & Magdalene colleges.
+<br>
+<br>
+<a href=http://www.galleriacambridge.co.uk/> www.galleriacambridge.co.uk </a><br><br>
+<b>Address:</b> 33 Bridge Street,Cambridge, CB2 1UW <br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>0.1164738333436221</longitude>
+					<latitude>52.20945983361695</latitude>
+					<altitude>0</altitude>
+					<heading>-6.02060365138457e-012</heading>
+					<tilt>0</tilt>
+					<range>1000.000409558813</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>0.1164738333436222,52.20945983361695,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Restaurant 22</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/sevenbeautiesslow/home/micro-business/Restaurant%2022.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<div class="box"><br>
+Restaurant 22 is an independent high end restaurant with quality food based on fresh market produce to affordable prices. 
+<br>
+<br>
+<a href=http://www.restaurant22.co.uk/> www.restaurant22.co.uk</a><br><br>
+<b>Address:</b> 22 Chesterton Road, Cambridge, CB4 3AX<br>
+</div>
+</body>]]></description>
+				<LookAt>
+					<longitude>0.1241720000205393</longitude>
+					<latitude>52.21372799966681</latitude>
+					<altitude>0</altitude>
+					<heading>1.165173844279055e-011</heading>
+					<tilt>0</tilt>
+					<range>1000.00025183986</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>0.1241720000205393,52.21372799966681,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

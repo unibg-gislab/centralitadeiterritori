@@ -1,0 +1,2659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>be_s_low_microbusiness.kml</name>
+	<StyleMap id="msn_home_0_01">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_home_0_01</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_home_0_01</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_home_0_01">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/ricettivit%C3%A0.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_home_0_01">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/ricettivit%C3%A0.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_Restaurant_0_0_020">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Restaurant_0_0_040</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Restaurant_0_0_020</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Restaurant_0_0_040">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/ristorazione.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_Restaurant_0_0_020">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/ristorazione.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>be_s_low_microbusiness</name>
+		<Folder>
+			<name>Ristorazione s-low</name>
+			<Placemark id=" 731 ">
+				<name>A Fleur de Saveurs</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-001058.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>35bis Route Nationale, Warluis<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.143137,49.390199,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 684 ">
+				<name>Aire de pique-nique du Plan d&apos;Eau du Canada</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/13/2/images/5-2-8-001578.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>Rue de la Mie Au Roy, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.058875,49.457377,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 683 ">
+				<name>Aire de repos du Point du Jour</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/13/2/images/5-2-8-000721.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>Route Departementale 981, Auneuil<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>1.975158,49.368877,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 743 ">
+				<name>Aire de Service pour Camping Car</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/9/images/5-2-10-000740.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>2 Rue Aldebert Bellier, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.080379,49.42439,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 687 ">
+				<name>Allo Chinois</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-000949.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>26 Rue Gambetta, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.084913,49.43304,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 742 ">
+				<name>Au Bistrot de Jeanne</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/6/images/8-5-12-000014.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>6 Rue Jeanne dArc, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.085037,49.432161,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 692 ">
+				<name>Au Bureau</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-000957.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>8 Rue des Jacobins, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.084365,49.430858,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 729 ">
+				<name>Aux Délices de Cécile</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-001051.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>15 Place Saint Barthelemy, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.081883,49.431553,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 685 ">
+				<name>Balladins Restaurant</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/3/images/5-2-9-000751.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>26 Avenue Descartes, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.116829,49.40722,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 733 ">
+				<name>Bistrot du Marché</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-001062.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>38 Rue Juliette Nevouet, Goincourt<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.04674,49.432957,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 693 ">
+				<name>Brasserie des Halles</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-000959.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>10 Rue Pierre Jacoby, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.084001,49.430298,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 694 ">
+				<name>Brasserie Victor</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-000960.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>15 Place Jeanne Hachette, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.081873,49.430419,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 695 ">
+				<name>Buffalo Grill</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-000961.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>6 Rue Antonio De Hojas, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.096971,49.45264800000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 737 ">
+				<name>Café Pasta and Cie</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-002112.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>1 Rue Jacques Goddet, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.112242,49.437559,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 717 ">
+				<name>Casa di Pizza</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-001011.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>26 Avenue De La Republique, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.084487,49.427052,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 710 ">
+				<name>Casa di Roma</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-000991.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>1ter Rue de Tilloy, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.090381,49.44032700000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 736 ">
+				<name>Chez Dan</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-002046.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>5 Rue Paul Greber, Allonne<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.12377,49.408805,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 700 ">
+				<name>Courtepaille</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-000977.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>18 Avenue Montaigne, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.112207,49.40897100000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 740 ">
+				<name>El Campo</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-002136.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>6 Rue Philippe de Dreux, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.082895,49.431815,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 721 ">
+				<name>Fleur de Sel</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-001021.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>9 Place Clemenceau, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.081712,49.42901899999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 701 ">
+				<name>Hostellerie Saint-Vincent</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-000978.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>241 Rue de Clermont, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.117865,49.43026400000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 689 ">
+				<name>Itto Sushi</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-000953.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>72 Rue Gambetta, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.085886,49.43445100000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 741 ">
+				<name>L&apos;Auto Bar</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-002137.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>2 Rue de Calais, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.084516,49.437087,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 688 ">
+				<name>La Baie d&apos;Halong</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-000952.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>51 Rue de la Madeleine, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.086327,49.428744,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 702 ">
+				<name>La Belle du Coin</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-000979.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>67 Rue du General Koenig, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.049887,49.433689,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 739 ">
+				<name>La Boucherie</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-002121.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>Rue Jacques Goddet, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.112791,49.436654,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 724 ">
+				<name>La Criée</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-001044.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>Rue Jean Michel Schille, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.117226,49.430752,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 690 ">
+				<name>La Jonque de Saigon</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-000954.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>22 Rue de Malherbe, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.081784,49.428302,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 719 ">
+				<name>La Nonna</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-001019.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>15 Rue de Malherbe, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.082403,49.429098,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 696 ">
+				<name>La Part des Anges</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-000964.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>1 Rue Gui Patin, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.085289,49.434397,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 725 ">
+				<name>La Pataterie</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-001047.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>6 Impasse Bernard Palissy, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.113937,49.41535300000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 730 ">
+				<name>La Poterie</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-001054.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>1 Route Nationale, Warluis<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.144974,49.386771,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 745 ">
+				<name>La Salamandre Restaurant Mercure</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/6/7/images/6-2-3-4-002026.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>21 Avenue Montaigne, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.111282,49.410184,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 703 ">
+				<name>La Table de Céline</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-000982.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>6bis Rue Antoine Caron, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.084095,49.436595,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 704 ">
+				<name>La Table du Périgord</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-000983.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>3 Rue du Franc Marche, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.084715,49.437184,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 728 ">
+				<name>Le Baroque</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-001050.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>52 Rue du Faubourg Saint Andre, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.093433,49.43324,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 705 ">
+				<name>Le Beauséjour</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-000985.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>2 Rue Beausejour, Beauvais<br>
+ 
+ 
+<b> </b><a href="www.restaurant-beausejour-beauvais.fr">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.087627,49.444935,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 712 ">
+				<name>Le Carthage</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-000996.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>32 Rue Nully dHecourt, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.084008,49.427697,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 716 ">
+				<name>Le Chaudron Baveur</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-001009.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>6 Place de lHotel Dieu, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.085623,49.43471399999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 735 ">
+				<name>Le Coin des Coutumes</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-002044.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>1 Rue Gabriel Danse, Allonne<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.097742,49.399548,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 715 ">
+				<name>Le Guillaume Tell</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-001003.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>1 Rue de Bury, Milly Sur Therain<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.026666,49.48712399999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 734 ">
+				<name>Le Jeanne Hachette</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-001068.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>27 Place Jeanne Hachette, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.082123,49.430658,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 706 ">
+				<name>Le Kiosque</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-000986.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>17 Avenue de la Republique, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.088193,49.42673700000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 707 ">
+				<name>Le Palais d&apos;Antan</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-000987.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>75 Rue Saint Pierre, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.080657,49.432158,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 698 ">
+				<name>Le Quinze</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-000971.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>15 Avenue Blaise Pascal, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.11229,49.416813,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 720 ">
+				<name>Le Saint-Pierre</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-001020.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>17 Rue Saint Pierre, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.082787,49.43141,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 708 ">
+				<name>Le San Remo</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-000988.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>6 Rue de Gesvres, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.086029,49.43068,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 713 ">
+				<name>Le Sésame</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-000997.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>51 Boulevard du General De Gaulle, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.088847,49.427422,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 726 ">
+				<name>Le Touco</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-001048.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>7 Rue De Buzanval, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.084795,49.431305,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 727 ">
+				<name>Le Wallabies</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-001049.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>14 Rue de Buzanval, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.085374,49.431672,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 699 ">
+				<name>Le Zinc Bleu</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-000973.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>59 Rue Saint Pierre, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.081448,49.431829,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 709 ">
+				<name>Les Vents d&apos;Anges</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-000989.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>3 Rue de lEtamine, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.080839,49.428973,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 697 ">
+				<name>Léon de Bruxelles</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-000969.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>Impasse de Pinconlieu, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.112453,49.43883200000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 722 ">
+				<name>Ma Cantine</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-001026.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>9 Rue Desgroux, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.08024,49.429058,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 691 ">
+				<name>New Don Shin</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-000956.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>9 Rue Pierre Jacoby, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.08351,49.429117,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 738 ">
+				<name>Pizza Del&apos;Arte</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-002120.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>Rue Jacques Goddet, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.112662,49.43687,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 732 ">
+				<name>Pizzeria Chez Tony</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-001061.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>Route de lAeroport, Tille<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.110933,49.459219,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 711 ">
+				<name>Pizzeria Nino</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-000994.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>44 Rue du 27 Juin, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.087579,49.434012,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 723 ">
+				<name>Poivre Rouge</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-001043.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>6 Impasse de Pinconlieu, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.111638,49.438394,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 714 ">
+				<name>Restaurant du Faubourg</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-001002.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>Route de lAeroport, Tille<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.114096,49.45992999999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 686 ">
+				<name>Restaurant Karoussel - Kyriad</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/3/images/5-2-9-000754.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>26 Rue Gay Lussac, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.111096,49.40838299999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 718 ">
+				<name>St. Luc House</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-001015.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional home cooking. Restaurant/brasserie/tearoom. Omelets, salads, grilled meats, pastries.<br><br>
+<b>Address: </b>18 Rue Carnot, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_020</styleUrl>
+				<Point>
+					<coordinates>2.083478,49.431076,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Ricettività s-low</name>
+			<Placemark id=" 649 ">
+				<name>Hotel de la Résidence</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/3/images/5-2-9-000744.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>24 Rue Louis Borel, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.087466,49.439537,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 650 ">
+				<name>Hotel Campanile</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/3/images/5-2-9-000745.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>18 Avenue Descartes, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.115716,49.40743499999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 652 ">
+				<name>Hotel du Cygne</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/3/images/5-2-9-000747.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>24 Rue Carnot, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.084187,49.43179899999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 651 ">
+				<name>City Hotel</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/3/images/5-2-9-000746.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>Rue Antonio de Hojas, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.096987,49.452114,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 664 ">
+				<name>Hotel Mercure</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/6/images/8-5-12-000017.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>21 Avenue Montaigne, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.11146,49.41014899999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 663 ">
+				<name>Hostellerie Saint-Vincent</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-000978.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>241 Rue de Clermont, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.11792,49.430556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 662 ">
+				<name>Hotel Victor II</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/5/images/9-2-5-000960.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>15 Place Jeanne Hachette, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.081882,49.43041999999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 658 ">
+				<name>Hotel B and B</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/3/images/5-2-9-000756.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>Rue Saint Ladre, Allonne<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.109975,49.40787200000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 657 ">
+				<name>Hotel Première Classe</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/3/images/5-2-9-000755.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>20 Rue Gay Lussac, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.109788,49.408928,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 656 ">
+				<name>Hotel Kyriad</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/3/images/5-2-9-000754.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>26 Rue Gay Lussac, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.111022,49.408418,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 659 ">
+				<name>Les Passereaux</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/3/images/5-2-9-000760.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>23 Rue de lAbbaye, St Paul<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.005355,49.42837400000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 660 ">
+				<name>Hotel Ibis</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/3/images/5-2-9-000766.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>1 Rue Jacques Goddet, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.112467,49.437677,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 655 ">
+				<name>Chenal Hotel</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/3/images/5-2-9-000752.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>63 Boulevard General De Gaulle, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.088797,49.426962,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 661 ">
+				<name>Au Nid du Thil</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/3/images/5-2-9-000947.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>63 Rue De Notre Dame du Thil, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.079944,49.445056,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 654 ">
+				<name>Hotel Balladins</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/3/images/5-2-9-000751.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>26 Avenue Descartes, Beauvais<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.116751,49.407249,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 653 ">
+				<name>Hotel F1</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="http://wgs-users.s3.amazonaws.com/beauvaisis/contenu/14/3/images/5-2-9-000749.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+<b>Address: </b>23 Avenue Montaigne, Beauvais<br>
+ 
+ 
+<b> </b><a href="http://www.accorhotels.com/it/hotel-2225-formule-1-hotelf1-beauvais/index.shtml">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_home_0_01</styleUrl>
+				<Point>
+					<coordinates>2.112015,49.410271,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

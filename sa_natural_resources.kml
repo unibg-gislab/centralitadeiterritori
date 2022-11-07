@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>sa_natural_resources.kml</name>
+	<Style id="sn_parks1000011">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin6000000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin02000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1000200</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin1000200">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00008b</color>
+			<width>1.6</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin02000">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00008b</color>
+			<width>1.6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_parks10000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_parks1000011</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_parks10000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_parks10000">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>sa_s_low_naturalresources.kml</name>
+		<open>1</open>
+		<Folder>
+			<name>Sentieri escursionistici</name>
+			<Placemark>
+				<name>Senda del faro</name>
+				<description><![CDATA[<TD><img src="https://sites.google.com/site/santanderslow/natural-resources/sendadelfaro.jpg" WIDTH=320 HEIGHT=240 ALT=></TD> 
+<br>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title></title>
+<style type="text/css">
+.box {
+width: 320px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+<body>
+<br>
+<b></b><a href=" http://www.rutasporcantabria.com/senda-del-faro.php ">Website</a><br>
+</div>
+</body>]]></description>
+				<styleUrl>#msn_ylw-pushpin6000000</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-3.78895678911868,43.47997545833292,0 -3.78902449661342,43.48005501345406,0 -3.789067612181596,43.48014444239671,0 -3.789081813689116,43.48025324504959,0 -3.789057896488576,43.4803805417042,0 -3.789034540262013,43.48056254429605,0 -3.789006783672097,43.4806723533612,0 -3.788930074486973,43.48074803813913,0 -3.788696570601585,43.48098797313289,0 -3.788461264599063,43.48122857290251,0 -3.788359616001743,43.48130387126056,0 -3.788233812363316,43.48137577263817,0 -3.787748606865456,43.48161686457775,0 -3.78741688517524,43.48178176460304,0 -3.787081491305103,43.48206448090198,0 -3.78691643227496,43.4821544901163,0 -3.786604762473782,43.4822858040072,0 -3.786326618679745,43.48249045455641,0 -3.786152718300478,43.48259833381288,0 -3.785782370168807,43.48275695422783,0 -3.785412398224206,43.48295236091332,0 -3.785210483132619,43.48306044406164,0 -3.785178027844832,43.48314554535989,0 -3.785206742026785,43.48318423347612,0 -3.785228418243966,43.48323724170665,0 -3.785213124209437,43.48328789166713,0 -3.785151996804299,43.48333823626145,0 -3.785060936385754,43.48339520452815,0 -3.785016702178516,43.48345662860423,0 -3.784983797074375,43.48354512041985,0 -3.785003137728793,43.48360737749223,0 -3.785033696668192,43.48367084683704,0 -3.785102236066329,43.48373126569199,0 -3.78522130507697,43.48394966220366,0 -3.785218715048508,43.48401005073492,0 -3.785053207666959,43.48405610421765,0 -3.784810609900044,43.4840739008969,0 -3.784537885956275,43.4840546715739,0 -3.784370817490703,43.48401605988083,0 -3.784163529459204,43.48393190107795,0 -3.784042013385121,43.48389107559272,0 -3.783720096973363,43.48392883584634,0 -3.783443499563157,43.48399008577957,0 -3.782960056640643,43.48413501712317,0 -3.782450301403872,43.48431406187472,0 -3.781995706238201,43.48445606517254,0 -3.781563162447036,43.48460067190085,0 -3.781367055726024,43.48467670004971,0 -3.78135181090234,43.48471104616112,0 -3.781643476945447,43.4852844810245,0 -3.7818102414535,43.48582330617054,0 -3.782174196169166,43.48578272469898,0 -3.782354900653022,43.4857747106192,0 -3.782569968042739,43.48580333207955,0 -3.782893807130935,43.48588013558937,0 -3.783453607567111,43.48569696872171,0 -3.783497337866822,43.4856857586935,0 -3.783880563694414,43.48574731702769,0 -3.784045082013872,43.48574668350486,0 -3.784360817292314,43.48576048124504,0 -3.784559385937321,43.48575040202961,0 -3.784975194734455,43.48579394090844,0 -3.785383305111267,43.48570084517435,0 -3.785524403815648,43.48567269982141,0 -3.785642092527294,43.48566714036319,0 -3.785741248999987,43.48565692554726,0 -3.785813958412398,43.48567926368166,0 -3.786300400856263,43.48555278999463,0 -3.786405435138934,43.48553643002439,0 -3.786855464084233,43.48536544226622,0 -3.787179974999723,43.48525418834483,0 -3.787241311325501,43.48524854372641,0 -3.787314341856463,43.48526188031715,0 -3.787380836979621,43.48528072408848,0 -3.78747789860354,43.48528685544741,0 -3.787555909716449,43.48527698884668,0 -3.787869055881398,43.4851894632604,0 -3.788003738436786,43.48515093666369,0 -3.788154595745101,43.48509997040186,0 -3.788201492587131,43.4850929260672,0 -3.788295143495829,43.48511339883665,0 -3.788479553804003,43.4852760857396,0 -3.788544818623882,43.48531765941987,0 -3.788690958371515,43.48539110993351,0 -3.78887701597338,43.48574761907833,0 -3.788950245669077,43.48590482251498,0 -3.788851006089423,43.4859394384028,0 -3.788959432149104,43.48615730938451,0 -3.788884451550584,43.48630342301083,0 -3.788860415132148,43.4863802974819,0 -3.788695261175068,43.48655842701719,0 -3.788525316441003,43.48685127908828,0 -3.788489850727826,43.4870145470607,0 -3.788501952947233,43.48724406037308,0 -3.788560825045899,43.48743555683895,0 -3.788642895022124,43.48757751530547,0 -3.788806683751413,43.4877162609159,0 -3.789002853359991,43.48785546953117,0 -3.789156421407859,43.48792973063693,0 -3.789288150273934,43.48798867147985,0 -3.789239659571351,43.48807672306924,0 -3.789230730826667,43.48817403496648,0 -3.789286700752172,43.48830990660772,0 -3.789301830850216,43.48845270282135,0 -3.78924764539914,43.4886018230376,0 -3.789168470189471,43.48873658530489,0 -3.789171506357788,43.48884596354191,0 -3.7892870825312,43.48902858265376,0 -3.789343768261709,43.48932063363511,0 -3.789430707587248,43.48955682792926,0 -3.789591273156039,43.48982304634535,0 -3.789672250174419,43.48990996785688,0 -3.78983773506529,43.49003415613115,0 -3.790020007254462,43.49014750006869,0 -3.790126752084607,43.4902174716141,0 -3.790411613781878,43.49030513658026,0 -3.790570497358913,43.49042266935525,0 -3.790647098470847,43.49047741969616,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>punti di interesse naturalistico</name>
+			<Placemark id=" 480 ">
+				<name>Roca El Camello</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/natural-resources/RocaCamello.png"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Natural monument. Carved rock in the seafront that represents the figure of a camel and gives name to the natural beach located there.<br><br>
+<b>Address: </b> Av Reina Victoria, s/n, 39005 Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.cantabriarural.com/playas/playa-del-camello.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks10000</styleUrl>
+				<Point>
+					<coordinates>-3.773998,43.469608,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 481 ">
+				<name>Zoo Parque de la Magdalena</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/natural-resources/ZooMagdalena.png"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Small public zoo.<br><br>
+<b>Address: </b> Real Sitio de la Magdalena Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.minube.com/rincon/mini-zoo-de-santander-a32364">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks10000</styleUrl>
+				<Point>
+					<coordinates>-3.771423,43.470507,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 482 ">
+				<name>Recinto y Parque de la Magdalena</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/natural-resources/ParqueMagdalena.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Remarkable park and area in the city.<br><br>
+<b>Address: </b> Real Sitio de la Magdalena Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.alzoo.es/parque-de-la-magdalena/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks10000</styleUrl>
+				<Point>
+					<coordinates>-3.768279,43.469392,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 483 ">
+				<name>Parque de Las Llamas</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/natural-resources/ParqueLasLlamas.png"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Modern park with green spaces, cafés, playgrounds and bike routes.<br><br>
+<b>Address: </b> Av de la Constitucion, s/n, 39005 Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://santanderspain.info/4-la-vaguada-de-las-llamas/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks10000</styleUrl>
+				<Point>
+					<coordinates>-3.80075,43.473873,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 484 ">
+				<name>Parque de Mataleñas</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/natural-resources/ParqueMatalen%CC%83as.png"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Free public park close to Mataleñas and Molinucos beaches.<br><br>
+<b>Address: </b> Avenida del Faro, s/n, 39012, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.mulecarajonero.com/eventos-jornadas-catas-ferias/184-rutas-paseos/5580-un-paseo-por-cabo-menor-y-parque-de-matalenas">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks10000</styleUrl>
+				<Point>
+					<coordinates>-3.787149,43.482639,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 485 ">
+				<name>Jardines de Pereda</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/natural-resources/Jardines%20Pereda.png"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Park with green spaces, playgrounds and bike routes.<br><br>
+<b>Address: </b> Paseo de Pereda, s/n (Bahía) Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="https://www.turismodecantabria.com/disfrutala/que-visitar/225-paseo-y-jardines-de-pereda-y-calle-castelar">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks10000</styleUrl>
+				<Point>
+					<coordinates>-3.80453,43.461156,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 486 ">
+				<name>Parque de los Pinares</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/natural-resources/ParquePinares.png"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Park with green spaces.<br><br>
+<b>Address: </b> Av Los Infantes, s/n Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="https://sites.google.com/site/sevenbeautis/santander/ParquePinares.png">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_parks10000</styleUrl>
+				<Point>
+					<coordinates>-3.787424999999999,43.471926,0</coordinates>
+				</Point>
+			</Placemark>
+			<Folder>
+				<name>Spiagge</name>
+				<Placemark id=" 470 ">
+					<name>Playa La Maruca</name>
+					<open>1</open>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/natural-resources/PlayaLaMaruca.png"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Sand beach.<br><br>
+<b>Address: </b> Monte 39006 Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.cantabriarural.com/playas/playas-de-santander-playa-de-la-maruca.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+					<styleUrl>#msn_parks10000</styleUrl>
+					<Point>
+						<coordinates>-3.835011000000001,43.481566,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id=" 471 ">
+					<name>Playa Los Peligros</name>
+					<open>1</open>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/natural-resources/PlayaLosPeligros.png"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Sand beach.<br><br>
+<b>Address: </b> Av Carrero Blanco, s/n, 39004 Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.turismodecantabria.com/disfrutala/playas/44-playa-de-los-peligros#.UvNvybTEQY0<BR>">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+					<styleUrl>#msn_parks10000</styleUrl>
+					<Point>
+						<coordinates>-3.77982,43.465051,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id=" 472 ">
+					<name>Playa de Bikinis</name>
+					<open>1</open>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/natural-resources/PlayadeBikinis.png"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Sand beach.<br><br>
+<b>Address: </b> Real Sitio de la Magdalena, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.cantabriarural.com/playas/playa-de-bikinis-santander.html<BR>">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+					<styleUrl>#msn_parks10000</styleUrl>
+					<Point>
+						<coordinates>-3.768154,43.467389,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id=" 473 ">
+					<name>Playa de La Magdalena</name>
+					<open>1</open>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/natural-resources/PlayaLaMagdalena.png"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Sand beach.<br><br>
+<b>Address: </b> Real Sitio de la Magdalena, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.tourcantabria.com/playas-de-la-magdalena/playa-de-la-magdalena-santander">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+					<styleUrl>#msn_parks10000</styleUrl>
+					<Point>
+						<coordinates>-3.77549,43.467047,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id=" 474 ">
+					<name>Playa El Camello</name>
+					<open>1</open>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/natural-resources/Playa%20El%20Camello.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Sand beach.<br><br>
+<b>Address: </b> Av Reina Victoria, s/n, 39005, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.cantabriarural.com/playas/playa-del-camello.html<BR>">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+					<styleUrl>#msn_parks10000</styleUrl>
+					<Point>
+						<coordinates>-3.775463,43.469293,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id=" 475 ">
+					<name>Playa La Concha</name>
+					<open>1</open>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/natural-resources/Playa%20La%20Concha.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Sand beach.<br><br>
+<b>Address: </b> Av Reina Victoria, s/n, 39005, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.tourcantabria.com/playas-de-el-sardinero/playa-de-la-concha-santander<BR>">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+					<styleUrl>#msn_parks10000</styleUrl>
+					<Point>
+						<coordinates>-3.779182,43.471662,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id=" 478 ">
+					<name>Playa Molinucos</name>
+					<open>1</open>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/natural-resources/Playa%20Molinucos.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Sand beach.<br><br>
+<b>Address: </b> Avenida del Faro, s/n, 39012, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.turismocantabria.es/es/playa-los-molinucos-cantabria/42">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+					<styleUrl>#msn_parks10000</styleUrl>
+					<Point>
+						<coordinates>-3.784718,43.483776,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id=" 477 ">
+					<name>Playa El Sardinero (I)</name>
+					<open>1</open>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/natural-resources/Playa%20El%20Sardinero%20%28I%29.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Sand beach.<br><br>
+<b>Address: </b> Av Reina Victoria, s/n, 39005, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.cantabriarural.com/playas/playa-del-sardinero.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+					<styleUrl>#msn_parks10000</styleUrl>
+					<Point>
+						<coordinates>-3.786152,43.476346,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id=" 476 ">
+					<name>Playa El Sardinero (II)</name>
+					<open>1</open>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/natural-resources/Playa%20El%20Sardinero%20%28II%29.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Sand beach.<br><br>
+<b>Address: </b> Av Reina Victoria, s/n, 39005, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.cantabriarural.com/playas/playa-del-sardinero.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+					<styleUrl>#msn_parks10000</styleUrl>
+					<Point>
+						<coordinates>-3.781299,43.472587,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id=" 469 ">
+					<name>Playa El Puntal</name>
+					<open>1</open>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/natural-resources/PlayaElPuntal.png"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Sand beach.<br><br>
+<b>Address: </b> Somo, Ribamontán al Mar, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.cantabriarural.com/playas/playa-el-puntal.html ">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+					<styleUrl>#msn_parks10000</styleUrl>
+					<Point>
+						<coordinates>-3.772421,43.458211,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id=" 479 ">
+					<name>Playa Mataleñas</name>
+					<open>1</open>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/natural-resources/Playa%20Matale%C3%B1as.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Sand beach.<br><br>
+<b>Address: </b> Avenida del Faro, s/n, 39012, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.cantabriarural.com/playas/playa-de-matalenas.html ">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+					<styleUrl>#msn_parks10000</styleUrl>
+					<Point>
+						<coordinates>-3.788146,43.485869,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id=" 468 ">
+					<name>Playa de El Bocal</name>
+					<open>1</open>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/natural-resources/PlayaElBocal.png"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Sand beach.<br><br>
+<b>Address: </b> Monte 39006 Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.cantabriarural.com/playas/playas-de-santander-playa-de-el-bocal.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+					<styleUrl>#msn_parks10000</styleUrl>
+					<Point>
+						<coordinates>-3.825491,43.488134,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

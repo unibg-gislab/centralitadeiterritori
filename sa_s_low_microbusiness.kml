@@ -1,0 +1,1866 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>sa_s_low_microbusiness.kml</name>
+	<Style id="sn_Restaurant_0_0_0403">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/ristorazione.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_Restaurant_0_0_0203">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Restaurant_0_0_0403</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Restaurant_0_0_0203</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ricettivit%C3%A04">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ricettivit%C3%A04</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ricettivit%C3%A04</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ricettivit%C3%A04">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/ricettivit%C3%A0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ricettivit%C3%A04">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/ricettivit%C3%A0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_Restaurant_0_0_0203">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/ristorazione.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>sa_s_low_microbusiness</name>
+		<open>1</open>
+		<Folder>
+			<name>Ricettività s-low</name>
+			<Placemark id=" 511 ">
+				<name>Pensión Costa Verde</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Pensi%C3%B3n%20Costa%20Verde.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Villa with garden of 600 m2.<br><br>
+<b>Address: </b> Lugar Barrio San Román la Sierra, 23, 39012, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.turismodecantabria.com/descubrela/donde-alojarse/21-pension-costa-verde/buscador-aWRab25hPTcm">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_ricettivit%C3%A04</styleUrl>
+				<Point>
+					<coordinates>-3.858277,43.457315,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 512 ">
+				<name>Pensión La Bolera</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Pensi%C3%B3n%20La%20Bolera.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The hostel is located in the surroundings of Santander, close to the public hospital.<br><br>
+<b>Address: </b> Campogiro (Urb. Cotrobal), 10, 39011, Santander, Cantabria<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_ricettivit%C3%A04</styleUrl>
+				<Point>
+					<coordinates>-3.841467,43.454831,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 513 ">
+				<name>Hostal Mimosa</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Hostal%20Mimosa.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Built in the early 80s, the Mimosa Inn is opposite the Hospital Marqués de Valdecilla and few meters from the Residence Cantabria. Ideal to enjoy a pleasant and enjoyable stay in Cantabria.<br><br>
+<b>Address: </b> Calle de Jazmín, 8, 39010, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.hostalmimosa.com//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_ricettivit%C3%A04</styleUrl>
+				<Point>
+					<coordinates>-3.832157,43.458645,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 514 ">
+				<name>Hostal Lucy</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Hostal%20Lucy.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The hostel is located at the entrance to Santander (maritime area) (C/Marqués de la Hermida 68, 1st floor). In front of the hostel you can see: the new fish market and the new green bridge linking the popular Barrio Pesquero with the Lonja.<br><br>
+<b>Address: </b> Calle del Marqués de la Hermida, 68, 39009, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.hostallucy.com/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_ricettivit%C3%A04</styleUrl>
+				<Point>
+					<coordinates>-3.823299,43.452844,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 516 ">
+				<name>Hotel Bedoya</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Hotel%20Bedoya.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Nice accommodation located in the city centre.<br><br>
+<b>Address: </b> Calle Federico Vial, 8, 39002, Santander, Cantabria<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_ricettivit%C3%A04</styleUrl>
+				<Point>
+					<coordinates>-3.813366,43.456414,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 515 ">
+				<name>Hostal San Glorio</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Hostal%20San%20Glorio.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The Hostal San Glorio is a small family-run hotel situated very near the city centre, right next to the lively Barrio Pesquero fishermens quarter, bus and train stations and the ferry terminal. The hotel has excellent public transport links to Santander Airport and the El Sardinero beaches. This outstanding setting makes the hotel a perfect base for both tourists and business guests alike.<br><br>
+<b>Address: </b> Calle de Ruiz de Zorrilla, 18, 39009, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.sanglorio.com/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_ricettivit%C3%A04</styleUrl>
+				<Point>
+					<coordinates>-3.814403,43.45569,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 517 ">
+				<name>Hostal Liébana</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Hostal%20Li%C3%A9bana.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Liébana Hostal has traditional character and is located in the heart of the locality. 30 bedrooms decorated in a simple and functional way with wood furniture and perfectly equipped with private bathroom, television, telephone and heating and the possibility to add an extra bed. Also, the clients can use the rest of the facilities the accommodation offers as cafeteria with tasty breakfast, reception service where the staff will provide you touristic information, free Wi-Fi connection and parking.<br><br>
+<b>Address: </b> Calle Nicolás Salmerón, 9, 39009, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.hliebana.arrakis.es/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_ricettivit%C3%A04</styleUrl>
+				<Point>
+					<coordinates>-3.811753,43.456448,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 518 ">
+				<name>Hostal del Carmen</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Hostal%20del%20Carmen.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Hostel Del Carmen in Santander offers fully equipped, comfortable and functional rooms. All of them with private bathroom, TV and heating, the hostel also has WIFI internet access throughout the hotel. The hostel also has a lift and there is public parking nearby to park the car. The location of Hostel Del Carmen is excellent, in the center of Santander, which allows our guests a quick access to Playa del Sardinero, Palacio de la Magdalena and Puerto Chico.<br><br>
+<b>Address: </b> Calle de San Fernando, 48, 39010, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.hostaldelcarmen.com/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_ricettivit%C3%A04</styleUrl>
+				<Point>
+					<coordinates>-3.8228,43.459691,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 519 ">
+				<name>Estudios Aránzazu</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Estudios%20Ar%C3%A1nzazu.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Situated a 10-minute walk from Santander FEVE Train Station, these simple studios offer a 24-hour reception with a tour desk. Estudios Aránzazu are just a 15-minute walk from Santander Cathedral. The citys ferry port is only 1.5 km away. You can also get a local bus to the Sardinero Beaches around 4 km away. Each Aránzazu studio has simple, functional décor and tiled and split-level floors.<br><br>
+<b>Address: </b> Calle Mies del Valle, 4, 39010, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.apartamentosaranzazu.com//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_ricettivit%C3%A04</styleUrl>
+				<Point>
+					<coordinates>-3.822455,43.460215,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 520 ">
+				<name>Hostal San Fernando</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Hostal%20San%20Fernando.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Located in central area (San Fernando Street), near the Marqués de Valdecilla Hospital, 5 minutes from City Hall and 10 minutes from the bus and train stations.<br><br>
+<b>Address: </b> Calle de San Fernando, 16, 39010, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.hostalsanfernando.es//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_ricettivit%C3%A04</styleUrl>
+				<Point>
+					<coordinates>-3.820126,43.460411,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 523 ">
+				<name>Hospedaje Magallanes</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Hospedaje%20Magallanes.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Hospedaje Magallanes counts with single, double, twin and family bedrooms with private bathroom, TV and central heating. All rooms are completely refurbished and well decorated (bed linen and towels included) to offer the traveler the best comfort.<br><br>
+<b>Address: </b> Calle Magallanes, 22, 39007, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.hospedajemagallanes.com//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_ricettivit%C3%A04</styleUrl>
+				<Point>
+					<coordinates>-3.814471,43.462567,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 524 ">
+				<name>Pensión Cervantes</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Pensi%C3%B3n%20Cervantes.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>In the Santander center, just steps from the city hall, the Cervantes Accommodation offers comfortable rooms, enjoyable and affordable, together with a pleasant and helpful treatment. Located in the most important culinary and culture zone, it is also located at four hundred meters from the principal night clubs and bars; at hundred and fifty meters from the train and bus terminals (excellent for touring along towns during the day); three hundred meters away is the Ferry seaport and less than a kilometer from the beaches.<br><br>
+<b>Address: </b> Calle Cervantes, 5, 3? Planta, 39001, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.hospedajecervantes.es/eng/index.html/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_ricettivit%C3%A04</styleUrl>
+				<Point>
+					<coordinates>-3.811666,43.462352,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 525 ">
+				<name>Pensión  Figón</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Pensi%C3%B3n%20%20Fig%C3%B3n.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Hostal located in the city centre.<br><br>
+<b>Address: </b> Calle del Cardenal Cisneros, 5, 39001, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="https://turismodecantabria.com/descubrela/donde-alojarse/1141-pension-figon/buscador-aWRab25hPTcm">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_ricettivit%C3%A04</styleUrl>
+				<Point>
+					<coordinates>-3.811615,43.463195,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 526 ">
+				<name>Hostal Cisneros</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Hostal%20Cisneros.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Located in the city center for more than 30 years ago, Hostal Cisneros is framed in a typical building of the city of Santander in the early twentieth century.<br><br>
+<b>Address: </b> Calle del Cardenal Cisneros, 8, 39001, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.hostalcisneros.es//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_ricettivit%C3%A04</styleUrl>
+				<Point>
+					<coordinates>-3.811222,43.463247,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 527 ">
+				<name>Pensión Margarita</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Pensi%C3%B3n%20Margarita.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Hostal located in the city centre.<br><br>
+<b>Address: </b> Av de los Castros, 19, 39005, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.cantabriatotal.com/web/ficha-alojamientos-cantabria/pension-margarita.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_ricettivit%C3%A04</styleUrl>
+				<Point>
+					<coordinates>-3.787163,43.473293,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 530 ">
+				<name>Hospedaje Botín</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Hospedaje%20Bot%C3%ADn.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Pleasant establishment with nice rooms, bright views, daily housekeeping, quality lingerie and soundproof windows to the outside.<br><br>
+<b>Address: </b> Calle Isabel II, 1, 39002, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.hospedajebotin.com/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_ricettivit%C3%A04</styleUrl>
+				<Point>
+					<coordinates>-3.809334,43.462819,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 531 ">
+				<name>Hotel Antoyana</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Hotel%20Antoyana.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Antoyana Hotel is located in the town of Santander, at the entrance of the city. It is located on a private estate of some 5,000 square meters which is completely fenced with entrance arch to it. Within the enclosure, the hotel offers free parking for its customers and large gardens.<br><br>
+<b>Address: </b> Calle Camarreal Ojaiz, 134, 39011, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.hotelantoyana.com//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_ricettivit%C3%A04</styleUrl>
+				<Point>
+					<coordinates>-3.884748,43.44226,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 532 ">
+				<name>Hostal La Mexicana</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Hostal%20La%20Mexicana.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Located 250 metres from Catedral de Santa Maria de la Asunción. Feve Train Station is 500 metres away. There is a plenty of shops and restaurants which serve fresh seafood in the surrounding area. You can also find several clubs and bars in the lively Plaza de Ca?adío, 10 minutes walk from Hostal La Mexicana. Ideally located, the guest house is 9 minutes walk from Santander Ferry Port connected to England and 100 metres from Mercado de Abastos. Santander Airport is 10 minutes drive and there is a public parking available nearby.<br><br>
+<b>Address: </b> Calle Juan de Herrera, 3, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.hostallamexicana.com/Alojamiento.aspx/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_ricettivit%C3%A04</styleUrl>
+				<Point>
+					<coordinates>-3.809081,43.462212,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 533 ">
+				<name>Hostal Jardín Secreto</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Hostal%20Jard%C3%ADn%20Secreto.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>JardínSecreto is a new concept of the traditional B&B, a place for those who want to stay in the centre of Santander. It is a charming, relaxed and friendly place where personal attention, care and treatment that breathes a warm and relaxing atmosphere away from the noise and haste, which will make your stay unforgettable.<br><br>
+<b>Address: </b> Calle del Cardenal Cisneros, 37, 39007, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.jardinsecretosantander.com/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_ricettivit%C3%A04</styleUrl>
+				<Point>
+					<coordinates>-3.814915,43.463078,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 535 ">
+				<name>Hostal Plaza</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Hostal%20Plaza.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Hostal Plaza is located in the center of Santander, next to the bus and railway stations. Santander Ferry Terminal is just 200 meters away, as is Santander Cathedral. A range of shops can be found immediately around the hotel, and public parking can be found within 5 minutes walk.  Reception is happy to offer advice on what to see in the surrounding area.<br><br>
+<b>Address: </b> Calle Cádiz, 13 entlo, 39002, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.pension-plaza.com//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_ricettivit%C3%A04</styleUrl>
+				<Point>
+					<coordinates>-3.809315,43.459972,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 536 ">
+				<name>Hostal Cabo Mayor</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Hostal%20Cabo%20Mayor.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Cabo Mayor is designed for those seeking a pleasant place with a friendly personality. It puts at your disposal rooms playing the essence of a boutique hotel in a modern guest house comfortably furnished, with care and imagination. The owners work to make your stay as pleasant as possible, using their own travel experience to make you feel at home.<br><br>
+<b>Address: </b> Calle Cádiz 1, 2a Planta, 39002, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.hcabomayor.com/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_ricettivit%C3%A04</styleUrl>
+				<Point>
+					<coordinates>-3.810658,43.459591,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 537 ">
+				<name>Pensión Plaza Pombo B and B</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Pensi%C3%B3n%20Plaza%20Pombo%20B%26B.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Plaza Pombo B & B is a Bed and Breakfast accommodation (including breakfast) situated in the center of Santander. In the famous Plaza Pombo, center for cultural activities and trade in Santander, the owners have renovated an old 2 stars accommodation. Its strategic location gives this place an added value over any other property.<br><br>
+<b>Address: </b> Calle Hernán Cortés, 25, 39003, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.plazapombo.com//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_ricettivit%C3%A04</styleUrl>
+				<Point>
+					<coordinates>-3.801692,43.463392,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 538 ">
+				<name>Pensión Angelines</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Pensi%C3%B3n%20Angelines.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Located in the center of Santander, The Pension was refurbished last year. It has 12 rooms (with TV, heating and WIFI) and 5 outside toilets. Also it includes baggage and bicycle pick up service.<br><br>
+<b>Address: </b> Calle Atilano Rodríguez, 9, 1a Planta, 39002, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.pensionangelines.com//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_ricettivit%C3%A04</styleUrl>
+				<Point>
+					<coordinates>-3.809908,43.457933,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 539 ">
+				<name>Pensión San Miguel</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Pensi%C3%B3n%20San%20Miguel.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The Pension San Miguel is located in the center of Santander close to the train and ferry stations and 15 minute walk from Santander beaches and tourist sites.<br><br>
+<b>Address: </b> Calle Atilano Rodríguez, 4, 39002, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.pensionsanmiguel.com//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_ricettivit%C3%A04</styleUrl>
+				<Point>
+					<coordinates>-3.81023,43.458621,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 540 ">
+				<name>Apartamentos Príncipe</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Apartamentos%20Pr%C3%ADncipe.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Spacious and comfortable apartments in the city center, next to Plaza Porticada, Paseo Pereda, the City Council and very close to Botin Center (in a coming future). The apartments are located in a few meters from the sea port of Brittany ferries that connects Santander with the seaside towns Plymouth and Portsmouth. The Prince apartments have fashionable and comfortable facilities with great sights and well connected to beaches, monuments and places of interest. The Prince apartments are located few meters from public parkings: Alfonso XIII, Cachavas, Pombo and the city Council.<br><br>
+<b>Address: </b> Plaza Príncipe 2, 4a Planta, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.apartamentosprincipe.com/es//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_ricettivit%C3%A04</styleUrl>
+				<Point>
+					<coordinates>-3.805528,43.462185,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 542 ">
+				<name>Hostal La Torre</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Hostal%20La%20Torre.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Hostal La Torre is located in Santander, opposite Menéndez Pelayo University. Situated 200 metres from Sardinero Beach, it offers simple rooms with free Wi-Fi, a TV and a private bathroom. There are vending machines for snacks and drinks, and you can walk to a range of restaurants within 5 minutes. The guest house is a 7-minute drive from Santander Cathedral and ferry terminal. You can drive to Santander Airport in just 15 minutes.<br><br>
+<b>Address: </b> Av de los Castros, 53, 39005, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.hostal-latorre.es/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_ricettivit%C3%A04</styleUrl>
+				<Point>
+					<coordinates>-3.797339,43.471306,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 544 ">
+				<name>Hostal Rocamar</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Hostal%20Rocamar.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Situated next to the University of Cantabria, Hostal Rocamar is 600 metres from Santanders El Sardinero Beach. This guest house offers functional rooms and apartments with free Wi-Fi and LCD TV. Hostal Rocamar is within a 5-minute walk of the Convention Centre and Sports Centre. All accommodation at the Rocamar Hostal includes a fan, heating and a safe. The modern bathrooms come with a hairdryer and amenities. Apartments also have a kitchenette and a living area. Located in the same building, the snack bar offers breakfast, tapas, meals, snacks and drinks throughout the day. There are also many typical restaurants and tapas bars within a 10-minute walk. Staff at the Rocamar can provide information about the surrounding area. Racing Santanders Sardinero Football Stadium is just 400 metres away, while the historic city centre is within a 15-minute walk.<br><br>
+<b>Address: </b> Av de los Castros, 41, 39005, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://hostalrocamar.com//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_ricettivit%C3%A04</styleUrl>
+				<Point>
+					<coordinates>-3.792463,43.472187,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 545 ">
+				<name>Apartamentos Andrea Suite</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Apartamentos%20Andrea%20Suite.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>These comfortable and stylish apartments are located on the Paseo Menéndez Pelayo, a residential area characterized by its charming trees. They are located within a ten minute walk from the Plaza de Ca?adío and close to the bay. Splendid place to observe the combination of sea and mountain.<br><br>
+<b>Address: </b> Paseo Menéndez Pelayo, 78, 39006, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.apartamentosandreasuite.com//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_ricettivit%C3%A04</styleUrl>
+				<Point>
+					<coordinates>-3.791737,43.467163,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 546 ">
+				<name>Don Carlos Hotel Santander</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Don%20Carlos%20Hotel%20Santander.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>In the heart of El Sardinero, in front of the beach and beside the Casino, Hotel Apartamentos Don Carlos has managed to become the perfect lodgment for the most exigent visitors.<br><br>
+<b>Address: </b> Calle del Duque Santo Mauro, 20-22, 39005, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://hotelapartamentosdoncarlos.com/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_ricettivit%C3%A04</styleUrl>
+				<Point>
+					<coordinates>-3.781053,43.470648,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 547 ">
+				<name>Suites Apartamentos Las Brisas</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Suites%20Apartamentos%20Las%20Brisas.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>These comfortable and practical apartments are located on the beach front of the famous Sardinero beach and are surrounded by greenery. The apartments are ideal for booking a stay as a family or couple in this elegant and tranquil city. You can also bring your pets here.<br><br>
+<b>Address: </b> Avda. Castañeda, 17, 39005, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.apartamentoslasbrisas.com/hotel-overview.html/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_ricettivit%C3%A04</styleUrl>
+				<Point>
+					<coordinates>-3.789318000000001,43.475667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 548 ">
+				<name>Hotel Mataleñas</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Hotel%20Matale%C3%B1as.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The Hotel offers 24 double rooms and 2 single rooms fully equipped with bathroom, television set, telephone, heating and free wifi. All carefully decorated and equipped to offer the maximum comfort. It also offers a wide dinning hall.<br><br>
+<b>Address: </b> Calle Inés Diego del Noval, 39, 39012, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.hotelmatalenas.com//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_ricettivit%C3%A04</styleUrl>
+				<Point>
+					<coordinates>-3.802293999999999,43.482009,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 549 ">
+				<name>Hostal Menéndez Pelayo</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Hostal%20Men%C3%A9ndez%20Pelayo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Hotel in the city centre.<br><br>
+<b>Address: </b> Paseo Menéndez Pelayo, 16, 39006, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://hostalmenendezpelayo.com//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_ricettivit%C3%A04</styleUrl>
+				<Point>
+					<coordinates>-3.797937,43.465701,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 550 ">
+				<name>Hostal La Soledad</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Hostal%20La%20Soledad.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Pension La Soledad is located 100 meters from the famous beaches of El Sardinero. It is also very close to the Santander Exhibition Centre.<br><br>
+<b>Address: </b> Av los Castros, 17, 39005, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.pensionsoledad.com//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_ricettivit%C3%A04</styleUrl>
+				<Point>
+					<coordinates>-3.786993,43.47367,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Ristorazione s-low</name>
+			<Placemark id=" 488 ">
+				<name>El Diluvio</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/El%20Diluvio.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Nice and typical tapas bar.<br><br>
+<b>Address: </b> Calle del General Mola, 14, 39004, Santander, Cantabria<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_0203</styleUrl>
+				<Point>
+					<coordinates>-3.804234,43.462057,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 489 ">
+				<name>Restaurante Deluz</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Restaurante%20Deluz.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Slow Food Restaurant serving local specialties and ecological dishes. All the dishes are characterized by the social orientation of the company and the use of local ingredients only (e.g., local farmers).<br><br>
+<b>Address: </b> Calle de Ramón y Cajal, 18, 39005, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.deluz.es/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_0203</styleUrl>
+				<Point>
+					<coordinates>-3.781123,43.469396,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 490 ">
+				<name>El Machi Restaurant</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/El%20Machi%20Restaurant.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Slow Food Restaurant serving local specialties and ecological dishes. Specialized in fish and rice dishes. All the dishes are characterized by the social orientation of the company and the use of local ingredients only (e.g., local fishermen).<br><br>
+<b>Address: </b> Calle Calderón de la Barca, 9, 39002, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.elmachi.es/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_0203</styleUrl>
+				<Point>
+					<coordinates>-3.808253,43.459574,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 491 ">
+				<name>Restaurante Días Desur</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Restaurante%20D%C3%ADas%20Desur.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>International cuisine. Slow Food Restaurant serving local specialties and ecological dishes. All the dishes are characterized by the social orientation of the company and the use of local ingredients only (e.g., local farmers).<br><br>
+<b>Address: </b> Calle Hernán Cortés, 47, 39003, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://restaurantediasdesur.wordpress.com/ /">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_0203</styleUrl>
+				<Point>
+					<coordinates>-3.798863,43.463138,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 492 ">
+				<name>La Cruz Blanca</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/La%20Cruz%20Blanca.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Bar de pinchos and snacks inn in the city centre. Right in the most lively nightlife area of Santander.<br><br>
+<b>Address: </b> Calle General Mola, 35, 39003, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.cruzblancasantander.com/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_0203</styleUrl>
+				<Point>
+					<coordinates>-3.798609,43.462767,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 493 ">
+				<name>Bodegas Mazón</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/BodegasMazon.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Bodegas Mazon was established in 1902 as a wine and vermouth store. After its conversion into a casual Wine Shop / Restaurant and Wine Museum, the premises have preserved the memories of the times of those fishermen who lived at Puertochico. Currently, this is the most trendy and exclusive area of Santander. Now and again, it is still possible to hear the singing of some Habaneras in the evening, when pensioners, with a porrón of wine in their hands, cannot resist the nostalgia of past times. Fish from the Cantabrian Sea comes to our plates from the hands of fishermen who keep still alive this ancient sailor-fashion tradition, using the old fishing techniques. The porrones and bottles of wine, the tapas, anchovies, rabas (squid tentacles), stuffed peppers, Ventresca or Tuna belly, Octopus Galician style or Padrón peppers have converted this Wine Shop into the favourite one of foreigners and Spaniards who enjoy going round the bars at noon or love to have an afternoon snack or dinner at a traditional environment of "the" Santander of the early years of the XXth Century.<br><br>
+<b>Address: </b> Calle Hernán Cortés, 57, 39003, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.bodegasmazon.com/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_0203</styleUrl>
+				<Point>
+					<coordinates>-3.797687,43.463235,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 494 ">
+				<name>Bar Restaurante Las Olas</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Bar%20Restaurante%20Las%20Olas.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Seafood kitchen specialist in the seafront.<br><br>
+<b>Address: </b> Barrio del Monte Corbanera, 98, 39012, Santander, Cantabria<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_0203</styleUrl>
+				<Point>
+					<coordinates>-3.837032,43.47814,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 496 ">
+				<name>La Casa del Indiano</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/La%20Casa%20del%20Indiano.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Bar de pinchos and snacks inn in Santander.<br><br>
+<b>Address: </b> Calle Hernán Cortés, 4, 39003, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.casadelindiano.com/indiano/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_0203</styleUrl>
+				<Point>
+					<coordinates>-3.804425,43.462485,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 495 ">
+				<name>Casa Lita</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Casa%20Lita.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Bar de pinchos and snacks inn in Santander.<br><br>
+<b>Address: </b> Paseo de Pereda, 37, 39004, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="www.casalita.es/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_0203</styleUrl>
+				<Point>
+					<coordinates>-3.797274,43.462587,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 497 ">
+				<name>Casa Goria</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Casa%20Goria.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Bar de pinchos and snacks inn in the city centre. Right in the most lively nightlife area of Santander.<br><br>
+<b>Address: </b> Calle del Río de la Pila, 12, 39003, Santander, Cantabria<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_0203</styleUrl>
+				<Point>
+					<coordinates>-3.804549,43.464694,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 498 ">
+				<name>Restaurante Cantabria</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Restaurante%20Cantabria.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional taberna in the city centre.<br><br>
+<b>Address: </b> Calle del Río de la Pila, 10, 39003, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.cascoviejosantander.es/espacioweb/web4/index.php?id=36&usuario=cantabria&id_usuario=145">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_0203</styleUrl>
+				<Point>
+					<coordinates>-3.804429,43.464657,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 503 ">
+				<name>Restaurante Los Peñucas</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Restaurante%20Los%20Pe%C3%B1ucas.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Seafood kitchen specialist.<br><br>
+<b>Address: </b> Calle del Marqués de la Ensenada, 32, 39009, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.lospenucas.com/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_0203</styleUrl>
+				<Point>
+					<coordinates>-3.820149,43.451449,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 499 ">
+				<name>Cafetería Luzmela</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Cafeter%C3%ADa%20Luzmela.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Bar de pinchos and snacks inn in the city centre. Right in the most lively nightlife area of Santander.<br><br>
+<b>Address: </b> Calle de Hernán Cortés, 8, 39003, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" https://www.facebook.com/valentin.gonzalez.710">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_0203</styleUrl>
+				<Point>
+					<coordinates>-3.803647,43.462596,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 500 ">
+				<name>Las Hijas de Florencio</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Las%20Hijas%20de%20Florencio.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Bar de pinchos and snacks inn in the city centre. Right in the most lively nightlife area of Santander.<br><br>
+<b>Address: </b> Paseo de Pereda, 23, 39004, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.lashijasdeflorencio.com/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_0203</styleUrl>
+				<Point>
+					<coordinates>-3.80078,43.462243,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 504 ">
+				<name>Restaurante Tin</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Restaurante%20Tin.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Seafood kitchen specialist in the seafront.<br><br>
+<b>Address: </b> Monte, 39012, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="website - https://www.facebook.com/RestauranteTin/, address - Corbanera 96, La Maruca">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_0203</styleUrl>
+				<Point>
+					<coordinates>-3.83684,43.478681,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 505 ">
+				<name>Restaurante El Refugio del Pescador</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Restaurante%20El%20Refugio%20del%20Pescador.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Seafood kitchen specialist in the seafront.<br><br>
+<b>Address: </b> Monte, 39012, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.elrefugiodelpescador.es/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_0203</styleUrl>
+				<Point>
+					<coordinates>-3.837389,43.477647,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 506 ">
+				<name>Bodega La Conveniente</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Bodega%20La%20Conveniente.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional taberna in the city centre..<br><br>
+<b>Address: </b> Calle Gómez Ore?a, 9, 39003, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="https://www.facebook.com/pages/La-Conveniente/155303197849132">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_0203</styleUrl>
+				<Point>
+					<coordinates>-3.802394,43.4636,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 507 ">
+				<name>Mesón Rampalay</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Mes%C3%B3n%20Rampalay.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Rampalay Inn is located in the heart of the Cantabrian capital. It was opened on July 4, 1984 and since then serves as one of the typical places for good quality food in Santander. Traditional cuisine.<br><br>
+<b>Address: </b> Calle Daoiz y Velarde, 9, 39003, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.meson-rampalay-santander.com/es/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_0203</styleUrl>
+				<Point>
+					<coordinates>-3.802684000000001,43.463033,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 508 ">
+				<name>Mesón El Castellano</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Mes%C3%B3n%20El%20Castellano.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional taberna in the city centre. Traditional cuisine.<br><br>
+<b>Address: </b> Calle Burgos, 32, 39008, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.mesonelcastellano.es/es/contacto/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_0203</styleUrl>
+				<Point>
+					<coordinates>-3.816251,43.461239,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 509 ">
+				<name>Mesón Goya</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Mes%C3%B3n%20Goya.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional taberna in the city centre. Traditional cuisine.<br><br>
+<b>Address: </b> Calle Daoíz y Velarde, 25, 39003, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href="http://www.mesongoya.com/Mesongoya/Meson_Goya_Restaurante_Santander.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_0203</styleUrl>
+				<Point>
+					<coordinates>-3.800268,43.463244,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 510 ">
+				<name>Bodega La Montaña</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/microbusiness/Bodega%20La%20Monta%C3%B1a.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Traditional taberna in the city centre. Traditional cuisine.<br><br>
+<b>Address: </b>  Calle de San Fernando, 28, 39010, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.bodegalamontana.com/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_Restaurant_0_0_0203</styleUrl>
+				<Point>
+					<coordinates>-3.820892,43.460145,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

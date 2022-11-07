@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>lu_other.kml</name>
+	<Style id="sh_movies3">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.05</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/movies.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_movies3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_movies3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_movies3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_movies3">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/movies.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>lu_other</name>
+		<open>1</open>
+		<Folder>
+			<name>eventi</name>
+			<open>1</open>
+			<Placemark id=" 403 ">
+				<name>Weihnachtsmarkt</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/events/Weihnachtsmarkt.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Connected gardens in neo-classical and modern style with terraces, pergolas, water course and sculptures.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.luebeck-info.com/sehenswuerdigkeiten/buergergaerten_mehr.html">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_movies3</styleUrl>
+				<Point>
+					<coordinates>10.684633,53.866472,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 404 ">
+				<name>Sportstadion Buniamshof</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/events/SportstadionBuniamshof.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_movies3</styleUrl>
+				<Point>
+					<coordinates>10.681307,53.858412,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 405 ">
+				<name>Travemünde&apos;s Fishermen&apos;s festival</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/events/Travem%C3%BCndeFishermenfestival.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_movies3</styleUrl>
+				<Point>
+					<coordinates>10.862335,53.955123,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

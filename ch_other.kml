@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ch_other.kml</name>
+	<StyleMap id="msn_movies">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_movies</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_movies</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<Icon>
+				<href>http://www.cittaslow.org/template/standard/img_struct/Logo_CittaSlow2.gif</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_movies">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.05</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/movies.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_movies">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/movies.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>http://www.cittaslow.org/template/standard/img_struct/Logo_CittaSlow2.gif</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>ch_other</name>
+		<Folder>
+			<name>eventi</name>
+			<Placemark id=" 77 ">
+				<name>Pierpont golf-course</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/events/golf%20pierpont.png"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Beautifully embedded in historical countryside, just 15 minutes from Waterloo and Charleroi and 30 minutes from Brussels, lies this green haven of charm.<br><br>
+<b>Address: </b>Chemin Grand Piermont 1, 6210 Les Bons Villers<br>
+ 
+ 
+<b> </b><a href="http://www.pierpont.be/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#msn_movies</styleUrl>
+				<Point>
+					<coordinates>4.436475,50.551872,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>cittaslow</name>
+			<Placemark id=" 68 ">
+				<name>Enghien Cittaslow</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/cultural-resources/cittaslow%20enghien.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Enghien (Dutch: Edingen) is a Walloon municipality located in the Belgian province of Hainaut. On January 1, 2006 Enghien had a total population of 11,980. The total area is 40.59 km² which gives a population density of 295 inhabitants per km². The municipality comprises the city of Enghien, and the towns Marcq (Dutch: Mark) and Petit-Enghien. (Dutch: Lettelingen). It is situated on the language border in the country, and restricted language rights are granted to the Dutch speaking minority (so-called language facilities). Enghien gave its name to a French duchy and to the commune of Enghien-les-Bains, a suburb of Paris, due to a complex series of family successions: in 1487, Mary of Luxembourg (d. 1547), the only heir of Peter II of Luxembourg (d. 1482), Count of Saint-Pol-sur-Ternoise and member of one of the branches of the House of Luxembourg, married François de Bourbon-Vendôme (d. 1495), the great-grandfather of King Henry IV of France. Mary of Luxembourg brought as her dowry the fief of Condé-en-Brie (Aisne département, France) and the county of Enghien, among others. These fiefs passed to her grandson Louis I de Bourbon, Prince de Condé, uncle of King Henry IV of France, who started the line of the Princes of Condé, the famous cadet branch of the French royal family. In 1566, the county of Enghien was elevated to a duchy-peerage. However, the necessary registration process was not completed, so the title became extinct at the death of Louis I de Bourbon in 1569. In 1633, Henry II, Prince of Condé, grandson of Louis I de Bourbon, inherited the duchy of Montmorency, near Paris, after the execution of Henri II de Montmorency, brother of his wife Charlotte-Marguerite de Montmorency. In 1689, King Louis XIV allowed Henry III, Prince of Condé, grandson of Henry II, Prince of Condé, to rename the duchy of Montmorency as "duchy of Enghien", in memory of the duchy of Enghien which the Princes of Condé had lost in 1569 at the death of Louis I de Bourbon. The city of Montmorency, at the heart of the duchy, continued to be known as "Montmorency", despite the official name change, but the name "Enghien" stuck to the nearby lake and marshland that developed later as a spa resort and was incorporated as the commune of Enghien-les-Bains in the 19th century. Photo Source: Cittaslowinternational<br><br>
+ 
+ 
+ 
+<b> </b><a href="http://www.enghien.be/fr">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>4.042243,50.694494,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 69 ">
+				<name>Silly Cittaslow</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/cultural-resources/cittaslow%20silly.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Silly is the initiative district for Cittaslow in Belgium, it started up its venture with the bordering districts of Enghien and Lens in 2007. Each district introduced its dossier on the criteria for excellence and has obtained respectively: Silly: 81.57%, Enghien: 68.14% and Lens: 66.75%. They are carrying out projects and activities with a view to develop their evaluation for the criteria of excellence chosen. Photo Source: Cittaslowinternational.<br><br>
+ 
+ 
+ 
+<b> </b><a href="http://www.silly.be/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>3.923302,50.649297,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id=" 70 ">
+				<name>Lens Cittaslow</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/charleroislow/cultural-resources/cittaslow%20lens.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Lens  is a Walloon municipality located in the Belgian province of Hainaut. It is recognised as Cittaslow.<br><br>
+ 
+ 
+ 
+<b> </b><a href="http://www.cittaslow.org/network/country/20">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>3.900088,50.557759,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

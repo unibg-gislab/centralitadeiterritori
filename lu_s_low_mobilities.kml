@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>lu_s_low_mobilities.kml</name>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow-reverse.png</href>
+			</Icon>
+			<hotSpot x="54" y="42" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow-reverse.png</href>
+			</Icon>
+			<hotSpot x="54" y="42" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow-reverse.png</href>
+			</Icon>
+			<hotSpot x="54" y="42" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow-reverse.png</href>
+			</Icon>
+			<hotSpot x="54" y="42" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<Placemark id=" 395 ">
+		<name>Airport Lübeck</name>
+		<open>1</open>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/mobility/Airport%20L%C3%BCbeck.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>International airport with low-cost carriers.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.flughafen-luebeck.de/en/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin0</styleUrl>
+		<Point>
+			<coordinates>10.701585,53.8052,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 402 ">
+		<name>Kanu Zentrale</name>
+		<open>1</open>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/mobility/Kanu%20Zentrale.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Service for renting a canoe or kayak.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.kanu-zentrale.de/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin0</styleUrl>
+		<Point>
+			<coordinates>10.688037,53.854378,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 401 ">
+		<name>Bootsanleger</name>
+		<open>1</open>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/mobility/Bootsanleger.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Starting point for a sight-seeing tour by boat around the historic city center or to Travemünde.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.quandt-linie.de/content/view/22/8/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin0</styleUrl>
+		<Point>
+			<coordinates>10.680771,53.865334,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 400 ">
+		<name>Stadtverkehr Lübeck</name>
+		<open>1</open>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/mobility/Stadtverkehr%20L%C3%BCbeck.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The Stadtverkehr Lübeck GmbH (SL) and the Lübeck-Travemünder Verkehrsgesellschaft (LVG) organise the public transport in Lübeck and its surroundings as well as the Priwall-ferries.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.xn--sv-lbeck-95a.de/de/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin0</styleUrl>
+		<Point>
+			<coordinates>10.670997,53.865852,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 399 ">
+		<name>Statt Auto eG</name>
+		<open>1</open>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/mobility/Statt%20Auto%20eG.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Mobility service, where you can rent a car or share it with others.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.stattauto-hl.de/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin0</styleUrl>
+		<Point>
+			<coordinates>10.695448,53.86932199999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 398 ">
+		<name>Travemünde Port</name>
+		<open>1</open>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/mobility/travemunde.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Germany's largest Baltic port, trading mainly with Scandinavia.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.directferries.de/travemuende.htm">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin0</styleUrl>
+		<Point>
+			<coordinates>10.859685,53.94057800000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Folder>
+		<name>Cycling Routes</name>
+		<Placemark id=" 396 ">
+			<name>Bike and Tour</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/mobility/bikeandtours.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Service where you can rent a bike, the bikes can also be brought to your hostel or home.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.fahrrad-laden.info/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>10.687964,53.854355,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id=" 397 ">
+			<name>ADFC</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/luebeckslow/mobility/1-adfc.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>German bike club, which organises bicycle tours.<br><br>
+ 
+ 
+ 
+<b> </b><a href=" http://www.adfc-sh.de/htdocs/jo-sh/index.php/vor-ort/kreisverband-luebeck">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>10.695461,53.869225,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

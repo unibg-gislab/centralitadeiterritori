@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>sa_other</name>
+	<Style id="sn_movies">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/movies.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_movies">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_movies</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_movies</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_movies">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.05</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/movies.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>eventi</name>
+		<open>1</open>
+		<Placemark id=" 447 ">
+			<name>Ateneo de Santander</name>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/AteneoSantander.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>The Ateneo is a cultural association based in the city of Santander, in Cantabria (Spain), which inspired by their traditions, is devoted to the scientific, independent and impartial analysis of relevant aspects of culture, both in its historical and contemporary dimensions.<br><br>
+<b>Address: </b> Calle Gómez Oreña, 5-1°, 39003 Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" www.unican.es/">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+			<styleUrl>#msn_movies</styleUrl>
+			<Point>
+				<coordinates>-3.805337999999999,43.470696,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id=" 417 ">
+			<name>Ayuntamiento de Santander</name>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/AyuntamientoSantander.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Remarkable building. Santander Town Hall.<br><br>
+<b>Address: </b> Plaza Ayuntamiento, s/n, 39002 Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.uimp.es//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+			<styleUrl>#msn_movies</styleUrl>
+			<Point>
+				<coordinates>-3.766305,43.469145,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id=" 427 ">
+			<name>Edificio Banco Santander</name>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/BancoSantander.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Remarkable building. Santander Bank Headquarters.<br><br>
+<b>Address: </b> Paseo de Pereda, 9, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" www.medievalesartesanos.com//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+			<styleUrl>#msn_movies</styleUrl>
+			<Point>
+				<coordinates>-3.805673,43.460935,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id=" 413 ">
+			<name>Biblioteca Central de Cantabria</name>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/BibliotecaCentral.png"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Public library.<br><br>
+<b>Address: </b> Calle Ruiz de Alda, 19, 39009 Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://lasemanagrandedesantander.com//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+			<styleUrl>#msn_movies</styleUrl>
+			<Point>
+				<coordinates>-3.766699,43.469618,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id=" 412 ">
+			<name>Biblioteca Municipal de Santander</name>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/BibliotecaMunicipalSantander.png"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Public library.<br><br>
+<b>Address: </b> Calle Gravina, 4, 39001 Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://portal.ayto-santander.es/portal/page/portal/inet_santander/turismo/banos_ola//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+			<styleUrl>#msn_movies</styleUrl>
+			<Point>
+				<coordinates>-3.782562,43.472794,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id=" 435 ">
+			<name>Black Bird Culture i Music Club</name>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/santanderslow/cultural-resources/BlackBird.png"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Located in central Santander is this adaptable space for any type of event, especially concerts and jam sessions.<br><br>
+<b>Address: </b> Calle Vista Alegre ,13 bajo, 39001, Santander, Cantabria<br>
+ 
+ 
+<b> </b><a href=" http://www.festivalsantander.com//">Website</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+			<styleUrl>#msn_movies</styleUrl>
+			<Point>
+				<coordinates>-3.789575999999999,43.462383,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
